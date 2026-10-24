@@ -1,0 +1,2941 @@
+{
+ "version": "2026.10.24-50897e96da",
+ "generatedAt": "2026-10-24T06:23:56.674Z",
+ "contentHash": "50897e96da",
+ "schema": 1,
+ "merchants": [
+  {
+   "name": "蝦皮購物",
+   "aliases": [
+    "蝦皮"
+   ],
+   "domains": [
+    "shopee.tw"
+   ],
+   "region": "TW",
+   "channel": "online"
+  },
+  {
+   "name": "momo購物網",
+   "aliases": [
+    "momo",
+    "MOMO購物網",
+    "MOMO"
+   ],
+   "domains": [
+    "momoshop.com.tw"
+   ],
+   "region": "TW",
+   "channel": "online"
+  },
+  {
+   "name": "PChome 24h購物",
+   "aliases": [
+    "PChome",
+    "PChome線上購物"
+   ],
+   "domains": [
+    "24h.pchome.com.tw",
+    "pchome.com.tw"
+   ],
+   "region": "TW",
+   "channel": "online"
+  },
+  {
+   "name": "Coupang 酷澎",
+   "aliases": [
+    "酷澎",
+    "Coupang"
+   ],
+   "domains": [
+    "tw.coupang.com"
+   ],
+   "region": "TW",
+   "channel": "online"
+  },
+  {
+   "name": "淘寶／天貓",
+   "aliases": [
+    "淘寶",
+    "天貓"
+   ],
+   "domains": [
+    "taobao.com",
+    "tmall.com"
+   ],
+   "region": "TW",
+   "channel": "online"
+  },
+  {
+   "name": "Amazon",
+   "domains": [
+    "amazon.com",
+    "amazon.co.jp"
+   ],
+   "region": "OTHER",
+   "foreign": true,
+   "channel": "online"
+  },
+  {
+   "name": "東森購物",
+   "domains": [
+    "etmall.com.tw"
+   ],
+   "region": "TW",
+   "channel": "online"
+  },
+  {
+   "name": "博客來",
+   "domains": [
+    "books.com.tw"
+   ],
+   "region": "TW",
+   "channel": "online"
+  },
+  {
+   "name": "iHerb",
+   "domains": [
+    "iherb.com",
+    "tw.iherb.com"
+   ],
+   "region": "TW",
+   "channel": "online"
+  },
+  {
+   "name": "SHEIN",
+   "domains": [
+    "shein.com",
+    "shein.tw"
+   ],
+   "region": "TW",
+   "channel": "online"
+  },
+  {
+   "name": "Farfetch",
+   "domains": [
+    "farfetch.com"
+   ],
+   "region": "TW",
+   "channel": "online"
+  },
+  {
+   "name": "Olive Young",
+   "domains": [
+    "global.oliveyoung.com"
+   ],
+   "region": "TW",
+   "channel": "online"
+  },
+  {
+   "name": "PayEasy",
+   "domains": [
+    "payeasy.com.tw"
+   ],
+   "region": "TW",
+   "channel": "online"
+  },
+  {
+   "name": "Pinkoi",
+   "domains": [
+    "pinkoi.com"
+   ],
+   "region": "TW",
+   "channel": "online"
+  },
+  {
+   "name": "小樹購",
+   "domains": [
+    "cathaybk.com.tw"
+   ],
+   "region": "TW",
+   "channel": "online"
+  },
+  {
+   "name": "台塑購物網",
+   "domains": [
+    "fpcmall.com.tw"
+   ],
+   "region": "TW",
+   "channel": "online"
+  },
+  {
+   "name": "Agoda",
+   "domains": [
+    "agoda.com"
+   ],
+   "category": "hotel",
+   "channel": "online"
+  },
+  {
+   "name": "Booking.com",
+   "domains": [
+    "booking.com"
+   ],
+   "category": "hotel",
+   "channel": "online"
+  },
+  {
+   "name": "Airbnb",
+   "domains": [
+    "airbnb.com.tw",
+    "airbnb.com"
+   ],
+   "category": "hotel",
+   "channel": "online"
+  },
+  {
+   "name": "Trip.com",
+   "domains": [
+    "trip.com"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "Klook",
+   "domains": [
+    "klook.com"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "Klook（日本指定商品）",
+   "parent": "Klook",
+   "channel": "online"
+  },
+  {
+   "name": "KKday",
+   "domains": [
+    "kkday.com"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "Hotels.com",
+   "domains": [
+    "hotels.com"
+   ],
+   "category": "hotel",
+   "channel": "online"
+  },
+  {
+   "name": "Expedia",
+   "domains": [
+    "expedia.com.tw",
+    "expedia.com"
+   ],
+   "category": "hotel",
+   "channel": "online"
+  },
+  {
+   "name": "ezTravel易遊網",
+   "aliases": [
+    "易遊網"
+   ],
+   "domains": [
+    "eztravel.com.tw"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "雄獅旅遊",
+   "domains": [
+    "liontravel.com"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "可樂旅遊",
+   "domains": [
+    "colatour.com.tw"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "東南旅遊",
+   "domains": [
+    "settour.com.tw"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "Ezfly易飛網",
+   "aliases": [
+    "易飛旅遊"
+   ],
+   "domains": [
+    "ezfly.com"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "中華航空",
+   "domains": [
+    "china-airlines.com"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "長榮航空",
+   "domains": [
+    "evaair.com"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "星宇航空",
+   "domains": [
+    "starlux-airlines.com"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "台灣虎航",
+   "domains": [
+    "tigerairtw.com"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "國泰航空",
+   "domains": [
+    "cathaypacific.com"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "樂桃航空",
+   "domains": [
+    "flypeach.com"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "日本航空",
+   "domains": [
+    "jal.co.jp"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "ANA全日空",
+   "domains": [
+    "ana.co.jp"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "台灣高鐵",
+   "aliases": [
+    "高鐵"
+   ],
+   "domains": [
+    "thsrc.com.tw",
+    "irs.thsrc.com.tw"
+   ],
+   "region": "TW"
+  },
+  {
+   "name": "臺鐵",
+   "aliases": [
+    "台鐵"
+   ],
+   "domains": [
+    "railway.gov.tw"
+   ],
+   "region": "TW"
+  },
+  {
+   "name": "Uber",
+   "domains": [
+    "m.uber.com"
+   ]
+  },
+  {
+   "name": "Apple錢包交通卡（Suica／PASMO／ICOCA）",
+   "aliases": [
+    "SUICA",
+    "ICOCA",
+    "PASMO"
+   ],
+   "region": "JP"
+  },
+  {
+   "name": "Uber Eats",
+   "domains": [
+    "ubereats.com"
+   ],
+   "region": "TW",
+   "category": "dining",
+   "channel": "online"
+  },
+  {
+   "name": "foodpanda",
+   "aliases": [
+    "Foodpanda"
+   ],
+   "domains": [
+    "foodpanda.com.tw"
+   ],
+   "region": "TW",
+   "category": "dining",
+   "channel": "online"
+  },
+  {
+   "name": "台灣壽司郎",
+   "domains": [
+    "sushiro.com.tw"
+   ],
+   "region": "TW",
+   "category": "dining",
+   "channel": "physical"
+  },
+  {
+   "name": "麥當勞",
+   "domains": [
+    "mcdonalds.com.tw"
+   ],
+   "region": "TW",
+   "category": "dining",
+   "channel": "physical"
+  },
+  {
+   "name": "FunNow",
+   "domains": [
+    "myfunnow.com",
+    "funnow.com.tw"
+   ],
+   "region": "TW",
+   "channel": "online"
+  },
+  {
+   "name": "海底撈",
+   "region": "TW",
+   "category": "dining",
+   "channel": "physical"
+  },
+  {
+   "name": "屋馬燒肉",
+   "region": "TW",
+   "category": "dining",
+   "channel": "physical"
+  },
+  {
+   "name": "茶六燒肉堂",
+   "region": "TW",
+   "category": "dining",
+   "channel": "physical"
+  },
+  {
+   "name": "詹記麻辣火鍋",
+   "region": "TW",
+   "category": "dining",
+   "channel": "physical"
+  },
+  {
+   "name": "雞湯大叔",
+   "region": "TW",
+   "category": "dining",
+   "channel": "physical"
+  },
+  {
+   "name": "50嵐",
+   "region": "TW",
+   "category": "micropay",
+   "channel": "physical"
+  },
+  {
+   "name": "Netflix",
+   "domains": [
+    "netflix.com"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "Spotify",
+   "domains": [
+    "spotify.com"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "Disney+",
+   "domains": [
+    "disneyplus.com"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "ChatGPT",
+   "domains": [
+    "chatgpt.com",
+    "openai.com"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "Claude",
+   "domains": [
+    "claude.ai"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "Canva",
+   "domains": [
+    "canva.com"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "Cursor",
+   "domains": [
+    "cursor.com"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "Notion",
+   "domains": [
+    "notion.so",
+    "notion.com"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "Perplexity",
+   "domains": [
+    "perplexity.ai"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "Duolingo",
+   "domains": [
+    "duolingo.com"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "Gamma",
+   "domains": [
+    "gamma.app"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "Gemini",
+   "domains": [
+    "gemini.google.com"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "Steam",
+   "domains": [
+    "store.steampowered.com"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "PlayStation",
+   "domains": [
+    "store.playstation.com"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "Nintendo",
+   "domains": [
+    "nintendo.com"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "Hahow",
+   "domains": [
+    "hahow.in"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "KKTIX",
+   "domains": [
+    "kktix.com"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "拓元售票",
+   "domains": [
+    "tixcraft.com"
+   ],
+   "channel": "online",
+   "aliases": [
+    "tixCraft拓元",
+    "tixCraft"
+   ]
+  },
+  {
+   "name": "MyCard",
+   "domains": [
+    "mycard520.com.tw"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "巴哈姆特動畫瘋",
+   "aliases": [
+    "巴哈姆特"
+   ],
+   "domains": [
+    "ani.gamer.com.tw"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "全聯福利中心",
+   "aliases": [
+    "全聯"
+   ],
+   "domains": [
+    "pxmart.com.tw"
+   ],
+   "region": "TW",
+   "category": "supermarket",
+   "channel": "physical"
+  },
+  {
+   "name": "大全聯",
+   "region": "TW",
+   "category": "supermarket",
+   "channel": "physical"
+  },
+  {
+   "name": "7-ELEVEN",
+   "aliases": [
+    "7-11"
+   ],
+   "domains": [
+    "7-11.com.tw"
+   ],
+   "region": "TW",
+   "category": "convenience",
+   "channel": "physical"
+  },
+  {
+   "name": "全家便利商店",
+   "aliases": [
+    "全家"
+   ],
+   "domains": [
+    "family.com.tw"
+   ],
+   "region": "TW",
+   "category": "convenience",
+   "channel": "physical"
+  },
+  {
+   "name": "萊爾富",
+   "region": "TW",
+   "category": "convenience",
+   "channel": "physical"
+  },
+  {
+   "name": "DON DON DONKI",
+   "aliases": [
+    "唐吉訶德"
+   ],
+   "region": "TW",
+   "channel": "physical"
+  },
+  {
+   "name": "LOPIA台灣",
+   "aliases": [
+    "LOPIA"
+   ],
+   "region": "TW",
+   "channel": "physical"
+  },
+  {
+   "name": "IKEA宜家家居",
+   "aliases": [
+    "IKEA"
+   ],
+   "domains": [
+    "ikea.com.tw",
+    "ikea.com"
+   ],
+   "region": "TW"
+  },
+  {
+   "name": "UNIQLO",
+   "domains": [
+    "uniqlo.com"
+   ],
+   "region": "TW"
+  },
+  {
+   "name": "GU",
+   "domains": [
+    "gu-global.com"
+   ],
+   "region": "TW"
+  },
+  {
+   "name": "ZARA",
+   "domains": [
+    "zara.com"
+   ],
+   "region": "TW"
+  },
+  {
+   "name": "lululemon",
+   "domains": [
+    "lululemon.com.tw",
+    "shop.lululemon.com"
+   ],
+   "region": "TW"
+  },
+  {
+   "name": "Nike",
+   "domains": [
+    "nike.com"
+   ],
+   "region": "TW",
+   "channel": "online"
+  },
+  {
+   "name": "Adidas",
+   "domains": [
+    "adidas.com.tw"
+   ],
+   "region": "TW",
+   "channel": "online"
+  },
+  {
+   "name": "新光三越",
+   "domains": [
+    "skm.com.tw"
+   ],
+   "region": "TW",
+   "channel": "physical"
+  },
+  {
+   "name": "遠東SOGO百貨",
+   "aliases": [
+    "遠東SOGO",
+    "SOGO"
+   ],
+   "domains": [
+    "sogo.com.tw"
+   ],
+   "region": "TW",
+   "channel": "physical"
+  },
+  {
+   "name": "MITSUI OUTLET PARK",
+   "region": "TW",
+   "channel": "physical"
+  },
+  {
+   "name": "康是美",
+   "domains": [
+    "cosmed.com.tw"
+   ],
+   "region": "TW"
+  },
+  {
+   "name": "屈臣氏",
+   "domains": [
+    "watsons.com.tw"
+   ],
+   "region": "TW"
+  },
+  {
+   "name": "寶雅",
+   "domains": [
+    "poya.com.tw"
+   ],
+   "region": "TW"
+  },
+  {
+   "name": "台灣中油直營站",
+   "aliases": [
+    "中油直營"
+   ],
+   "region": "TW",
+   "channel": "physical"
+  },
+  {
+   "name": "車麻吉",
+   "aliases": [
+    "Autopass",
+    "Autopass(車麻吉)"
+   ],
+   "region": "TW"
+  },
+  {
+   "name": "EVOASIS",
+   "aliases": [
+    "源點EVOASIS"
+   ],
+   "region": "TW"
+  },
+  {
+   "name": "EVALUE",
+   "aliases": [
+    "華城電能EVALUE"
+   ],
+   "region": "TW"
+  },
+  {
+   "name": "國內各大壽險／產險公司保費",
+   "aliases": [
+    "保費"
+   ],
+   "region": "TW",
+   "category": "insurance"
+  },
+  {
+   "name": "CatchPlay",
+   "domains": [
+    "catchplay.com"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "LINE TV",
+   "domains": [
+    "linetv.tw"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "KKTV",
+   "domains": [
+    "kktv.me"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "KKBOX",
+   "domains": [
+    "kkbox.com"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "Blizzard",
+   "domains": [
+    "blizzard.com"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "Garena",
+   "domains": [
+    "garena.tw"
+   ],
+   "channel": "online"
+  }
+ ],
+ "cards": [
+  {
+   "id": "cathay-cube",
+   "name": "CUBE 卡",
+   "issuer": "國泰世華",
+   "source": {
+    "url": "https://www.cathaybk.com.tw/cathaybk/personal/product/credit-card/cards/cube-list/",
+    "capturedAt": "2026-10-17"
+   },
+   "notes": [
+    "指定回饋已含一般回饋 0.3%（stacking: max）",
+    "ASSUMPTION：fxFee 為假設值 1.5%，以約定條款為準",
+    "ASSUMPTION：慶生月 requires.birthdayMonth 為推定：限生日當月",
+    "ASSUMPTION：固定回饋方案的切換限制官網未寫明"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "planSwitch": "每日一次，以授權日的方案計算",
+   "switchApp": "CUBE App",
+   "levelRates": {
+    "1": 0.02,
+    "2": 0.03,
+    "3": 0.033
+   },
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay",
+    "garminpay"
+   ],
+   "base": {
+    "rate": 0.003,
+    "installmentRate": 0.003,
+    "excludedCategories": [
+     "convenience",
+     "micropay",
+     "excluded"
+    ],
+    "excludedMerchants": [
+     "全聯福利中心",
+     "大全聯"
+    ]
+   },
+   "plans": [
+    {
+     "id": "autumn",
+     "name": "秋日遊",
+     "validFrom": "2026-10-01",
+     "validTo": "2026-11-30",
+     "rules": [
+      {
+       "rate": 0.035,
+       "match": {
+        "region": "JP",
+        "channel": "physical"
+       },
+       "id": "autumn-jp-physical",
+       "label": "日本實體消費",
+       "warn": "不含百貨商場內店中櫃、快閃店、禮品卡與線上購物"
+      },
+      {
+       "rate": 0.035,
+       "match": {
+        "merchants": [
+         "愛電王",
+         "大丸百貨福岡天神店",
+         "BicCamera",
+         "台場DiverCity Tokyo Plaza"
+        ],
+        "region": "JP",
+        "channel": "physical"
+       },
+       "id": "autumn-jp-35"
+      },
+      {
+       "rate": 0.035,
+       "match": {
+        "merchants": [
+         "MITSUI OUTLET PARK"
+        ],
+        "region": "JP",
+        "channel": "physical"
+       },
+       "id": "autumn-jp-mitsui"
+      },
+      {
+       "rate": 0.035,
+       "match": {
+        "merchants": [
+         "Apple錢包交通卡（Suica／PASMO／ICOCA）"
+        ],
+        "region": "JP"
+       },
+       "id": "autumn-ic",
+       "payments": [
+        "applepay"
+       ]
+      },
+      {
+       "rate": 0.035,
+       "match": {
+        "merchants": [
+         "GO Taxi"
+        ],
+        "region": "JP"
+       },
+       "id": "autumn-gotaxi"
+      },
+      {
+       "rate": 0.04,
+       "match": {
+        "merchants": [
+         "成田機場指定免稅店",
+         "關西機場指定免稅店",
+         "新千歲機場免稅店",
+         "福岡機場免稅店"
+        ],
+        "region": "JP",
+        "channel": "physical"
+       },
+       "id": "autumn-dutyfree"
+      },
+      {
+       "rate": 0.05,
+       "match": {
+        "merchants": [
+         "寶可夢中心",
+         "SANRIO 三麗鷗",
+         "KIDDY LAND",
+         "UNIQLO",
+         "Alpen GROUP",
+         "ABC-MART",
+         "Loft",
+         "3COINS"
+        ],
+        "region": "JP",
+        "channel": "physical",
+        "notInMall": true
+       },
+       "id": "autumn-jp-5",
+       "warn": "限日本指定門市，不含百貨、商場內門市與快閃店"
+      },
+      {
+       "rate": 0.05,
+       "match": {
+        "merchants": [
+         "Tabelog",
+         "TableCheck",
+         "OMAKASE"
+        ]
+       },
+       "id": "autumn-jp-booking",
+       "warn": "只回饋在平台實際付款的部分，現場付的餐費不算"
+      },
+      {
+       "rate": 0.05,
+       "match": {
+        "merchants": [
+         "Klook（日本指定商品）",
+         "Hotels.com",
+         "Expedia"
+        ]
+       },
+       "id": "autumn-travel-5",
+       "warn": "Hotels.com、Expedia 限 CUBE 專屬網頁訂房；先訂後付或到店付款時，以實際授權日的方案計算，扣款當天要切到此方案"
+      },
+      {
+       "rate": 0.035,
+       "match": {
+        "merchants": [
+         "國泰航空",
+         "台灣虎航",
+         "Agoda",
+         "KKday",
+         "ezTravel易遊網",
+         "可樂旅遊",
+         "東南旅遊",
+         "Club Med"
+        ]
+       },
+       "id": "autumn-travel-35",
+       "warn": "先訂後付或到店付款時，以實際授權日的方案計算，扣款當天要切到此方案；航空限官網、App、臨櫃購票"
+      },
+      {
+       "rate": 0.03,
+       "match": {
+        "merchants": [
+         "Trip.com",
+         "Klook"
+        ]
+       },
+       "id": "autumn-travel-3",
+       "warn": "先訂後付或到店付款時，以實際授權日的方案計算，扣款當天要切到此方案"
+      },
+      {
+       "rate": 0.05,
+       "match": {
+        "merchants": [
+         "JR東日本大飯店 台北",
+         "礁溪寒沐酒店",
+         "索拉利亞西鐵飯店台北西門",
+         "台北大倉久和大飯店",
+         "日勝生加賀屋國際溫泉飯店"
+        ],
+        "region": "TW"
+       },
+       "id": "autumn-tw-hotel",
+       "warn": "透過訂房平台付款不算，要以飯店名稱請款"
+      },
+      {
+       "rate": 0.08,
+       "match": {
+        "merchants": [
+         "HANDS 台隆手創館 南港Lalaport店"
+        ],
+        "region": "TW"
+       },
+       "id": "autumn-tw-8"
+      },
+      {
+       "rate": 0.05,
+       "match": {
+        "merchants": [
+         "明曜百貨",
+         "DON DON DONKI",
+         "Xpark"
+        ],
+        "region": "TW"
+       },
+       "id": "autumn-tw-5",
+       "warn": "回饋依刷卡簽單上的特約商店名稱認定，不是發票上的名稱"
+      },
+      {
+       "rate": 0.05,
+       "match": {
+        "merchants": [
+         "UNITED ARROWS 官方購物網站"
+        ],
+        "region": "TW",
+        "channel": "online"
+       },
+       "id": "autumn-ua",
+       "payments": [
+        "card"
+       ],
+       "warn": "限官網輸入 CUBE 卡號付款"
+      },
+      {
+       "rate": 0.035,
+       "match": {
+        "merchants": [
+         "遠東SOGO百貨",
+         "日藥本舖"
+        ],
+        "region": "TW"
+       },
+       "id": "autumn-tw-35",
+       "warn": "百貨以簽單特店名稱認定，店中櫃不算"
+      },
+      {
+       "rate": 0.03,
+       "match": {
+        "merchants": [
+         "UNIQLO",
+         "GU"
+        ],
+        "region": "TW"
+       },
+       "id": "autumn-uniqlo-tw",
+       "warn": "線上限輸入 CUBE 卡號；百貨商場內門市不算"
+      },
+      {
+       "rate": 0.03,
+       "match": {
+        "merchants": [
+         "MITSUI OUTLET PARK",
+         "Mitsui Shopping Park LaLaport"
+        ],
+        "region": "TW"
+       },
+       "id": "autumn-tw-mall",
+       "warn": "回饋依刷卡簽單上的特約商店名稱認定，不是發票上的名稱"
+      },
+      {
+       "rate": 0.08,
+       "match": {
+        "merchants": [
+         "橘色涮涮屋",
+         "Extension 1 by橘色",
+         "雞湯桑",
+         "朝炭",
+         "初魚鮨",
+         "初魚 鉄板料亭",
+         "作 天麩羅．割烹",
+         "濟安鮨",
+         "侍燒肉",
+         "梵燒肉",
+         "元一天婦羅",
+         "鳥苑",
+         "燒鳥すみか",
+         "山崎",
+         "成蔵"
+        ],
+        "region": "TW",
+        "notInMall": true
+       },
+       "id": "autumn-dine-8",
+       "warn": "不適用 inline 訂位付款或外帶"
+      },
+      {
+       "rate": 0.05,
+       "match": {
+        "merchants": [
+         "爭鮮迴轉壽司",
+         "爭鮮PLUS",
+         "錢都日式涮涮鍋",
+         "客美多咖啡",
+         "すき家 SUKIYA",
+         "必勝客"
+        ],
+        "region": "TW",
+        "notInMall": true
+       },
+       "id": "autumn-dine-5",
+       "warn": "不適用 inline 訂位付款或外帶"
+      },
+      {
+       "rate": 0.035,
+       "match": {
+        "merchants": [
+         "摩斯漢堡",
+         "台灣壽司郎"
+        ],
+        "region": "TW",
+        "notInMall": true
+       },
+       "id": "autumn-dine-35",
+       "warn": "不適用 inline 訂位付款或外帶"
+      }
+     ]
+    },
+    {
+     "id": "fpg",
+     "name": "台塑家",
+     "validFrom": "2026-06-01",
+     "validTo": "2026-12-31",
+     "rules": [
+      {
+       "rate": 0.02,
+       "match": {
+        "merchants": [
+         "台塑石油加油站",
+         "台亞加油站",
+         "福懋加油站",
+         "統一速邁樂加油站"
+        ],
+        "region": "TW",
+        "channel": "physical"
+       },
+       "id": "fpg-gas",
+       "payments": [
+        "card",
+        "applepay",
+        "samsungpay",
+        "googlepay",
+        "fpcpay",
+        "garminpay"
+       ],
+       "warn": "排除儲值與網路交易"
+      },
+      {
+       "rate": 0.02,
+       "match": {
+        "merchants": [
+         "台塑生醫",
+         "長庚生技",
+         "台塑蔬菜",
+         "台塑購物網"
+        ],
+        "region": "TW"
+       },
+       "id": "fpg-health",
+       "warn": "回饋依刷卡簽單上的特約商店名稱認定，不是發票上的名稱"
+      },
+      {
+       "rate": 0.02,
+       "match": {
+        "merchants": [
+         "7-ELEVEN",
+         "全家便利商店",
+         "萊爾富"
+        ],
+        "region": "TW",
+        "channel": "physical"
+       },
+       "id": "fpg-cvs"
+      }
+     ]
+    },
+    {
+     "id": "pxplus",
+     "name": "全支付",
+     "validFrom": "2026-04-22",
+     "validTo": "2026-12-31",
+     "payments": [
+      "pxplus"
+     ],
+     "rules": [
+      {
+       "rate": 0.02,
+       "match": {
+        "merchants": [
+         "全聯福利中心",
+         "大全聯"
+        ]
+       },
+       "id": "pxplus-px"
+      },
+      {
+       "rate": 0.02,
+       "match": {
+        "categories": [
+         "__any__"
+        ],
+        "region": "TW"
+       },
+       "id": "pxplus-partner",
+       "label": "全支付國內合作通路",
+       "warn": "需確認店家是否為全支付合作通路；繳稅費、儲值、菸酒等不算"
+      }
+     ]
+    },
+    {
+     "id": "digital",
+     "name": "玩數位",
+     "validFrom": "2026-01-01",
+     "validTo": "2026-12-31",
+     "rules": [
+      {
+       "rate": "LEVEL",
+       "match": {
+        "merchants": [
+         "ChatGPT",
+         "Canva",
+         "Claude",
+         "Cursor",
+         "Duolingo",
+         "Gamma",
+         "Gemini",
+         "Notion",
+         "Perplexity",
+         "Speak"
+        ]
+       },
+       "id": "digital-ai"
+      },
+      {
+       "rate": "LEVEL",
+       "match": {
+        "merchants": [
+         "Apple 媒體服務",
+         "Google Play",
+         "Disney+",
+         "Netflix",
+         "Spotify",
+         "YouTube Premium",
+         "Max"
+        ]
+       },
+       "id": "digital-stream"
+      },
+      {
+       "rate": "LEVEL",
+       "match": {
+        "merchants": [
+         "蝦皮購物",
+         "momo購物網",
+         "PChome 24h購物",
+         "小樹購"
+        ]
+       },
+       "id": "digital-shop",
+       "warn": "不含儲值與電子票券"
+      },
+      {
+       "rate": "LEVEL",
+       "match": {
+        "merchants": [
+         "Coupang 酷澎",
+         "淘寶／天貓"
+        ]
+       },
+       "id": "digital-intl"
+      }
+     ]
+    },
+    {
+     "id": "dining",
+     "name": "樂饗購",
+     "validFrom": "2026-01-01",
+     "validTo": "2026-12-31",
+     "rules": [
+      {
+       "rate": "LEVEL",
+       "match": {
+        "merchants": [
+         "遠東SOGO百貨",
+         "遠東Garden City",
+         "新光三越",
+         "遠東百貨",
+         "台北101",
+         "BELLAVITA",
+         "微風廣場",
+         "統一時代台北店",
+         "誠品生活",
+         "ATT 4 FUN",
+         "京站",
+         "美麗華",
+         "NOKE忠泰樂生活",
+         "大葉高島屋",
+         "Mitsui Shopping Park LaLaport",
+         "宏匯廣場",
+         "台茂購物中心",
+         "大江國際購物中心",
+         "Big City遠東巨城",
+         "中友百貨",
+         "廣三SOGO",
+         "南紡購物中心",
+         "耐斯廣場",
+         "夢時代",
+         "漢神百貨",
+         "漢神巨蛋",
+         "新月廣場",
+         "CITYLINK",
+         "秀泰生活",
+         "環球購物中心",
+         "太平洋百貨",
+         "華泰名品城",
+         "SKM Park",
+         "MITSUI OUTLET PARK"
+        ],
+        "region": "TW"
+       },
+       "id": "dining-dept",
+       "warn": "以簽單特店名稱認定，店中櫃（UNIQLO、無印良品等）不算"
+      },
+      {
+       "rate": "LEVEL",
+       "match": {
+        "merchants": [
+         "Uber Eats",
+         "foodpanda"
+        ]
+       },
+       "id": "dining-delivery"
+      },
+      {
+       "rate": "LEVEL",
+       "match": {
+        "categories": [
+         "dining",
+         "micropay"
+        ],
+        "region": "TW"
+       },
+       "id": "dining-tw",
+       "label": "國內餐飲",
+       "warn": "不含餐券"
+      },
+      {
+       "rate": "LEVEL",
+       "match": {
+        "merchants": [
+         "麥當勞"
+        ]
+       },
+       "id": "dining-mcd"
+      },
+      {
+       "rate": "LEVEL",
+       "match": {
+        "merchants": [
+         "康是美",
+         "屈臣氏"
+        ],
+        "region": "TW"
+       },
+       "id": "dining-drug"
+      }
+     ]
+    },
+    {
+     "id": "travel",
+     "name": "趣旅行",
+     "validFrom": "2026-01-01",
+     "validTo": "2026-12-31",
+     "rules": [
+      {
+       "rate": "LEVEL",
+       "match": {
+        "region": "FOREIGN",
+        "channel": "physical"
+       },
+       "id": "travel-overseas",
+       "label": "海外實體消費",
+       "warn": "海外網購不算"
+      },
+      {
+       "rate": "LEVEL",
+       "match": {
+        "merchants": [
+         "東京迪士尼樂園",
+         "東京華納兄弟哈利波特影城",
+         "大阪環球影城(USJ)"
+        ]
+       },
+       "id": "travel-jp-park"
+      },
+      {
+       "rate": "LEVEL",
+       "match": {
+        "merchants": [
+         "Apple錢包交通卡（Suica／PASMO／ICOCA）",
+         "Uber",
+         "Grab",
+         "台灣高鐵",
+         "yoxi",
+         "台灣大車隊",
+         "iRent",
+         "和運租車",
+         "格上租車"
+        ]
+       },
+       "id": "travel-transit",
+       "warn": "叫車限短程，不含機場接送、長租等"
+      },
+      {
+       "rate": "LEVEL",
+       "match": {
+        "merchants": [
+         "中華航空",
+         "長榮航空",
+         "星宇航空",
+         "台灣虎航",
+         "國泰航空",
+         "樂桃航空",
+         "阿聯酋航空",
+         "酷航",
+         "捷星航空",
+         "日本航空",
+         "ANA全日空",
+         "亞洲航空",
+         "聯合航空",
+         "新加坡航空",
+         "越捷航空",
+         "大韓航空",
+         "達美航空",
+         "土耳其航空",
+         "卡達航空",
+         "法國航空"
+        ]
+       },
+       "id": "travel-air",
+       "warn": "限航空公司官網、App、臨櫃購票，旅行社或訂票平台不算"
+      },
+      {
+       "rate": "LEVEL",
+       "match": {
+        "categories": [
+         "hotel"
+        ],
+        "region": "TW"
+       },
+       "id": "travel-tw-hotel",
+       "label": "國內飯店住宿",
+       "warn": "限飯店臨櫃或官網付款，訂房平台另依平台規則"
+      },
+      {
+       "rate": "LEVEL",
+       "match": {
+        "merchants": [
+         "星野集團",
+         "全球迪士尼飯店",
+         "東橫INN"
+        ]
+       },
+       "id": "travel-hotel-group",
+       "warn": "限飯店官網或臨櫃付款"
+      },
+      {
+       "rate": "LEVEL",
+       "match": {
+        "merchants": [
+         "KKday",
+         "Klook",
+         "Agoda",
+         "Airbnb",
+         "Booking.com",
+         "Trip.com",
+         "ezTravel易遊網"
+        ]
+       },
+       "id": "travel-ota",
+       "warn": "先訂後付或到店付款時，以實際授權日的方案計算，扣款當天要切到此方案；海外平台可能延遲授權，建議多保留幾天"
+      },
+      {
+       "rate": "LEVEL",
+       "match": {
+        "merchants": [
+         "雄獅旅遊",
+         "可樂旅遊",
+         "東南旅遊",
+         "五福旅遊",
+         "燦星旅遊",
+         "山富旅遊",
+         "長汎假期",
+         "鳳凰旅行社",
+         "Ezfly易飛網",
+         "理想旅遊",
+         "永利旅行社",
+         "三賀旅行社"
+        ]
+       },
+       "id": "travel-agency",
+       "warn": "限直營門市，加盟店不算"
+      }
+     ]
+    },
+    {
+     "id": "select",
+     "name": "集精選",
+     "validFrom": "2026-01-01",
+     "validTo": "2026-12-31",
+     "rules": [
+      {
+       "rate": 0.02,
+       "match": {
+        "merchants": [
+         "U-POWER",
+         "EVOASIS",
+         "EVALUE",
+         "TAIL",
+         "iCharging"
+        ]
+       },
+       "id": "select-ev",
+       "gateways": [
+        "ecpay",
+        "newebpay"
+       ]
+      },
+      {
+       "rate": 0.02,
+       "match": {
+        "merchants": [
+         "車麻吉",
+         "uTagGo"
+        ]
+       },
+       "id": "select-parking",
+       "warn": "車麻吉不含加油、充電；uTagGo 不含月租"
+      },
+      {
+       "rate": 0.02,
+       "match": {
+        "merchants": [
+         "萬家福",
+         "LOPIA台灣"
+        ]
+       },
+       "id": "select-market"
+      },
+      {
+       "rate": 0.02,
+       "match": {
+        "merchants": [
+         "全聯福利中心"
+        ],
+        "channel": "physical"
+       },
+       "id": "select-px",
+       "payments": [
+        "card",
+        "applepay",
+        "googlepay",
+        "samsungpay",
+        "garminpay",
+        "pxpay"
+       ],
+       "warn": "不含大全聯"
+      },
+      {
+       "rate": 0.02,
+       "match": {
+        "merchants": [
+         "台灣中油直營站"
+        ],
+        "channel": "physical"
+       },
+       "id": "select-cpc"
+      },
+      {
+       "rate": 0.02,
+       "match": {
+        "merchants": [
+         "7-ELEVEN",
+         "全家便利商店"
+        ],
+        "channel": "physical"
+       },
+       "id": "select-cvs",
+       "payments": [
+        "card",
+        "applepay",
+        "googlepay",
+        "samsungpay",
+        "garminpay",
+        "openwallet",
+        "myfamipay"
+       ]
+      },
+      {
+       "rate": 0.02,
+       "match": {
+        "merchants": [
+         "IKEA宜家家居"
+        ]
+       },
+       "id": "select-ikea"
+      }
+     ]
+    },
+    {
+     "id": "flat",
+     "name": "固定回饋",
+     "validFrom": "2026-08-03",
+     "validTo": "2026-12-31",
+     "warn": "官網提到此方案有另外的切換規定，頁面未寫明，建議確認",
+     "rules": [
+      {
+       "rate": 0.012,
+       "match": {
+        "categories": [
+         "__general__"
+        ]
+       },
+       "id": "flat-general",
+       "label": "一般消費",
+       "payments": "any"
+      },
+      {
+       "rate": 0.025,
+       "match": {
+        "region": "FOREIGN",
+        "channel": "physical"
+       },
+       "id": "flat-overseas",
+       "label": "海外實體消費",
+       "payments": "any"
+      }
+     ]
+    },
+    {
+     "id": "birthday",
+     "name": "慶生月",
+     "validFrom": "2026-10-01",
+     "validTo": "2026-12-31",
+     "requires": {
+      "birthdayMonth": true
+     },
+     "rules": [
+      {
+       "rate": 0.1,
+       "match": {
+        "merchants": [
+         "大腕燒肉",
+         "茶六燒肉堂",
+         "老井極上燒肉",
+         "屋馬燒肉",
+         "鼎王麻辣鍋",
+         "無老鍋",
+         "老四川巴蜀麻辣燙",
+         "詹記麻辣火鍋",
+         "青沐",
+         "所 SUO",
+         "嵩 sung",
+         "JAI 宅",
+         "新東南海鮮餐廳",
+         "龍都酒樓",
+         "吉品海鮮餐廳",
+         "老新台菜",
+         "輕井澤鍋物",
+         "湯棧",
+         "Hābu小餐館",
+         "空盤 KOMBOI",
+         "野驢小餐館",
+         "肉料理福",
+         "台灣壽司郎",
+         "UNCLE SHAWN 燒肉餐酒館",
+         "UNCLE RAY 台中店",
+         "蜀叔麻辣鍋 台北店",
+         "Pastaio",
+         "小方舟串燒酒場",
+         "毛丼",
+         "毛房蔥柚鍋",
+         "毛蔬亞洲蔬食",
+         "法國的秘密甜點",
+         "法朋烘焙甜點坊",
+         "Miss V Bakery",
+         "興波咖啡"
+        ],
+        "region": "TW",
+        "notInMall": true
+       },
+       "id": "bday-dine",
+       "warn": "回饋依刷卡簽單上的特約商店名稱認定，不是發票上的名稱；不適用 inline 訂位付款或外帶"
+      },
+      {
+       "rate": 0.1,
+       "match": {
+        "merchants": [
+         "東京迪士尼樂園",
+         "大阪環球影城(USJ)"
+        ],
+        "channel": "physical"
+       },
+       "id": "bday-park"
+      },
+      {
+       "rate": 0.1,
+       "match": {
+        "merchants": [
+         "PlayStation",
+         "Nintendo",
+         "巴哈姆特動畫瘋"
+        ]
+       },
+       "id": "bday-game"
+      },
+      {
+       "rate": 0.035,
+       "match": {
+        "merchants": [
+         "Klook"
+        ]
+       },
+       "id": "bday-klook"
+      },
+      {
+       "rate": 0.1,
+       "match": {
+        "merchants": [
+         "錢櫃KTV",
+         "好樂迪KTV",
+         "星聚點KTV",
+         "享溫馨KTV"
+        ]
+       },
+       "id": "bday-ktv"
+      },
+      {
+       "rate": 0.05,
+       "match": {
+        "merchants": [
+         "FunNow"
+        ]
+       },
+       "id": "bday-funnow"
+      },
+      {
+       "rate": 0.035,
+       "match": {
+        "merchants": [
+         "新光三越",
+         "Uber Eats"
+        ]
+       },
+       "id": "bday-35",
+       "warn": "新光三越不含高雄草衙 SKM Park Outlets"
+      }
+     ]
+    },
+    {
+     "id": "kids",
+     "name": "童樂匯",
+     "validFrom": "2026-07-01",
+     "validTo": "2026-12-31",
+     "requires": {
+      "unlock": "kids"
+     },
+     "rules": [
+      {
+       "rate": 0.01,
+       "match": {
+        "categories": [
+         "insurance"
+        ],
+        "region": "TW"
+       },
+       "id": "kids-ins",
+       "label": "保費",
+       "warn": "保費 0 利率分期與第三方支付繳費不算"
+      },
+      {
+       "rate": 0.01,
+       "match": {
+        "merchants": [
+         "台北美國學校",
+         "台北歐洲學校",
+         "道明外僑學校",
+         "馬禮遜學校",
+         "康乃薾美國學校",
+         "立人國際國小",
+         "康橋國際學校",
+         "華盛頓小學",
+         "復興實驗高中",
+         "維多利亞雙語中小學",
+         "高雄美國學校"
+        ]
+       },
+       "id": "kids-school",
+       "warn": "限 i繳費平台繳學費"
+      },
+      {
+       "rate": 0.05,
+       "match": {
+        "merchants": [
+         "台灣壽司郎",
+         "雞湯大叔",
+         "陶板屋",
+         "YAYOI彌生軒",
+         "大戶屋",
+         "大樹先生的家",
+         "Money Jump 媽妳講",
+         "小島3.5度親子餐廳"
+        ],
+        "region": "TW",
+        "notInMall": true
+       },
+       "id": "kids-dine",
+       "warn": "陶板屋限王品瘋Pay；彌生軒限街邊店"
+      },
+      {
+       "rate": 0.05,
+       "match": {
+        "merchants": [
+         "Klook",
+         "東京迪士尼樂園",
+         "大阪環球影城(USJ)",
+         "麗寶樂園",
+         "六福村",
+         "九族文化村",
+         "劍湖山世界",
+         "義大遊樂世界",
+         "小叮噹科學園區",
+         "Xpark",
+         "巧虎夢想樂園"
+        ]
+       },
+       "id": "kids-park",
+       "warn": "遊樂園限現場或官網購票；Xpark 限館內人工櫃台"
+      },
+      {
+       "rate": 0.05,
+       "match": {
+        "merchants": [
+         "台北喜來登大飯店",
+         "蘭城晶英酒店",
+         "台南晶英酒店",
+         "礁溪寒沐酒店",
+         "大溪笠復威斯汀",
+         "煙波大飯店新竹湖濱館",
+         "麗寶福容大飯店",
+         "雲品溫泉酒店",
+         "和逸飯店",
+         "義大皇家酒店",
+         "高雄萬豪酒店",
+         "墾丁凱撒大飯店",
+         "花蓮遠雄悅來大飯店",
+         "瑞穗天合國際觀光酒店",
+         "六福莊",
+         "宜蘭礁溪鳳凰酒店",
+         "桃園名人堂花園大飯店"
+        ]
+       },
+       "id": "kids-hotel",
+       "warn": "限飯店官網訂房"
+      },
+      {
+       "rate": 0.05,
+       "match": {
+        "merchants": [
+         "卡多摩嬰童館",
+         "媽咪愛",
+         "樂兒屋",
+         "寶齡婦幼館",
+         "安琪兒婦嬰百貨",
+         "宜兒樂",
+         "麗兒采家",
+         "Taobaby濤寶日記",
+         "俏媽咪",
+         "媽媽好"
+        ],
+        "region": "TW",
+        "notInMall": true
+       },
+       "id": "kids-baby",
+       "warn": "一歲以下奶粉與藥品不算"
+      },
+      {
+       "rate": 0.1,
+       "match": {
+        "merchants": [
+         "雲門舞集舞蹈教室",
+         "Yamaha音樂教室",
+         "TutorABC Junior",
+         "Etalking Kids",
+         "iSKI滑雪俱樂部",
+         "汐游寶寶／風城游汐谷"
+        ]
+       },
+       "id": "kids-class",
+       "warn": "限課程費用"
+      },
+      {
+       "rate": 0.1,
+       "match": {
+        "merchants": [
+         "10mois",
+         "Mamas&Papas",
+         "古北町",
+         "Little Wonders",
+         "Seahorse Originals"
+        ],
+        "channel": "online"
+       },
+       "id": "kids-brand",
+       "gateways": [
+        "ecpay"
+       ],
+       "warn": "限台灣官網"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "taishin-richart",
+   "name": "Richart 卡",
+   "issuer": "台新",
+   "source": {
+    "url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/future/ab46dfa7-5d88-11f1-b50f-0050568c09e3",
+    "capturedAt": "2026-10-17"
+   },
+   "notes": [
+    "方案期間 2026/7/1～2027/12/31；每日限切換一次，23:59 前完成，新卡預設天天刷",
+    "LEVEL 2：以台新帳戶自動扣繳卡費；核卡 60 天內也適用 LEVEL 2",
+    "ASSUMPTION：官網只對 Chill刷 明列 LEVEL 1 為 1.3%，其他方案 LEVEL 1 一律推定 1.3%",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率",
+    "每期加碼上限：永久額度 + NT$30 萬（未納入計算）"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "planSwitch": "每日一次，當日 23:59 前",
+   "switchApp": "Richart Life App",
+   "designatedPayments": [
+    "card",
+    "taishinpay",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0.003,
+    "installmentRate": 0,
+    "excludedCategories": [
+     "convenience",
+     "excluded"
+    ],
+    "categoryRates": {
+     "insurance": 0.013
+    }
+   },
+   "plans": [
+    {
+     "id": "chill",
+     "name": "Chill刷",
+     "validFrom": "2026-07-08",
+     "validTo": "2027-12-31",
+     "payments": [
+      "card",
+      "taishinpay",
+      "applepay",
+      "googlepay",
+      "samsungpay",
+      "linepay"
+     ],
+     "rules": [
+      {
+       "id": "chill-party",
+       "rate": {
+        "byLevel": {
+         "1": 0.013,
+         "2": 0.1
+        }
+       },
+       "match": {
+        "merchants": [
+         "詹記麻辣火鍋",
+         "萬客什鍋",
+         "海底撈",
+         "屋馬燒肉",
+         "茶六燒肉堂",
+         "新村站著吃",
+         "燒肉政宗",
+         "碳佐麻里",
+         "雞湯大叔",
+         "gonna共樂遊",
+         "BRUN 不然",
+         "CAFE ACME",
+         "The Antipodean",
+         "貳樓",
+         "樂子 the Diner",
+         "Fake Sober",
+         "Draft Land",
+         "臺虎精釀",
+         "ABV",
+         "Bar TCRC",
+         "Bar Home",
+         "Phowa",
+         "MOONROCK",
+         "台灣代駕",
+         "Motodomo 愛車管家"
+        ],
+        "notInMall": true
+       },
+       "warn": "官網標示「最高」10%，限獨立店或官網；透過百貨、外送平台無此加碼"
+      },
+      {
+       "id": "chill-tea",
+       "rate": {
+        "byLevel": {
+         "1": 0.013,
+         "2": 0.1
+        }
+       },
+       "match": {
+        "merchants": [
+         "50嵐",
+         "得正",
+         "五桐號",
+         "龜記",
+         "UG TEA",
+         "叮哥茶飲",
+         "CAFE!N",
+         "% Arabica",
+         "COMPOSE COFFEE"
+        ],
+        "notInMall": true
+       },
+       "warn": "官網標示「最高」10%，限獨立店或官網"
+      },
+      {
+       "id": "chill-5",
+       "rate": {
+        "byLevel": {
+         "1": 0.013,
+         "2": 0.05
+        }
+       },
+       "match": {
+        "merchants": [
+         "饗饗 INPARADISE",
+         "NAGOMI沉浸娛樂",
+         "WEVERSE",
+         "K-MONSTAR",
+         "微樂客",
+         "五大唱片",
+         "仙女樹",
+         "FANME",
+         "NOLmovie",
+         "巴哈姆特動畫瘋",
+         "BOOK WALKER",
+         "Animate",
+         "樂天KOBO",
+         "Readmoo讀墨",
+         "Netflix",
+         "Disney+",
+         "愛爾達",
+         "Pinkoi",
+         "好好生醫",
+         "POPCARE好在乎",
+         "營養師輕食",
+         "VITABOX",
+         "MYPROTEIN",
+         "UrMart優馬選品",
+         "Anytime Fitness",
+         "健身工廠",
+         "World Gym",
+         "超核心 Hypercore",
+         "KX PILATES",
+         "虎鐵健身",
+         "17FIT",
+         "Adidas",
+         "New Balance",
+         "PUMA",
+         "Onitsuka Tiger",
+         "Nike",
+         "HOKA",
+         "Salomon",
+         "lululemon"
+        ]
+       },
+       "warn": "運動品牌限獨立店或官網；愛爾達、Pinkoi 的回饋率官網排版不清，待確認"
+      },
+      {
+       "id": "chill-33",
+       "rate": {
+        "byLevel": {
+         "1": 0.013,
+         "2": 0.033
+        }
+       },
+       "match": {
+        "merchants": [
+         "Apple 直營",
+         "Studio A",
+         "DJI",
+         "Insta360",
+         "GoPro",
+         "蝦皮購物",
+         "淘寶／天貓",
+         "Coupang 酷澎",
+         "Uber Eats"
+        ]
+       },
+       "warn": "Chill 通路透過 Uber Eats 或蝦皮購買為 3.3%"
+      }
+     ]
+    },
+    {
+     "id": "pay",
+     "name": "Pay著刷",
+     "validFrom": "2026-07-01",
+     "validTo": "2027-12-31",
+     "rules": [
+      {
+       "id": "pay-ts-cvs",
+       "rate": {
+        "byLevel": {
+         "1": 0.013,
+         "2": 0.038
+        }
+       },
+       "match": {
+        "merchants": [
+         "7-ELEVEN",
+         "全家便利商店"
+        ],
+        "region": "TW",
+        "foreign": false
+       },
+       "payments": [
+        "taishinpay"
+       ],
+       "capPerTxn": 3000,
+       "warn": "超商單筆上限 NT$3,000；代收、禮物卡、儲值不算"
+      },
+      {
+       "id": "pay-ts",
+       "rate": {
+        "byLevel": {
+         "1": 0.013,
+         "2": 0.038
+        }
+       },
+       "match": {
+        "categories": [
+         "__any__"
+        ],
+        "region": "TW",
+        "foreign": false
+       },
+       "payments": [
+        "taishinpay"
+       ],
+       "label": "台新Pay 合作通路",
+       "warn": "需切到台新Pay 或乘車碼付款，帳單明細須含「ＴＳ＊」；需為台新Pay 合作通路"
+      },
+      {
+       "id": "pay-line",
+       "rate": {
+        "byLevel": {
+         "1": 0.013,
+         "2": 0.023
+        }
+       },
+       "match": {
+        "categories": [
+         "__any__"
+        ],
+        "region": "TW",
+        "foreign": false
+       },
+       "payments": [
+        "linepay",
+        "quanyingpay"
+       ],
+       "label": "行動支付綁定",
+       "warn": "LINE Pay 限台灣、新台幣交易"
+      }
+     ]
+    },
+    {
+     "id": "daily",
+     "name": "天天刷",
+     "validFrom": "2026-07-01",
+     "validTo": "2027-12-31",
+     "rules": [
+      {
+       "id": "daily-cvs",
+       "rate": {
+        "byLevel": {
+         "1": 0.013,
+         "2": 0.033
+        }
+       },
+       "match": {
+        "merchants": [
+         "7-ELEVEN",
+         "全家便利商店"
+        ],
+        "region": "TW",
+        "foreign": false
+       },
+       "payments": [
+        "taishinpay"
+       ],
+       "warn": "兩大超商限台新Pay；實體卡、OPEN錢包、FamiPay 不算"
+      },
+      {
+       "id": "daily-shop",
+       "rate": {
+        "byLevel": {
+         "1": 0.013,
+         "2": 0.033
+        }
+       },
+       "match": {
+        "merchants": [
+         "萬家福",
+         "樂家康",
+         "大買家",
+         "DON DON DONKI",
+         "LOPIA台灣",
+         "智生活"
+        ],
+        "region": "TW"
+       },
+       "warn": "智生活限官方 App 或官網訂購"
+      },
+      {
+       "id": "daily-transit",
+       "rate": {
+        "byLevel": {
+         "1": 0.013,
+         "2": 0.033
+        }
+       },
+       "match": {
+        "merchants": [
+         "臺鐵",
+         "台灣高鐵",
+         "台灣大車隊",
+         "LINE GO",
+         "yoxi",
+         "Uber",
+         "台灣Bolt"
+        ],
+        "region": "TW",
+        "foreign": false
+       },
+       "warn": "Uber、Bolt 限台灣、新台幣交易"
+      },
+      {
+       "id": "daily-fuel",
+       "rate": {
+        "byLevel": {
+         "1": 0.013,
+         "2": 0.033
+        }
+       },
+       "match": {
+        "merchants": [
+         "台灣中油直營站",
+         "全國加油站",
+         "全國特急電",
+         "EVOASIS",
+         "EVALUE",
+         "USPACE",
+         "車麻吉"
+        ]
+       }
+      },
+      {
+       "id": "daily-drug",
+       "rate": {
+        "byLevel": {
+         "1": 0.013,
+         "2": 0.033
+        }
+       },
+       "match": {
+        "merchants": [
+         "寶雅",
+         "康是美",
+         "屈臣氏",
+         "杏一醫療",
+         "大樹藥局",
+         "丁丁藥局",
+         "佑全保健藥妝",
+         "健康人生藥局"
+        ]
+       },
+       "warn": "藥品、一歲以下奶粉、醫療器材不算"
+      }
+     ]
+    },
+    {
+     "id": "big",
+     "name": "大筆刷",
+     "validFrom": "2026-07-01",
+     "validTo": "2027-12-31",
+     "rules": [
+      {
+       "id": "big-dept",
+       "rate": {
+        "byLevel": {
+         "1": 0.013,
+         "2": 0.033
+        }
+       },
+       "match": {
+        "merchants": [
+         "新光三越",
+         "遠東百貨",
+         "遠東SOGO百貨",
+         "漢神巨蛋",
+         "漢神百貨",
+         "漢神洲際",
+         "微風廣場",
+         "台北101",
+         "Big City遠東巨城",
+         "廣三SOGO",
+         "南紡購物中心",
+         "誠品生活",
+         "京站",
+         "三創生活",
+         "夢時代",
+         "統一時代台北店",
+         "中友百貨",
+         "Mitsui Shopping Park LaLaport"
+        ],
+        "region": "TW"
+       },
+       "warn": "百貨內的店中店與百貨自有支付不算（skm pay 除外）；新光三越台北車站不算"
+      },
+      {
+       "id": "big-outlet",
+       "rate": {
+        "byLevel": {
+         "1": 0.013,
+         "2": 0.033
+        }
+       },
+       "match": {
+        "merchants": [
+         "MITSUI OUTLET PARK",
+         "華泰名品城",
+         "SKM Park"
+        ],
+        "region": "TW"
+       }
+      },
+      {
+       "id": "big-home",
+       "rate": {
+        "byLevel": {
+         "1": 0.013,
+         "2": 0.033
+        }
+       },
+       "match": {
+        "merchants": [
+         "IKEA宜家家居",
+         "特力屋",
+         "HOLA",
+         "宜得利",
+         "瑪黑家居"
+        ]
+       }
+      },
+      {
+       "id": "big-fashion",
+       "rate": {
+        "byLevel": {
+         "1": 0.013,
+         "2": 0.033
+        }
+       },
+       "match": {
+        "merchants": [
+         "UNIQLO",
+         "GU",
+         "ZARA",
+         "NET",
+         "lululemon"
+        ],
+        "region": "TW"
+       }
+      }
+     ]
+    },
+    {
+     "id": "food",
+     "name": "好饗刷",
+     "validFrom": "2026-07-01",
+     "validTo": "2027-12-31",
+     "rules": [
+      {
+       "id": "food-dining",
+       "rate": {
+        "byLevel": {
+         "1": 0.013,
+         "2": 0.033
+        }
+       },
+       "match": {
+        "categories": [
+         "dining"
+        ],
+        "region": "TW"
+       },
+       "label": "全台餐飲",
+       "warn": "限餐廳類商家；餐券不算；手搖飲、速食（小額支付）不算"
+      },
+      {
+       "id": "food-delivery",
+       "rate": {
+        "byLevel": {
+         "1": 0.013,
+         "2": 0.033
+        }
+       },
+       "match": {
+        "merchants": [
+         "Uber Eats",
+         "foodpanda",
+         "王品瘋Pay"
+        ]
+       }
+      },
+      {
+       "id": "food-ticket",
+       "rate": {
+        "byLevel": {
+         "1": 0.013,
+         "2": 0.033
+        }
+       },
+       "match": {
+        "merchants": [
+         "拓元售票",
+         "KKTIX",
+         "年代售票",
+         "寬宏售票",
+         "OPENTIX",
+         "FunNow"
+        ]
+       }
+      },
+      {
+       "id": "food-hotel",
+       "rate": {
+        "byLevel": {
+         "1": 0.013,
+         "2": 0.033
+        }
+       },
+       "match": {
+        "merchants": [
+         "晶華國際酒店集團",
+         "雲朗觀光",
+         "台灣萬豪國際集團",
+         "煙波國際觀光集團",
+         "老爺酒店集團",
+         "福華集團",
+         "漢來飯店事業群",
+         "台北君悅酒店",
+         "高雄洲際酒店",
+         "臺中勤美洲際酒店",
+         "礁溪寒沐酒店"
+        ]
+       },
+       "warn": "住宿券不算"
+      },
+      {
+       "id": "food-ktv",
+       "rate": {
+        "byLevel": {
+         "1": 0.013,
+         "2": 0.033
+        }
+       },
+       "match": {
+        "merchants": [
+         "錢櫃KTV",
+         "好樂迪KTV",
+         "ONCOR",
+         "sing!go",
+         "享溫馨KTV"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "fun",
+     "name": "數趣刷",
+     "validFrom": "2026-07-01",
+     "validTo": "2027-12-31",
+     "rules": [
+      {
+       "id": "fun-shop",
+       "rate": {
+        "byLevel": {
+         "1": 0.013,
+         "2": 0.033
+        }
+       },
+       "match": {
+        "merchants": [
+         "蝦皮購物",
+         "momo購物網",
+         "Coupang 酷澎",
+         "PChome 24h購物",
+         "淘寶／天貓",
+         "Amazon",
+         "東森購物",
+         "博客來",
+         "Richart Mart",
+         "PayEasy",
+         "iHerb",
+         "SHEIN",
+         "Farfetch",
+         "Olive Young"
+        ]
+       },
+       "warn": "蝦皮限台灣、新台幣；PChome 訂單含儲值或電子票券則整筆不算"
+      },
+      {
+       "id": "fun-course",
+       "rate": {
+        "byLevel": {
+         "1": 0.013,
+         "2": 0.033
+        }
+       },
+       "match": {
+        "merchants": [
+         "知識衛星",
+         "Amazing Talker",
+         "Tutor ABC",
+         "Hahow",
+         "PressPlay"
+        ]
+       }
+      },
+      {
+       "id": "fun-game",
+       "rate": {
+        "byLevel": {
+         "1": 0.013,
+         "2": 0.033
+        }
+       },
+       "match": {
+        "merchants": [
+         "MyCard",
+         "遊戲橘子",
+         "Steam",
+         "PlayStation",
+         "Nintendo",
+         "Netflix",
+         "Disney+"
+        ]
+       },
+       "warn": "遊戲點數不算"
+      },
+      {
+       "id": "fun-ai",
+       "rate": {
+        "byLevel": {
+         "1": 0.013,
+         "2": 0.033
+        }
+       },
+       "match": {
+        "merchants": [
+         "ChatGPT",
+         "Notion",
+         "Canva",
+         "Perplexity",
+         "Claude"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "travel",
+     "name": "玩旅刷",
+     "validFrom": "2026-07-01",
+     "validTo": "2027-12-31",
+     "rules": [
+      {
+       "id": "travel-overseas",
+       "rate": {
+        "byLevel": {
+         "1": 0.013,
+         "2": 0.033
+        }
+       },
+       "match": {
+        "foreign": true
+       },
+       "label": "海外消費（含實體與線上）",
+       "warn": "海外指外幣交易或商家國別非台灣"
+      },
+      {
+       "id": "travel-transit",
+       "rate": {
+        "byLevel": {
+         "1": 0.013,
+         "2": 0.033
+        }
+       },
+       "match": {
+        "merchants": [
+         "Uber",
+         "Grab",
+         "Apple錢包交通卡（Suica／PASMO／ICOCA）",
+         "WOWPASS",
+         "AIRSIM"
+        ]
+       },
+       "warn": "AIRSIM 限官網或 App"
+      },
+      {
+       "id": "travel-air",
+       "rate": {
+        "byLevel": {
+         "1": 0.013,
+         "2": 0.033
+        }
+       },
+       "match": {
+        "merchants": [
+         "中華航空",
+         "長榮航空",
+         "星宇航空",
+         "台灣虎航",
+         "國泰航空",
+         "華信航空",
+         "立榮航空",
+         "樂桃航空",
+         "阿聯酋航空",
+         "亞洲航空",
+         "酷航",
+         "捷星航空",
+         "新加坡航空",
+         "日本航空",
+         "越捷航空"
+        ]
+       },
+       "warn": "限航空公司實體或官網購票，第三方平台不算"
+      },
+      {
+       "id": "travel-ota",
+       "rate": {
+        "byLevel": {
+         "1": 0.013,
+         "2": 0.033
+        }
+       },
+       "match": {
+        "merchants": [
+         "Klook",
+         "KKday",
+         "Agoda",
+         "Booking.com",
+         "Trip.com",
+         "Airbnb",
+         "Hotels.com",
+         "Expedia"
+        ]
+       }
+      },
+      {
+       "id": "travel-agency",
+       "rate": {
+        "byLevel": {
+         "1": 0.013,
+         "2": 0.033
+        }
+       },
+       "match": {
+        "merchants": [
+         "雄獅旅遊",
+         "ezTravel易遊網",
+         "東南旅遊",
+         "可樂旅遊",
+         "長汎假期",
+         "五福旅遊",
+         "喜鴻假期",
+         "Ezfly易飛網",
+         "燦星旅遊",
+         "加利利旅行社",
+         "鳳凰旅行社",
+         "山富旅遊",
+         "行健旅遊"
+        ]
+       },
+       "warn": "限直營通路"
+      }
+     ]
+    },
+    {
+     "id": "holiday",
+     "name": "假日刷",
+     "validFrom": "2026-07-01",
+     "validTo": "2027-12-31",
+     "requires": {
+      "dates": [
+       "2026-09-28",
+       "2026-10-10",
+       "2026-10-25",
+       "2026-12-25",
+       "2027-01-01"
+      ]
+     },
+     "payments": [
+      "card",
+      "taishinpay",
+      "applepay",
+      "googlepay",
+      "samsungpay",
+      "linepay",
+      "quanyingpay"
+     ],
+     "warn": "國定假日日期清單需依人事行政總處公告維護（含補假）",
+     "rules": [
+      {
+       "id": "holiday-any",
+       "rate": 0.02,
+       "match": {
+        "categories": [
+         "__any__",
+         "insurance"
+        ]
+       },
+       "label": "國定假日不限通路"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "linebank",
+   "name": "LINE Bank 卡",
+   "issuer": "聯邦",
+   "source": {
+    "url": "https://activity.ubot.com.tw/LINEBankCard/index.htm",
+    "capturedAt": "2026-10-18"
+   },
+   "notes": [
+    "活動期間 2026/8/1～2027/7/31；回饋為刷卡金，次月 15 日入帳",
+    "不需切換方案；官網寫「最高10.5%＝國外2.5%＋指定通路3%＋扣款禮5%」，視為加碼疊加在一般回饋上（stacking: add）",
+    "ASSUMPTION：官網未寫明 Apple Pay／Google Pay／LINE Pay 綁定的限制，暫定皆適用",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率",
+    "未納入：扣款禮 5%（新戶限定、每次上限 200 元、限 3 次）、首刷禮、萊爾富最高 10% 現折、美廉社／小北最高 8%、Klook 折扣、聯邦陪您輕鬆玩世界——這些是一次性或條件不明的活動，不是每筆消費的回饋率",
+    "指定通路加碼每月上限 300 元，本月已用額度不在計算範圍"
+   ],
+   "stacking": "add",
+   "fxFee": 0.015,
+   "planSwitch": null,
+   "noSwitch": true,
+   "switchApp": null,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay",
+    "linepay"
+   ],
+   "base": {
+    "rate": 0.01,
+    "foreignRate": 0.025,
+    "installmentRate": 0,
+    "excludedCategories": [
+     "convenience",
+     "micropay",
+     "excluded"
+    ],
+    "excludedMerchants": [
+     "全聯福利中心",
+     "大全聯"
+    ],
+    "categoryRates": {
+     "insurance": 0.01
+    }
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "validFrom": "2026-08-01",
+     "validTo": "2027-07-31",
+     "rules": [
+      {
+       "id": "lb-designated",
+       "rate": 0.03,
+       "label": "指定通路加碼 3%",
+       "rewardCap": 300,
+       "match": {
+        "merchants": [
+         "拓元售票",
+         "KKTIX",
+         "momo購物網",
+         "PChome 24h購物",
+         "淘寶／天貓",
+         "蝦皮購物",
+         "Coupang 酷澎",
+         "Netflix",
+         "Disney+",
+         "CatchPlay",
+         "Spotify",
+         "LINE TV",
+         "KKTV",
+         "KKBOX",
+         "Steam",
+         "PlayStation",
+         "Nintendo",
+         "Blizzard",
+         "Garena",
+         "MyCard"
+        ]
+       },
+       "warn": "加碼每月上限 300 元（約 NT$10,000 消費），本月已用額度未計入"
+      },
+      {
+       "id": "lb-delivery",
+       "rate": 0.03,
+       "label": "外送加碼 3%（需登錄）",
+       "rewardCap": 200,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "match": {
+        "merchants": [
+         "Uber Eats",
+         "foodpanda"
+        ]
+       },
+       "warn": "需先登錄（每月限 6,000 名），每月上限 200 元"
+      },
+      {
+       "id": "lb-open711",
+       "rate": 0.1,
+       "label": "OPEN錢包 7-11 10% OPEN POINT",
+       "rewardCap": 100,
+       "minAmount": 100,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "match": {
+        "merchants": [
+         "7-ELEVEN"
+        ]
+       },
+       "payments": [
+        "openwallet"
+       ],
+       "warn": "回饋為 OPEN POINT，不是刷卡金；每月上限 100 點，總量 48 萬點送完為止"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
