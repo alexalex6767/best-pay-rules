@@ -1,7 +1,7 @@
 {
- "version": "2026.10.24-baf3af5249",
- "generatedAt": "2026-10-24T07:37:49.936Z",
- "contentHash": "baf3af5249",
+ "version": "2026.10.24-c20bd03017",
+ "generatedAt": "2026-10-24T07:38:02.596Z",
+ "contentHash": "c20bd03017",
  "schema": 1,
  "merchants": [
   {
@@ -1746,6 +1746,12 @@
     "samsungpay",
     "garminpay"
    ],
+   "levels": {
+    "1": "Level 1",
+    "2": "Level 2",
+    "3": "Level 3"
+   },
+   "levelHint": "依國泰世華 CUBE App 顯示的等級",
    "base": {
     "rate": 0.003,
     "installmentRate": 0.003,
@@ -2888,6 +2894,11 @@
     "googlepay",
     "samsungpay"
    ],
+   "levels": {
+    "1": "LEVEL 1",
+    "2": "LEVEL 2（台新帳戶自動扣繳卡費）"
+   },
+   "levelHint": "核卡 60 天內也算 LEVEL 2",
    "base": {
     "rate": 0.003,
     "installmentRate": 0,
@@ -5540,6 +5551,11 @@
     "googlepay",
     "samsungpay"
    ],
+   "levels": {
+    "1": "大戶",
+    "2": "大戶Plus"
+   },
+   "levelHint": "大大等級沒有加碼，選「大戶」會高估",
    "base": {
     "rate": 0.01,
     "foreignRate": 0.02,
@@ -5746,6 +5762,11 @@
     "googlepay",
     "samsungpay"
    ],
+   "levels": {
+    "1": "御璽卡／鈦金卡",
+    "2": "白金卡／金卡／普卡"
+   },
+   "levelHint": "看卡面上的卡別",
    "base": {
     "rate": 0.003,
     "excludedCategories": [
@@ -6864,6 +6885,10 @@
     "samsungpay",
     "jkopay"
    ],
+   "levels": {
+    "1": "一般",
+    "2": "回饋達檻＋滙豐帳戶資產滿 30 萬"
+   },
    "base": {
     "rate": 0.01,
     "excludedCategories": [
