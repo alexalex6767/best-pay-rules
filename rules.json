@@ -1,7 +1,7 @@
 {
- "version": "2026.10.24-50897e96da",
- "generatedAt": "2026-10-24T06:38:32.789Z",
- "contentHash": "50897e96da",
+ "version": "2026.10.24-baf3af5249",
+ "generatedAt": "2026-10-24T07:37:49.936Z",
+ "contentHash": "baf3af5249",
  "schema": 1,
  "merchants": [
   {
@@ -837,6 +837,882 @@
     "garena.tw"
    ],
    "channel": "online"
+  },
+  {
+   "name": "Pi 拍錢包合作商店"
+  },
+  {
+   "name": "Yodobashi",
+   "aliases": [
+    "Yodobashi Camera",
+    "友都八喜"
+   ],
+   "region": "JP"
+  },
+  {
+   "name": "松本清",
+   "aliases": [
+    "Matsumoto Kiyoshi"
+   ],
+   "region": "JP"
+  },
+  {
+   "name": "大國藥妝",
+   "region": "JP"
+  },
+  {
+   "name": "無印良品"
+  },
+  {
+   "name": "Montbell"
+  },
+  {
+   "name": "JR 鐵路公司",
+   "aliases": [
+    "JR鐵路公司",
+    "JR"
+   ],
+   "region": "JP"
+  },
+  {
+   "name": "樂天旅遊",
+   "domains": [
+    "travel.rakuten.com",
+    "travel.rakuten.com.tw"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "Prince Hotel",
+   "aliases": [
+    "王子飯店"
+   ],
+   "region": "JP"
+  },
+  {
+   "name": "TOYOTA Rent a Car",
+   "region": "JP"
+  },
+  {
+   "name": "Times Car Rental",
+   "region": "JP"
+  },
+  {
+   "name": "NIPPON RENT-A-CAR",
+   "region": "JP"
+  },
+  {
+   "name": "OTS 租車",
+   "region": "JP"
+  },
+  {
+   "name": "ORIX 租車",
+   "region": "JP"
+  },
+  {
+   "name": "Budget 租車",
+   "region": "JP"
+  },
+  {
+   "name": "勝烈亭",
+   "region": "JP"
+  },
+  {
+   "name": "敘敘苑",
+   "region": "JP"
+  },
+  {
+   "name": "牛角"
+  },
+  {
+   "name": "力丸燒肉",
+   "region": "JP"
+  },
+  {
+   "name": "六歌仙燒肉",
+   "region": "JP"
+  },
+  {
+   "name": "人形町今半",
+   "region": "JP"
+  },
+  {
+   "name": "Shake Shack"
+  },
+  {
+   "name": "DOUTOR Coffee"
+  },
+  {
+   "name": "Fuglen"
+  },
+  {
+   "name": "鳥貴族"
+  },
+  {
+   "name": "一蘭拉麵"
+  },
+  {
+   "name": "松屋"
+  },
+  {
+   "name": "藏壽司",
+   "category": "dining"
+  },
+  {
+   "name": "豪斯登堡",
+   "region": "JP"
+  },
+  {
+   "name": "九州非洲獅樂園",
+   "region": "JP"
+  },
+  {
+   "name": "名古屋樂高樂園",
+   "region": "JP"
+  },
+  {
+   "name": "吉伊卡哇樂園",
+   "region": "JP"
+  },
+  {
+   "name": "小米台灣",
+   "domains": [
+    "mi.com"
+   ]
+  },
+  {
+   "name": "全國電子",
+   "domains": [
+    "elifemall.com.tw"
+   ]
+  },
+  {
+   "name": "燦坤",
+   "aliases": [
+    "燦坤3C"
+   ],
+   "domains": [
+    "tk3c.com"
+   ]
+  },
+  {
+   "name": "威秀影城",
+   "domains": [
+    "vscinemas.com.tw"
+   ]
+  },
+  {
+   "name": "國賓影城",
+   "domains": [
+    "ambassador.com.tw"
+   ]
+  },
+  {
+   "name": "新光影城"
+  },
+  {
+   "name": "家樂福",
+   "domains": [
+    "online.carrefour.com.tw",
+    "carrefour.com.tw"
+   ],
+   "aliases": [
+    "萬家福",
+    "萬家福線上購物",
+    "家速配"
+   ]
+  },
+  {
+   "name": "ho!好好生活"
+  },
+  {
+   "name": "昇恆昌",
+   "domains": [
+    "everrich.com.tw"
+   ]
+  },
+  {
+   "name": "環球購物中心",
+   "aliases": [
+    "Global Mall"
+   ]
+  },
+  {
+   "name": "找到了旅行社"
+  },
+  {
+   "name": "特斯拉",
+   "aliases": [
+    "Tesla"
+   ],
+   "domains": [
+    "tesla.com"
+   ]
+  },
+  {
+   "name": "秀泰生活"
+  },
+  {
+   "name": "Mitsui Shopping Park LaLaport",
+   "aliases": [
+    "LaLaport",
+    "Lalaport"
+   ]
+  },
+  {
+   "name": "路易莎咖啡",
+   "aliases": [
+    "Louisa Coffee",
+    "路易莎"
+   ],
+   "category": "dining"
+  },
+  {
+   "name": "星巴克",
+   "aliases": [
+    "Starbucks"
+   ],
+   "category": "dining"
+  },
+  {
+   "name": "摩斯漢堡",
+   "aliases": [
+    "MOS Burger"
+   ],
+   "category": "dining"
+  },
+  {
+   "name": "Mercari",
+   "aliases": [
+    "煤炉"
+   ],
+   "domains": [
+    "jp.mercari.com"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "eBay",
+   "domains": [
+    "ebay.com"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "Gmarket",
+   "domains": [
+    "gmarket.co.kr",
+    "global.gmarket.co.kr"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "Sugi藥妝"
+  },
+  {
+   "name": "Rakuten",
+   "aliases": [
+    "樂天市場（日本）"
+   ],
+   "domains": [
+    "rakuten.co.jp"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "Selfridges",
+   "domains": [
+    "selfridges.com"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "Trivago",
+   "domains": [
+    "trivago.com.tw"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "AsiaYo",
+   "domains": [
+    "asiayo.com"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "台灣樂天市場",
+   "aliases": [
+    "台灣樂天"
+   ],
+   "domains": [
+    "rakuten.com.tw"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "Yahoo奇摩購物中心",
+   "aliases": [
+    "YAHOO奇摩購物中心"
+   ],
+   "domains": [
+    "tw.buy.yahoo.com"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "friDay購物",
+   "domains": [
+    "shopping.friday.tw"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "生活市集",
+   "domains": [
+    "buy123.com.tw"
+   ],
+   "channel": "online"
+  },
+  {
+   "name": "漢神巨蛋"
+  },
+  {
+   "name": "漢神百貨"
+  },
+  {
+   "name": "遠東百貨"
+  },
+  {
+   "name": "美麗華百樂園",
+   "aliases": [
+    "美麗華"
+   ]
+  },
+  {
+   "name": "台灣大車隊",
+   "aliases": [
+    "55688"
+   ]
+  },
+  {
+   "name": "全國加油站"
+  },
+  {
+   "name": "台亞加油站"
+  },
+  {
+   "name": "捷絲旅",
+   "aliases": [
+    "Just Sleep"
+   ],
+   "category": "hotel"
+  },
+  {
+   "name": "台北晶華酒店",
+   "aliases": [
+    "晶華酒店"
+   ],
+   "category": "hotel"
+  },
+  {
+   "name": "希爾頓",
+   "aliases": [
+    "Hilton"
+   ],
+   "category": "hotel"
+  },
+  {
+   "name": "台北圓山大飯店",
+   "aliases": [
+    "圓山大飯店"
+   ],
+   "category": "hotel"
+  },
+  {
+   "name": "喜樂時代影城"
+  },
+  {
+   "name": "寬宏售票",
+   "domains": [
+    "kham.com.tw"
+   ]
+  },
+  {
+   "name": "年代售票",
+   "domains": [
+    "ticket.com.tw"
+   ]
+  },
+  {
+   "name": "ChargeSPOT"
+  },
+  {
+   "name": "H&M",
+   "domains": [
+    "hm.com"
+   ]
+  },
+  {
+   "name": "GAP"
+  },
+  {
+   "name": "NET"
+  },
+  {
+   "name": "Aesop"
+  },
+  {
+   "name": "棉花田"
+  },
+  {
+   "name": "iRent"
+  },
+  {
+   "name": "GoShare"
+  },
+  {
+   "name": "WeMo"
+  },
+  {
+   "name": "LINE GO"
+  },
+  {
+   "name": "Gogoro",
+   "aliases": [
+    "Gogoro Network",
+    "Gogoro電池資費"
+   ]
+  },
+  {
+   "name": "台北捷運"
+  },
+  {
+   "name": "World Gym"
+  },
+  {
+   "name": "健身工廠",
+   "aliases": [
+    "Fitness Factory"
+   ]
+  },
+  {
+   "name": "Curves"
+  },
+  {
+   "name": "Anytime Fitness"
+  },
+  {
+   "name": "DAZN"
+  },
+  {
+   "name": "App Store",
+   "aliases": [
+    "Apple App Store"
+   ]
+  },
+  {
+   "name": "Google Play"
+  },
+  {
+   "name": "遠傳電信",
+   "aliases": [
+    "遠傳",
+    "遠傳心生活"
+   ],
+   "domains": [
+    "fetnet.net"
+   ]
+  },
+  {
+   "name": "中華電信",
+   "domains": [
+    "cht.com.tw"
+   ]
+  },
+  {
+   "name": "台灣大哥大",
+   "domains": [
+    "taiwanmobile.com"
+   ]
+  },
+  {
+   "name": "三商美邦人壽",
+   "aliases": [
+    "三商美邦"
+   ],
+   "category": "insurance"
+  },
+  {
+   "name": "85度C",
+   "category": "micropay"
+  },
+  {
+   "name": "cama café",
+   "category": "micropay"
+  },
+  {
+   "name": "清心福全",
+   "category": "micropay"
+  },
+  {
+   "name": "迷客夏",
+   "category": "micropay"
+  },
+  {
+   "name": "CoCo都可",
+   "category": "micropay"
+  },
+  {
+   "name": "可不可熟成紅茶",
+   "aliases": [
+    "可不可"
+   ],
+   "category": "micropay"
+  },
+  {
+   "name": "麻古茶坊",
+   "category": "micropay"
+  },
+  {
+   "name": "COMEBUY",
+   "category": "micropay"
+  },
+  {
+   "name": "龜記",
+   "category": "micropay"
+  },
+  {
+   "name": "五桐號",
+   "category": "micropay"
+  },
+  {
+   "name": "茶湯會",
+   "category": "micropay"
+  },
+  {
+   "name": "珍煮丹",
+   "category": "micropay"
+  },
+  {
+   "name": "Big City遠東巨城",
+   "aliases": [
+    "遠東巨城"
+   ]
+  },
+  {
+   "name": "小林眼鏡"
+  },
+  {
+   "name": "遠企購物中心"
+  },
+  {
+   "name": "愛買",
+   "aliases": [
+    "愛買量販"
+   ],
+   "category": "supermarket"
+  },
+  {
+   "name": "city'super",
+   "category": "supermarket"
+  },
+  {
+   "name": "美廉社",
+   "category": "supermarket"
+  },
+  {
+   "name": "小北百貨"
+  },
+  {
+   "name": "聖德科斯"
+  },
+  {
+   "name": "里仁"
+  },
+  {
+   "name": "台灣主婦聯盟",
+   "aliases": [
+    "主婦聯盟"
+   ]
+  },
+  {
+   "name": "誠品",
+   "aliases": [
+    "誠品生活",
+    "誠品書店",
+    "誠品線上"
+   ],
+   "domains": [
+    "eslite.com"
+   ]
+  },
+  {
+   "name": "寵物公園"
+  },
+  {
+   "name": "東森寵物"
+  },
+  {
+   "name": "大樹寵物"
+  },
+  {
+   "name": "凱朵寵物"
+  },
+  {
+   "name": "汪喵星球"
+  },
+  {
+   "name": "魚中魚寵物水族"
+  },
+  {
+   "name": "大樹藥局",
+   "aliases": [
+    "大樹連鎖藥局"
+   ]
+  },
+  {
+   "name": "杏一醫療",
+   "aliases": [
+    "杏一醫療用品"
+   ]
+  },
+  {
+   "name": "ASOS",
+   "domains": [
+    "asos.com"
+   ]
+  },
+  {
+   "name": "Shopbop",
+   "domains": [
+    "shopbop.com"
+   ]
+  },
+  {
+   "name": "MYTHERESA",
+   "domains": [
+    "mytheresa.com"
+   ]
+  },
+  {
+   "name": "DOKODEMO",
+   "domains": [
+    "dokodemo.world"
+   ]
+  },
+  {
+   "name": "YouTube",
+   "aliases": [
+    "YouTube Premium"
+   ]
+  },
+  {
+   "name": "六福村"
+  },
+  {
+   "name": "劍湖山世界"
+  },
+  {
+   "name": "義大遊樂世界"
+  },
+  {
+   "name": "Q Burger",
+   "category": "dining"
+  },
+  {
+   "name": "麥味登",
+   "category": "dining"
+  },
+  {
+   "name": "拉亞漢堡",
+   "category": "dining"
+  },
+  {
+   "name": "早安美之城",
+   "category": "dining"
+  },
+  {
+   "name": "弘爺漢堡",
+   "category": "dining"
+  },
+  {
+   "name": "Subway",
+   "category": "dining"
+  },
+  {
+   "name": "客美多咖啡",
+   "category": "dining"
+  },
+  {
+   "name": "晨間廚房",
+   "category": "dining"
+  },
+  {
+   "name": "福懋加油站"
+  },
+  {
+   "name": "統一精工",
+   "aliases": [
+    "速邁樂加油站"
+   ]
+  },
+  {
+   "name": "五福旅遊"
+  },
+  {
+   "name": "鳳凰旅行社",
+   "aliases": [
+    "鳳凰旅遊"
+   ]
+  },
+  {
+   "name": "山富旅遊"
+  },
+  {
+   "name": "百威旅遊"
+  },
+  {
+   "name": "大興旅遊"
+  },
+  {
+   "name": "長汎旅遊"
+  },
+  {
+   "name": "康迅旅遊"
+  },
+  {
+   "name": "Rakuten Kobo",
+   "aliases": [
+    "Kobo"
+   ],
+   "domains": [
+    "kobo.com"
+   ]
+  },
+  {
+   "name": "大都會車隊"
+  },
+  {
+   "name": "NITORI 宜得利家居",
+   "aliases": [
+    "NITORI",
+    "宜得利"
+   ]
+  },
+  {
+   "name": "Dyson",
+   "domains": [
+    "dyson.com.tw"
+   ]
+  },
+  {
+   "name": "Costco 好市多",
+   "aliases": [
+    "Costco",
+    "好市多"
+   ],
+   "domains": [
+    "costco.com.tw"
+   ],
+   "category": "supermarket"
+  },
+  {
+   "name": "Costco 自助加油站",
+   "aliases": [
+    "好市多加油站"
+   ]
+  },
+  {
+   "name": "夢時代購物中心",
+   "aliases": [
+    "統一夢時代"
+   ]
+  },
+  {
+   "name": "統一時代百貨"
+  },
+  {
+   "name": "21風味館",
+   "aliases": [
+    "21 Plus"
+   ],
+   "category": "dining"
+  },
+  {
+   "name": "Mister Donut",
+   "category": "dining"
+  },
+  {
+   "name": "COLD STONE",
+   "aliases": [
+    "酷聖石冰淇淋"
+   ],
+   "category": "dining"
+  },
+  {
+   "name": "Semeur聖娜",
+   "category": "dining"
+  },
+  {
+   "name": "Mia C'bon",
+   "category": "supermarket"
+  },
+  {
+   "name": "統一生機"
+  },
+  {
+   "name": "foodomo",
+   "domains": [
+    "foodomo.com"
+   ]
+  },
+  {
+   "name": "黑貓宅急便"
+  },
+  {
+   "name": "ibon 售票",
+   "aliases": [
+    "ibon售票網",
+    "ibon"
+   ]
+  },
+  {
+   "name": "LAWSON",
+   "aliases": [
+    "羅森"
+   ],
+   "region": "JP"
+  },
+  {
+   "name": "東京迪士尼",
+   "region": "JP"
+  },
+  {
+   "name": "日本環球影城",
+   "aliases": [
+    "USJ"
+   ],
+   "region": "JP"
+  },
+  {
+   "name": "AEON",
+   "aliases": [
+    "永旺"
+   ],
+   "region": "JP"
+  },
+  {
+   "name": "三越",
+   "region": "JP"
+  },
+  {
+   "name": "高島屋",
+   "region": "JP"
+  },
+  {
+   "name": "BIC CAMERA",
+   "region": "JP"
   }
  ],
  "cards": [
@@ -2932,6 +3808,5462 @@
         "openwallet"
        ],
        "warn": "回饋為 OPEN POINT，不是刷卡金；每月上限 100 點，總量 48 萬點送完為止"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "esun-ubear",
+   "name": "U Bear 信用卡",
+   "issuer": "玉山",
+   "source": {
+    "url": "https://www.esunbank.com/zh-tw/personal/credit-card/intro/bank-card/u-bear",
+    "secondary": "https://roo.cash/creditcard/info/esun-ubear",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/esun-ubear），尚未逐條對照銀行官網",
+    "期間：2026/9/1～2027/2/28；回饋為現金，逐筆無條件捨去",
+    "ASSUMPTION：一般回饋 1% 需同時「電子帳單＋臺幣自動扣繳」，只符合一項為 0.5%，此處假設兩項都符合",
+    "網購加碼 2%（含一般共 3%）需電子帳單，每期加碼上限 NT$150",
+    "數位訂閱 10% 每期上限 NT$100，且這些平台不另計一般回饋",
+    "未納入：新戶前兩個月加碼 10%、新卡指定通路 10%、首刷 NT$200（新戶／一次性）",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0.01,
+    "installmentRate": 0.01,
+    "excludedCategories": [
+     "excluded"
+    ],
+    "excludedMerchants": [
+     "Netflix",
+     "ChatGPT",
+     "Gemini",
+     "Steam",
+     "Nintendo",
+     "PlayStation"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "validFrom": "2026-09-01",
+     "validTo": "2027-02-28",
+     "rules": [
+      {
+       "id": "ubear-online",
+       "rate": 0.03,
+       "label": "網購 3%",
+       "match": {
+        "channel": "online"
+       },
+       "rewardCap": 150,
+       "validFrom": "2026-09-01",
+       "validTo": "2027-02-28",
+       "warn": "每期加碼上限 NT$150；需電子帳單"
+      },
+      {
+       "id": "ubear-mobile",
+       "rate": 0.03,
+       "label": "行動支付 3%",
+       "match": {
+        "excludeMerchants": [
+         "全聯福利中心",
+         "大全聯"
+        ]
+       },
+       "rewardCap": 150,
+       "payments": [
+        "linepay",
+        "jkopay",
+        "pxplus"
+       ],
+       "validFrom": "2026-09-01",
+       "validTo": "2027-02-28",
+       "warn": "LINE Pay、街口、全支付綁卡視為網購；全聯／大全聯與全支付繳費不算"
+      },
+      {
+       "id": "ubear-subs",
+       "rate": 0.1,
+       "label": "數位訂閱 10%",
+       "match": {
+        "merchants": [
+         "Netflix",
+         "ChatGPT",
+         "Gemini",
+         "Steam",
+         "Nintendo",
+         "PlayStation"
+        ]
+       },
+       "rewardCap": 100,
+       "validFrom": "2026-09-01",
+       "validTo": "2027-02-28",
+       "warn": "每期上限 NT$100"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "esun-pi-wallet",
+   "name": "Pi 拍錢包信用卡",
+   "issuer": "玉山",
+   "source": {
+    "url": "https://roo.cash/creditcard/info/esun-pi",
+    "secondary": "https://roo.cash/creditcard/info/esun-pi",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/esun-pi），尚未逐條對照銀行官網",
+    "期間：2026/9/1～2027/2/28；回饋為 P幣",
+    "ASSUMPTION：P幣以 1 點＝NT$1 計",
+    "ASSUMPTION：一般回饋 1% 需電子帳單（未申請為 0.3%），此處假設已申請",
+    "未納入：月消費 1～3 萬加碼 0.8%、3 萬以上加碼 2%（依整月總額計算，無法逐筆判斷；需登錄，上限 1,000 P幣）",
+    "保費一次付清 1.2%，不列入其他回饋",
+    "未納入：新戶前 3 個月加碼、首刷禮",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay",
+    "pipay"
+   ],
+   "base": {
+    "rate": 0.01,
+    "installmentRate": 0.01,
+    "excludedCategories": [
+     "excluded"
+    ],
+    "categoryRates": {
+     "insurance": 0.012
+    }
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "pi-wallet",
+       "rate": 0.05,
+       "label": "Pi 拍錢包綁卡 5%",
+       "match": {
+        "categories": [
+         "__any__"
+        ],
+        "region": "TW"
+       },
+       "payments": [
+        "pipay"
+       ],
+       "minAmount": 499,
+       "rewardCap": 300,
+       "validFrom": "2026-09-01",
+       "validTo": "2027-02-28",
+       "warn": "需綁 Pi 拍錢包付款、單筆滿 NT$499，並設定玉山臺幣帳戶自動扣繳；每月加碼上限 300 P幣；限 Pi 拍錢包合作商店"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "esun-unicard",
+   "name": "Unicard",
+   "issuer": "玉山",
+   "source": {
+    "url": "https://roo.cash/creditcard/info/esun-unicard",
+    "secondary": "https://roo.cash/creditcard/info/esun-unicard",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/esun-unicard），尚未逐條對照銀行官網",
+    "期間：2026 下半年（至 2026/12/31）；回饋為 e point（1 點＝NT$1），逐筆四捨五入",
+    "百大特店名單來源：https://www.beurlife.com/2024/08/esun-unicard-credit-card.html（2026 下半年版）",
+    "方案以「每月最後一天」的方案計算整月回饋，於玉山 Wallet 切換",
+    "ASSUMPTION：一般回饋 1% 需「玉山帳戶扣繳＋電子帳單」，未符合為 0.3%，此處假設都符合",
+    "UP選每月扣 149 點 e point（或上月簽帳 3 萬且平均資產 30 萬可免費），試算未扣除這筆費用",
+    "未納入：首刷禮、週三全聯玉山日、咖啡加碼、中油／台塑石油 PAY 登錄活動",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "add",
+   "fxFee": 0.015,
+   "planSwitch": "以每月最後一天的方案計算整月",
+   "switchApp": "玉山 Wallet",
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay",
+    "linepay",
+    "jkopay",
+    "easywallet",
+    "quanyingpay",
+    "pxplus",
+    "esunwallet",
+    "ipassmoney",
+    "icashpay",
+    "alipay"
+   ],
+   "base": {
+    "rate": 0.01,
+    "installmentRate": 0.01,
+    "excludedCategories": [
+     "convenience",
+     "excluded"
+    ],
+    "categoryRates": {
+     "insurance": 0
+    }
+   },
+   "plans": [
+    {
+     "id": "simple",
+     "name": "簡單選",
+     "rules": [
+      {
+       "id": "simple-baida",
+       "rate": 0.02,
+       "label": "百大特店",
+       "match": {
+        "merchants": [
+         "台灣中油直營站",
+         "台灣大車隊",
+         "臺鐵",
+         "台灣高鐵",
+         "Uber",
+         "新光三越",
+         "遠東百貨",
+         "遠東SOGO百貨",
+         "Big City遠東巨城",
+         "漢神百貨",
+         "微風廣場",
+         "台北101",
+         "華泰名品城",
+         "MITSUI OUTLET PARK",
+         "誠品生活",
+         "秀泰生活",
+         "Mitsui Shopping Park LaLaport",
+         "統一時代台北店",
+         "昇恆昌",
+         "環球購物中心",
+         "Uber Eats",
+         "foodpanda",
+         "王品瘋Pay",
+         "中華航空",
+         "長榮航空",
+         "日本航空",
+         "台灣虎航",
+         "樂桃航空",
+         "酷航",
+         "Trip.com",
+         "Booking.com",
+         "Hotels.com",
+         "Expedia",
+         "KKday",
+         "Klook",
+         "雄獅旅遊",
+         "可樂旅遊",
+         "東南旅遊",
+         "Agoda",
+         "五福旅遊",
+         "加利利旅行社",
+         "找到了旅行社",
+         "喜鴻假期",
+         "鳳凰旅行社",
+         "Apple 直營",
+         "小米台灣",
+         "全國電子",
+         "燦坤",
+         "拓元售票",
+         "威秀影城",
+         "國賓影城",
+         "新光影城",
+         "錢櫃KTV",
+         "家樂福",
+         "屈臣氏",
+         "特力屋",
+         "HOLA",
+         "ho!好好生活",
+         "康是美",
+         "杏一醫療",
+         "卡多摩嬰童館",
+         "momo購物網",
+         "蝦皮購物",
+         "淘寶／天貓",
+         "Coupang 酷澎",
+         "特斯拉"
+        ]
+       },
+       "rewardCap": 1000,
+       "warn": "加碼每月上限 NT$1,000；百貨內非百貨開立發票的專櫃不算"
+      },
+      {
+       "id": "simple-street",
+       "rate": 0.02,
+       "label": "百大特店（街邊店）",
+       "match": {
+        "merchants": [
+         "UNIQLO",
+         "NET"
+        ],
+        "notInMall": true,
+        "channel": "physical"
+       },
+       "rewardCap": 1000,
+       "warn": "限街邊店"
+      },
+      {
+       "id": "simple-mobile",
+       "rate": 0.02,
+       "label": "行動支付",
+       "match": {
+        "categories": [
+         "__any__"
+        ],
+        "excludeCategories": [
+         "convenience"
+        ],
+        "region": "TW"
+       },
+       "payments": [
+        "linepay",
+        "jkopay",
+        "easywallet",
+        "quanyingpay",
+        "pxplus",
+        "esunwallet",
+        "ipassmoney",
+        "icashpay",
+        "alipay"
+       ],
+       "rewardCap": 1000,
+       "warn": "LINE Pay 等行動支付綁卡；超商、繳費、稅款保費不算"
+      },
+      {
+       "id": "simple-overseas",
+       "rate": 0.02,
+       "label": "海外實體",
+       "match": {
+        "foreign": true,
+        "channel": "physical"
+       },
+       "rewardCap": 1000,
+       "warn": "限日韓泰越新中港澳美英法德義馬菲加澳紐的實體消費；英法德義不含 1% 一般回饋"
+      }
+     ]
+    },
+    {
+     "id": "any8",
+     "name": "任意選",
+     "rules": [
+      {
+       "id": "any8-baida",
+       "rate": 0.025,
+       "label": "百大特店",
+       "match": {
+        "merchants": [
+         "台灣中油直營站",
+         "台灣大車隊",
+         "臺鐵",
+         "台灣高鐵",
+         "Uber",
+         "新光三越",
+         "遠東百貨",
+         "遠東SOGO百貨",
+         "Big City遠東巨城",
+         "漢神百貨",
+         "微風廣場",
+         "台北101",
+         "華泰名品城",
+         "MITSUI OUTLET PARK",
+         "誠品生活",
+         "秀泰生活",
+         "Mitsui Shopping Park LaLaport",
+         "統一時代台北店",
+         "昇恆昌",
+         "環球購物中心",
+         "Uber Eats",
+         "foodpanda",
+         "王品瘋Pay",
+         "中華航空",
+         "長榮航空",
+         "日本航空",
+         "台灣虎航",
+         "樂桃航空",
+         "酷航",
+         "Trip.com",
+         "Booking.com",
+         "Hotels.com",
+         "Expedia",
+         "KKday",
+         "Klook",
+         "雄獅旅遊",
+         "可樂旅遊",
+         "東南旅遊",
+         "Agoda",
+         "五福旅遊",
+         "加利利旅行社",
+         "找到了旅行社",
+         "喜鴻假期",
+         "鳳凰旅行社",
+         "Apple 直營",
+         "小米台灣",
+         "全國電子",
+         "燦坤",
+         "拓元售票",
+         "威秀影城",
+         "國賓影城",
+         "新光影城",
+         "錢櫃KTV",
+         "家樂福",
+         "屈臣氏",
+         "特力屋",
+         "HOLA",
+         "ho!好好生活",
+         "康是美",
+         "杏一醫療",
+         "卡多摩嬰童館",
+         "momo購物網",
+         "蝦皮購物",
+         "淘寶／天貓",
+         "Coupang 酷澎",
+         "特斯拉"
+        ]
+       },
+       "rewardCap": 1000,
+       "warn": "任意選需自選 8 家特店，這裡假設已選到此店；加碼每月上限 NT$1,000；百貨內非百貨開立發票的專櫃不算"
+      },
+      {
+       "id": "any8-street",
+       "rate": 0.025,
+       "label": "百大特店（街邊店）",
+       "match": {
+        "merchants": [
+         "UNIQLO",
+         "NET"
+        ],
+        "notInMall": true,
+        "channel": "physical"
+       },
+       "rewardCap": 1000,
+       "warn": "任意選需自選 8 家特店，這裡假設已選到此店；限街邊店"
+      },
+      {
+       "id": "any8-mobile",
+       "rate": 0.025,
+       "label": "行動支付",
+       "match": {
+        "categories": [
+         "__any__"
+        ],
+        "excludeCategories": [
+         "convenience"
+        ],
+        "region": "TW"
+       },
+       "payments": [
+        "linepay",
+        "jkopay",
+        "easywallet",
+        "quanyingpay",
+        "pxplus",
+        "esunwallet",
+        "ipassmoney",
+        "icashpay",
+        "alipay"
+       ],
+       "rewardCap": 1000,
+       "warn": "任意選需自選 8 家特店，這裡假設已選到此店；LINE Pay 等行動支付綁卡；超商、繳費、稅款保費不算"
+      },
+      {
+       "id": "any8-overseas",
+       "rate": 0.025,
+       "label": "海外實體",
+       "match": {
+        "foreign": true,
+        "channel": "physical"
+       },
+       "rewardCap": 1000,
+       "warn": "任意選需自選 8 家特店，這裡假設已選到此店；限日韓泰越新中港澳美英法德義馬菲加澳紐的實體消費；英法德義不含 1% 一般回饋"
+      }
+     ]
+    },
+    {
+     "id": "up",
+     "name": "UP選",
+     "warn": "UP選每月需 149 點 e point 或達免費升級條件",
+     "rules": [
+      {
+       "id": "up-baida",
+       "rate": 0.035,
+       "label": "百大特店",
+       "match": {
+        "merchants": [
+         "台灣中油直營站",
+         "台灣大車隊",
+         "臺鐵",
+         "台灣高鐵",
+         "Uber",
+         "新光三越",
+         "遠東百貨",
+         "遠東SOGO百貨",
+         "Big City遠東巨城",
+         "漢神百貨",
+         "微風廣場",
+         "台北101",
+         "華泰名品城",
+         "MITSUI OUTLET PARK",
+         "誠品生活",
+         "秀泰生活",
+         "Mitsui Shopping Park LaLaport",
+         "統一時代台北店",
+         "昇恆昌",
+         "環球購物中心",
+         "Uber Eats",
+         "foodpanda",
+         "王品瘋Pay",
+         "中華航空",
+         "長榮航空",
+         "日本航空",
+         "台灣虎航",
+         "樂桃航空",
+         "酷航",
+         "Trip.com",
+         "Booking.com",
+         "Hotels.com",
+         "Expedia",
+         "KKday",
+         "Klook",
+         "雄獅旅遊",
+         "可樂旅遊",
+         "東南旅遊",
+         "Agoda",
+         "五福旅遊",
+         "加利利旅行社",
+         "找到了旅行社",
+         "喜鴻假期",
+         "鳳凰旅行社",
+         "Apple 直營",
+         "小米台灣",
+         "全國電子",
+         "燦坤",
+         "拓元售票",
+         "威秀影城",
+         "國賓影城",
+         "新光影城",
+         "錢櫃KTV",
+         "家樂福",
+         "屈臣氏",
+         "特力屋",
+         "HOLA",
+         "ho!好好生活",
+         "康是美",
+         "杏一醫療",
+         "卡多摩嬰童館",
+         "momo購物網",
+         "蝦皮購物",
+         "淘寶／天貓",
+         "Coupang 酷澎",
+         "特斯拉"
+        ]
+       },
+       "rewardCap": 5000,
+       "warn": "加碼每月上限 NT$5,000；百貨內非百貨開立發票的專櫃不算"
+      },
+      {
+       "id": "up-street",
+       "rate": 0.035,
+       "label": "百大特店（街邊店）",
+       "match": {
+        "merchants": [
+         "UNIQLO",
+         "NET"
+        ],
+        "notInMall": true,
+        "channel": "physical"
+       },
+       "rewardCap": 5000,
+       "warn": "限街邊店"
+      },
+      {
+       "id": "up-mobile",
+       "rate": 0.035,
+       "label": "行動支付",
+       "match": {
+        "categories": [
+         "__any__"
+        ],
+        "excludeCategories": [
+         "convenience"
+        ],
+        "region": "TW"
+       },
+       "payments": [
+        "linepay",
+        "jkopay",
+        "easywallet",
+        "quanyingpay",
+        "pxplus",
+        "esunwallet",
+        "ipassmoney",
+        "icashpay",
+        "alipay"
+       ],
+       "rewardCap": 5000,
+       "warn": "LINE Pay 等行動支付綁卡；超商、繳費、稅款保費不算"
+      },
+      {
+       "id": "up-overseas",
+       "rate": 0.035,
+       "label": "海外實體",
+       "match": {
+        "foreign": true,
+        "channel": "physical"
+       },
+       "rewardCap": 5000,
+       "warn": "限日韓泰越新中港澳美英法德義馬菲加澳紐的實體消費；英法德義不含 1% 一般回饋"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "esun-kumamon",
+   "name": "熊本熊卡",
+   "issuer": "玉山",
+   "source": {
+    "url": "https://roo.cash/creditcard/info/esun-kumamon",
+    "secondary": "https://roo.cash/creditcard/info/esun-kumamon",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/esun-kumamon），尚未逐條對照銀行官網",
+    "期間：2026/7/1～2026/12/31；國內回饋直接折抵帳單",
+    "國內一般 0.5% 需電子帳單＋玉山帳戶自動扣繳",
+    "日本一般 2.5% 無上限；日本指定通路再加碼 6%（需登錄一次），每期加碼上限 NT$500",
+    "ASSUMPTION：只有日本的回饋率有公布，其他國家以國內一般回饋計",
+    "ASSUMPTION：雙幣卡外幣交易以外幣結算，手續費仍以 1.5% 計",
+    "未納入：日本 PayPay 綁玉山 Wallet 3.5%（每季上限 NT$100）",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0.005,
+    "installmentRate": 0.005,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "validFrom": "2026-07-01",
+     "validTo": "2026-12-31",
+     "rules": [
+      {
+       "id": "kuma-jp",
+       "rate": 0.025,
+       "label": "日本一般 2.5%",
+       "match": {
+        "region": "JP"
+       }
+      },
+      {
+       "id": "kuma-jp-designated",
+       "rate": 0.085,
+       "label": "日本指定通路 8.5%",
+       "match": {
+        "region": "JP",
+        "merchants": [
+         "Apple錢包交通卡（Suica／PASMO／ICOCA）",
+         "TOYOTA Rent a Car",
+         "Times Car Rental",
+         "NIPPON RENT-A-CAR",
+         "OTS 租車",
+         "ORIX 租車",
+         "Budget 租車",
+         "JR 鐵路公司",
+         "日本航空",
+         "樂天旅遊",
+         "東橫INN",
+         "星野集團",
+         "Prince Hotel",
+         "BicCamera",
+         "Yodobashi",
+         "松本清",
+         "DON DON DONKI",
+         "大國藥妝",
+         "無印良品",
+         "MITSUI OUTLET PARK",
+         "Alpen GROUP",
+         "UNIQLO",
+         "GU",
+         "Montbell",
+         "勝烈亭",
+         "敘敘苑",
+         "牛角",
+         "力丸燒肉",
+         "六歌仙燒肉",
+         "人形町今半",
+         "Shake Shack",
+         "DOUTOR Coffee",
+         "Fuglen",
+         "鳥貴族",
+         "一蘭拉麵",
+         "松屋",
+         "すき家 SUKIYA",
+         "台灣壽司郎",
+         "藏壽司",
+         "東京迪士尼樂園",
+         "東京華納兄弟哈利波特影城",
+         "大阪環球影城(USJ)",
+         "豪斯登堡",
+         "九州非洲獅樂園",
+         "名古屋樂高樂園",
+         "吉伊卡哇樂園"
+        ]
+       },
+       "rewardCap": 500,
+       "uncappedRate": 0.025,
+       "warn": "需登錄一次；6% 加碼每期上限 NT$500；壽司郎等餐廳限日本分店"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ctbc-foodpanda",
+   "name": "foodpanda 聯名卡",
+   "issuer": "中國信託",
+   "source": {
+    "url": "https://roo.cash/creditcard/info/ctbc-foodpanda",
+    "secondary": "https://roo.cash/creditcard/info/ctbc-foodpanda",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/ctbc-foodpanda），尚未逐條對照銀行官網",
+    "期間：2026/1/1～2026/12/31（一般回饋）",
+    "國內外一般 1% 現金回饋無上限；海外實體 2%（含 1%）",
+    "foodpanda 平台加碼與指定餐廳加碼（胖達幣）的活動期間是 2026/7/1～9/30，已結束，第四季內容尚未公布，未納入",
+    "ASSUMPTION：支付方式限制頁面未說明，指定回饋暫定實體卡與手機錢包適用",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0.01,
+    "installmentRate": 0,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "validFrom": "2026-01-01",
+     "validTo": "2026-12-31",
+     "rules": [
+      {
+       "id": "fp-overseas",
+       "rate": 0.02,
+       "label": "海外實體 2%",
+       "match": {
+        "foreign": true,
+        "channel": "physical"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ctbc-cpc-vip",
+   "name": "中油 VIP 聯名卡",
+   "issuer": "中國信託",
+   "source": {
+    "url": "https://roo.cash/creditcard/info/ctbc-cpccard",
+    "secondary": "https://roo.cash/creditcard/info/ctbc-cpccard",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/ctbc-cpccard），尚未逐條對照銀行官網",
+    "期間：2026/6/1～2026/9/30 的活動頁資訊；整理網站標示更新日為 2024/4/6，與活動日期不一致，需對照官網",
+    "中油站加油約 2.8%：中油 VIP 點數加倍（約 2%，需中油Pay、單筆滿 NT$50、手機會員卡）＋中信紅利（約 0.8%）",
+    "ASSUMPTION：中油 VIP 點數與中信紅利的換算價值依整理網站（5,000 VIP 點折 NT$25 油資；100 紅利＝NT$8）",
+    "ASSUMPTION：頁面未列一般消費回饋，暫以 0 計",
+    "未納入：行動捷利卡線上儲值 2%～4%（儲值不是消費）、新戶首刷禮",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "cpcpay"
+   ],
+   "base": {
+    "rate": 0,
+    "installmentRate": 0,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "cpc-gas",
+       "rate": 0.028,
+       "label": "中油加油 2.8%",
+       "match": {
+        "merchants": [
+         "台灣中油直營站"
+        ]
+       },
+       "payments": [
+        "cpcpay"
+       ],
+       "minAmount": 50,
+       "warn": "需用中油Pay 付款、單筆滿 NT$50；回饋為中油 VIP 點數＋中信紅利，不是現金"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ctbc-lalaport",
+   "name": "Mitsui Shopping Park LaLaport 聯名卡",
+   "issuer": "中國信託",
+   "source": {
+    "url": "https://roo.cash/creditcard/info/ctbc-lalaport",
+    "secondary": "https://roo.cash/creditcard/info/ctbc-lalaport",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/ctbc-lalaport），尚未逐條對照銀行官網",
+    "期間：2026/1/1～2026/12/31；回饋為中信紅利（1 點＝NT$1）",
+    "館外一般 0.5%、館內一般 0.8%，皆無上限",
+    "館內＝LaLaport 內、開立指定兩家公司發票的店家",
+    "整理網站標示更新日為 2024/7/10，與 2026 活動日期不一致，需對照官網",
+    "未納入：每日免費停車 2 小時、日本 LaLaport 折扣券、新戶首刷禮",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0.005,
+    "installmentRate": 0,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "validFrom": "2026-01-01",
+     "validTo": "2026-12-31",
+     "rules": [
+      {
+       "id": "lala-mall",
+       "rate": 0.008,
+       "label": "LaLaport 館內 0.8%",
+       "match": {
+        "merchants": [
+         "Mitsui Shopping Park LaLaport"
+        ]
+       }
+      },
+      {
+       "id": "lala-dining",
+       "rate": 0.04,
+       "label": "LaLaport 館內餐飲 4%",
+       "match": {
+        "merchants": [
+         "Mitsui Shopping Park LaLaport"
+        ],
+        "categories": [
+         "dining"
+        ]
+       },
+       "rewardCap": 500,
+       "uncappedRate": 0.008,
+       "warn": "加碼每月上限 500 點（正附卡合併）"
+      },
+      {
+       "id": "lala-lopia",
+       "rate": 0.02,
+       "label": "LOPIA 2%",
+       "match": {
+        "merchants": [
+         "LOPIA台灣"
+        ]
+       },
+       "rewardCap": 500,
+       "uncappedRate": 0.008,
+       "warn": "限 LaLaport 內的 LOPIA 門市；加碼每月上限 500 點（正附卡合併）"
+      }
+     ]
+    },
+    {
+     "id": "birthday",
+     "name": "壽星月",
+     "requires": {
+      "birthdayMonth": true
+     },
+     "validFrom": "2026-01-01",
+     "validTo": "2026-12-31",
+     "rules": [
+      {
+       "id": "lala-bday",
+       "rate": 0.06,
+       "label": "壽星月 LaLaport 館內 6%",
+       "match": {
+        "merchants": [
+         "Mitsui Shopping Park LaLaport"
+        ]
+       },
+       "rewardCap": 500,
+       "uncappedRate": 0.008,
+       "warn": "加碼每月上限 500 點（正附卡合併）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sinopac-daway",
+   "name": "DAWAY 卡",
+   "issuer": "永豐",
+   "source": {
+    "url": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/list.html",
+    "secondary": "https://roo.cash/creditcard/info/sinopac-daway",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/sinopac-daway），尚未逐條對照銀行官網",
+    "期間：2026/7/1～2026/12/31；回饋為 LINE POINTS，需先綁定 LINE Pay 才能入點",
+    "ASSUMPTION：LINE POINTS 以 1 點＝NT$1 計",
+    "DAWAY GO 加碼 1.5% 需完成三項任務（永豐自扣、電子／行動帳單、網銀會員＋投資屬性問卷），每月加碼上限 300 點",
+    "ASSUMPTION：DAWAY GO 加碼限以 LINE Pay 付款（頁面標示「LINE Pay」加碼）",
+    "未納入：新戶加碼 6%、酷澎每週三加碼（限星期三，無法依星期判斷）、韓國／Olive Young 限量登錄活動、千日慶滿額活動、夜市抽獎",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "add",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay",
+    "linepay"
+   ],
+   "base": {
+    "rate": 0.005,
+    "foreignRate": 0.025,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "daway-go",
+       "rate": 0.015,
+       "label": "DAWAY GO +1.5%",
+       "match": {
+        "categories": [
+         "__any__"
+        ]
+       },
+       "payments": [
+        "linepay"
+       ],
+       "rewardCap": 300,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需完成 DAWAY GO 三項任務；每月加碼上限 300 點（LINE POINTS）"
+      },
+      {
+       "id": "daway-louisa",
+       "rate": 0.065,
+       "label": "路易莎 +6.5%",
+       "match": {
+        "merchants": [
+         "路易莎咖啡"
+        ]
+       },
+       "payments": [
+        "linepay"
+       ],
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "LINE Pay 綁卡付款；加碼 5% 另含 DAWAY GO 1.5%（LINE POINTS）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sinopac-bibei",
+   "name": "幣倍卡",
+   "issuer": "永豐",
+   "source": {
+    "url": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/list.html",
+    "secondary": "https://roo.cash/creditcard/info/sinopac-coin",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/sinopac-coin），尚未逐條對照銀行官網",
+    "期間：2026/7/1～2026/12/31；現金回饋",
+    "精選通路加碼 4% 需完成兩項任務：自動扣繳＋電子帳單，以及大戶／大戶Plus 或前月平均資產 10 萬以上；每期加碼上限 NT$800",
+    "ASSUMPTION：加碼 4% 疊加在一般回饋（國內 1%、海外 2%）上",
+    "ASSUMPTION：航空公司、旅行社以 merchants.json 既有名單代表，官網為「航空公司／旅行社」整類",
+    "保費 1.2% 無上限（MCC 6300，分期不適用）",
+    "未納入：新申辦 Apple Pay／Google Pay 加碼 2%（新卡）、海外滿額抽獎與登錄刷卡金、外匯優惠",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "add",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0.01,
+    "foreignRate": 0.02,
+    "excludedCategories": [
+     "excluded"
+    ],
+    "categoryRates": {
+     "insurance": 0.012
+    }
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "bibei-overseas-store",
+       "rate": 0.04,
+       "label": "海外實體 +4%",
+       "match": {
+        "foreign": true,
+        "channel": "physical"
+       },
+       "rewardCap": 800,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需完成兩項任務；每期加碼上限 NT$800"
+      },
+      {
+       "id": "bibei-online",
+       "rate": 0.04,
+       "label": "指定海外網購 +4%",
+       "match": {
+        "merchants": [
+         "Apple錢包交通卡（Suica／PASMO／ICOCA）",
+         "大國藥妝",
+         "Sugi藥妝",
+         "Rakuten",
+         "Mercari",
+         "Amazon",
+         "iHerb",
+         "Selfridges",
+         "eBay",
+         "淘寶／天貓",
+         "Gmarket",
+         "Olive Young"
+        ]
+       },
+       "rewardCap": 800,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需完成兩項任務；每期加碼上限 NT$800"
+      },
+      {
+       "id": "bibei-travel",
+       "rate": 0.04,
+       "label": "旅遊 +4%",
+       "match": {
+        "merchants": [
+         "中華航空",
+         "長榮航空",
+         "星宇航空",
+         "台灣虎航",
+         "國泰航空",
+         "樂桃航空",
+         "日本航空",
+         "ANA全日空",
+         "雄獅旅遊",
+         "可樂旅遊",
+         "東南旅遊",
+         "ezTravel易遊網",
+         "Booking.com",
+         "Agoda",
+         "Hotels.com",
+         "Expedia",
+         "Trip.com",
+         "Airbnb",
+         "Klook",
+         "KKday",
+         "Trivago",
+         "AsiaYo"
+        ]
+       },
+       "rewardCap": 800,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需完成兩項任務；每期加碼上限 NT$800"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sinopac-cashback-jcb",
+   "name": "現金回饋 JCB 卡",
+   "issuer": "永豐",
+   "source": {
+    "url": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/list.html",
+    "secondary": "https://roo.cash/creditcard/info/sinopac-cash",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/sinopac-cash），尚未逐條對照銀行官網",
+    "特選通路期間：2026/7/1～2027/3/31；現金回饋（次期帳單折抵）",
+    "特選通路加碼 3%（含一般共 5%；日本以日圓計價為 2%＋3%），每期加碼上限 NT$300",
+    "保費 1%（富邦人壽、三商美邦除外；分期不回饋），與一般回饋相同，未另設規則",
+    "未納入：新戶指定支付加碼 6%（限新戶、需登錄限量）、日韓泰季滿 2 萬 5% 刷卡金（需登錄限量、依季累計）、國內滿萬 NT$50、首刷禮、全聯新戶加碼",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "add",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "pxplus"
+   ],
+   "base": {
+    "rate": 0.01,
+    "foreignRate": 0.02,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "jcb-online",
+       "rate": 0.03,
+       "label": "網購 +3%",
+       "match": {
+        "merchants": [
+         "蝦皮購物",
+         "momo購物網",
+         "PChome 24h購物",
+         "淘寶／天貓",
+         "東森購物",
+         "Yahoo奇摩購物中心",
+         "friDay購物",
+         "台灣樂天市場",
+         "生活市集",
+         "Amazon",
+         "Coupang 酷澎"
+        ]
+       },
+       "rewardCap": 300,
+       "validFrom": "2026-07-01",
+       "validTo": "2027-03-31",
+       "warn": "需自動扣繳＋電子／行動帳單；每期加碼上限 NT$300"
+      },
+      {
+       "id": "jcb-dept",
+       "rate": 0.03,
+       "label": "百貨 +3%",
+       "match": {
+        "merchants": [
+         "漢神巨蛋",
+         "漢神百貨",
+         "遠東SOGO百貨",
+         "遠東百貨"
+        ]
+       },
+       "rewardCap": 300,
+       "validFrom": "2026-07-01",
+       "validTo": "2027-03-31",
+       "warn": "需自動扣繳＋電子／行動帳單；每期加碼上限 NT$300"
+      },
+      {
+       "id": "jcb-japan",
+       "rate": 0.03,
+       "label": "日本 +3%",
+       "match": {
+        "region": "JP"
+       },
+       "rewardCap": 300,
+       "validFrom": "2026-07-01",
+       "validTo": "2027-03-31",
+       "warn": "限以日圓計價；需自動扣繳＋電子／行動帳單；每期加碼上限 NT$300"
+      },
+      {
+       "id": "jcb-pxplus",
+       "rate": 0.03,
+       "label": "全支付 +3%",
+       "match": {
+        "categories": [
+         "__any__"
+        ]
+       },
+       "payments": [
+        "pxplus"
+       ],
+       "rewardCap": 300,
+       "validFrom": "2026-07-01",
+       "validTo": "2027-03-31",
+       "warn": "需綁定全支付付款；需自動扣繳＋電子／行動帳單；每期加碼上限 NT$300"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sinopac-miramar",
+   "name": "美麗華卡",
+   "issuer": "永豐",
+   "source": {
+    "url": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/list.html",
+    "secondary": "https://roo.cash/creditcard/info/sinopac-miramar",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/sinopac-miramar），尚未逐條對照銀行官網",
+    "期間：2026/7/1～2026/12/31；回饋為紅利點數：一般消費每 NT$30 累積 1 點，美麗華館內 2 倍",
+    "ASSUMPTION：紅利以館內折抵價值 1,000 點＝NT$60 計（每點 NT$0.06），一般 0.2%、館內 0.4%",
+    "ASSUMPTION：海外消費回饋與國內相同（頁面未提供）",
+    "已分期的消費不享紅利",
+    "未納入：館內購物最低 85 折、滿額贈商品券、館外滿萬影城刷卡金、摩天輪優惠票、首刷禮",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0.002,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "miramar-inmall",
+       "rate": 0.004,
+       "label": "美麗華館內紅利 2 倍",
+       "match": {
+        "merchants": [
+         "美麗華百樂園"
+        ]
+       },
+       "warn": "回饋為紅利點數（每點約 NT$0.06）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sinopac-55688",
+   "name": "55688 聯名卡",
+   "issuer": "永豐",
+   "source": {
+    "url": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/list.html",
+    "secondary": "https://roo.cash/creditcard/info/sinopac-55688",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/sinopac-55688），尚未逐條對照銀行官網",
+    "期間：2026/7/1～2026/12/31；回饋為 T Points（可折抵車資與 55688 卡帳單）",
+    "ASSUMPTION：T Points 以 1 點＝NT$1 計",
+    "55688 APP 即時綁卡交易 8%（每月上限 200 點），且不另計一般 1%；手動輸入卡號不回饋",
+    "精選交通加碼 3%（含一般共 4%）需永豐／京城自動扣繳，每月加碼上限 200 點，分期不適用",
+    "ASSUMPTION：國內餐廳以 dining 類別＋台灣地區判斷",
+    "未納入：新戶 APP 綁卡再加碼 10%、首辦百搭生活券、盲盒抽獎、首刷禮；部分充電樁品牌（裕電、全國特急電、特爾電力、SharkParking、BEGIN）不在商家清單",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "add",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0.01,
+    "excludedCategories": [
+     "excluded"
+    ],
+    "excludedMerchants": [
+     "台灣大車隊"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "55688-app",
+       "rate": 0.08,
+       "label": "55688 APP 綁卡 8%",
+       "match": {
+        "merchants": [
+         "台灣大車隊"
+        ]
+       },
+       "rewardCap": 200,
+       "uncappedRate": 0,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需在 55688 APP 即時綁卡；每月上限 200 T Points"
+      },
+      {
+       "id": "55688-transport",
+       "rate": 0.03,
+       "label": "精選交通 +3%",
+       "match": {
+        "merchants": [
+         "台灣高鐵",
+         "臺鐵",
+         "台灣中油直營站",
+         "全國加油站",
+         "台亞加油站",
+         "特斯拉",
+         "EVALUE",
+         "foodpanda"
+        ]
+       },
+       "rewardCap": 200,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需永豐自動扣繳；每月加碼上限 200 T Points"
+      },
+      {
+       "id": "55688-dining",
+       "rate": 0.03,
+       "label": "國內餐廳 +3%",
+       "match": {
+        "categories": [
+         "dining"
+        ],
+        "region": "TW"
+       },
+       "rewardCap": 200,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需永豐自動扣繳；每月加碼上限 200 T Points（與交通共用）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sinopac-baobei",
+   "name": "保倍卡",
+   "issuer": "永豐",
+   "source": {
+    "url": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/list.html",
+    "secondary": "https://roo.cash/creditcard/info/sinopac-insurance",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/sinopac-insurance），尚未逐條對照銀行官網",
+    "期間：2026/1/1～2026/12/31",
+    "保費（MCC 6300）1.2% 現金回饋無上限；三商美邦限傳統型壽險；保費分期則不回饋",
+    "一般消費每 NT$30 累積 1 點紅利；累積 1 萬以上 2 倍、8 萬以上 5 倍（依累計金額，無法逐筆判斷，未納入）",
+    "ASSUMPTION：紅利以每點 NT$0.06 計（同永豐紅利折抵比例），一般消費約 0.2%",
+    "ASSUMPTION：海外消費回饋與國內相同（頁面未提供）",
+    "未納入：新卡保費加碼 3%（120 天內、需登錄）、鈦金卡 7-ELEVEN 禮券、首刷禮",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0.002,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "baobei-insurance",
+       "rate": 0.012,
+       "label": "保費 1.2%",
+       "match": {
+        "categories": [
+         "insurance"
+        ]
+       },
+       "validFrom": "2026-01-01",
+       "validTo": "2026-12-31",
+       "warn": "限一次付清；保費分期不回饋"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sinopac-mitsui-outlet-park",
+   "name": "MITSUI OUTLET PARK 卡",
+   "issuer": "永豐",
+   "source": {
+    "url": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/list.html",
+    "secondary": "https://roo.cash/creditcard/info/sinopac-mitsui",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/sinopac-mitsui），尚未逐條對照銀行官網",
+    "期間：2026/7/1～2026/12/31；豐點 1 點＝NT$1",
+    "館內單筆 3 萬以下 0.5%、3 萬以上 1%；館外 0.3%；已分期不回饋",
+    "館外餐飲與全盈+PAY 7% 刷卡金需登錄＋電子帳單＋永豐自扣，每期上限 NT$100；不含林口／台中港／台南館內餐飲與小額支付店家",
+    "ASSUMPTION：7% 為總回饋（含一般 0.3%）",
+    "ASSUMPTION：海外消費回饋與館外相同（頁面未提供）",
+    "未納入：JCB 日韓泰季滿 3 萬 2%（需登錄限量）、台南週年慶滿額禮、館內 85 折、免費停車",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay",
+    "quanyingpay"
+   ],
+   "base": {
+    "rate": 0.003,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "mop-inmall",
+       "rate": 0.005,
+       "label": "館內 0.5%",
+       "match": {
+        "merchants": [
+         "MITSUI OUTLET PARK"
+        ]
+       },
+       "warn": "回饋為豐點"
+      },
+      {
+       "id": "mop-inmall-30k",
+       "rate": 0.01,
+       "label": "館內滿 3 萬 1%",
+       "match": {
+        "merchants": [
+         "MITSUI OUTLET PARK"
+        ]
+       },
+       "minAmount": 30000,
+       "warn": "單筆滿 NT$30,000；回饋為豐點"
+      },
+      {
+       "id": "mop-dining",
+       "rate": 0.07,
+       "label": "館外餐飲 7%",
+       "match": {
+        "categories": [
+         "dining"
+        ],
+        "excludeMerchants": [
+         "MITSUI OUTLET PARK"
+        ]
+       },
+       "rewardCap": 100,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需登錄＋電子帳單＋永豐自扣；每期上限 NT$100"
+      },
+      {
+       "id": "mop-quanying",
+       "rate": 0.07,
+       "label": "全盈+PAY 7%",
+       "match": {
+        "categories": [
+         "__any__"
+        ]
+       },
+       "payments": [
+        "quanyingpay"
+       ],
+       "rewardCap": 100,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需登錄＋電子帳單＋永豐自扣；每期上限 NT$100"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sinopac-green",
+   "name": "現金回饋 Green 卡",
+   "issuer": "永豐",
+   "source": {
+    "url": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/list.html",
+    "secondary": "https://roo.cash/creditcard/info/sinopac-green",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/sinopac-green），尚未逐條對照銀行官網",
+    "期間：2026/7/1～2026/12/31；現金回饋（次期帳單）",
+    "綠色通路加碼 4%（含一般共 5%）需電子／行動帳單＋永豐／京城自扣，每期加碼上限 NT$300",
+    "ASSUMPTION：綠色通路名單只收錄能確定中文名稱的品牌；完整名單另有多家蔬食餐廳、飯店、有機店、充電樁與公益團體",
+    "ASSUMPTION：悠遊付付款視為綠色通路（官網列「Green行動：悠遊付」）",
+    "未納入：新戶悠遊卡自動加值 4%、首刷禮",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "add",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay",
+    "easywallet"
+   ],
+   "base": {
+    "rate": 0.01,
+    "foreignRate": 0.02,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "green-merchants",
+       "rate": 0.04,
+       "label": "綠色通路 +4%",
+       "match": {
+        "merchants": [
+         "星巴克",
+         "路易莎咖啡",
+         "台灣壽司郎",
+         "摩斯漢堡",
+         "屋馬燒肉",
+         "捷絲旅",
+         "台北晶華酒店",
+         "希爾頓",
+         "台北圓山大飯店",
+         "威秀影城",
+         "新光影城",
+         "喜樂時代影城",
+         "寬宏售票",
+         "KKTIX",
+         "拓元售票",
+         "年代售票",
+         "ChargeSPOT",
+         "全國電子",
+         "家樂福",
+         "UNIQLO",
+         "H&M",
+         "ZARA",
+         "GU",
+         "GAP",
+         "NET",
+         "Aesop",
+         "棉花田",
+         "iRent",
+         "GoShare",
+         "Gogoro",
+         "WeMo",
+         "LINE GO",
+         "特斯拉",
+         "EVALUE",
+         "EVOASIS",
+         "台北捷運",
+         "World Gym",
+         "健身工廠",
+         "Curves",
+         "Anytime Fitness",
+         "DAZN",
+         "App Store",
+         "Google Play",
+         "Nintendo",
+         "PlayStation",
+         "Steam",
+         "Blizzard"
+        ]
+       },
+       "rewardCap": 300,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需設定永豐／京城帳戶自動扣繳＋電子或行動帳單；每期加碼上限 NT$300"
+      },
+      {
+       "id": "green-easywallet",
+       "rate": 0.04,
+       "label": "悠遊付 +4%",
+       "match": {
+        "categories": [
+         "__any__"
+        ],
+        "region": "TW"
+       },
+       "payments": [
+        "easywallet"
+       ],
+       "rewardCap": 300,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需設定永豐／京城帳戶自動扣繳＋電子或行動帳單；每期加碼上限 NT$300"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sinopac-dawho",
+   "name": "DAWHO 現金回饋信用卡",
+   "issuer": "永豐",
+   "source": {
+    "url": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/list.html",
+    "secondary": "https://roo.cash/creditcard/info/sinopac-dawho",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/sinopac-dawho），尚未逐條對照銀行官網",
+    "期間：2026/1/1～2026/12/31；現金回饋",
+    "等級：1＝大戶（加碼 2.5%，每月上限 NT$400）、2＝大戶Plus（加碼 4%，每月上限 NT$1,000）；大大等級沒有加碼，本設定無法表示，持大大等級者實際只有一般回饋",
+    "ASSUMPTION：加碼疊加在一般回饋（國內 1%、海外 2%）上，適用一般消費、不含保費",
+    "悠遊卡自動加值另有加碼（大戶 3%、Plus 5%），自動加值屬 excluded 類別，未納入",
+    "未納入：新戶指定行動支付最高 20%（上限 NT$500）",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "add",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0.01,
+    "foreignRate": 0.02,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "dawho-tier",
+       "rate": {
+        "byLevel": {
+         "1": 0.025,
+         "2": 0.04
+        }
+       },
+       "label": "大戶等級加碼",
+       "match": {
+        "categories": [
+         "__any__"
+        ],
+        "excludeCategories": [
+         "insurance",
+         "excluded"
+        ]
+       },
+       "rewardCap": {
+        "byLevel": {
+         "1": 400,
+         "2": 1000
+        }
+       },
+       "validFrom": "2026-01-01",
+       "validTo": "2026-12-31",
+       "warn": "依大戶等級；大戶每月加碼上限 NT$400、大戶Plus NT$1,000"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sinopac-dream-travel",
+   "name": "夢行卡",
+   "issuer": "永豐",
+   "source": {
+    "url": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/list.html",
+    "secondary": "https://roo.cash/creditcard/info/sinopac-dream",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/sinopac-dream），尚未逐條對照銀行官網",
+    "整理網站最後更新 2026/1/28，列出的活動期間至 2026/6/30，已過期；目前只建一般回饋",
+    "ASSUMPTION：一般回饋國內 1%、海外 2% 持續有效，下季更新時需確認",
+    "未納入：指定生活通路最高 5%（名單未公布、期間已過）、保費 1%（期間已過）",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0.01,
+    "foreignRate": 0.02,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "dream-overseas",
+       "rate": 0.02,
+       "label": "海外 2%",
+       "match": {
+        "foreign": true
+       },
+       "warn": "一般海外回饋"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "taishin-friday",
+   "name": "遠傳 friDay 聯名卡",
+   "issuer": "台新",
+   "source": {
+    "url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/",
+    "secondary": "https://roo.cash/creditcard/info/taishin-friday",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/taishin-friday），尚未逐條對照銀行官網",
+    "期間：2026/6/1～2027/1/31 結帳帳單；回饋為遠傳幣（1 遠傳幣＝NT$1，一年內有效）",
+    "會員日（週二、週五）精選消費加碼 4.5%（含一般共 5%），需台新帳戶自扣＋以台新留存門號綁定遠傳心生活 APP，每期加碼上限 1,500 遠傳幣",
+    "遠傳電信帳單代扣繳加碼 2%（含一般共 2.5%），每期上限 300 遠傳幣",
+    "ASSUMPTION：美食餐券「百大店家」名單不完整，只收錄頁面列出且已有商家資料的店家",
+    "未納入：新戶電信代扣繳加碼 7.5%、首刷 10%、6～8 月美食加碼（已過期）",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "add",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0.005,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "friday-memberday",
+       "rate": 0.045,
+       "label": "會員日 +4.5%",
+       "match": {
+        "merchants": [
+         "遠傳電信",
+         "friDay購物",
+         "Trip.com",
+         "Agoda",
+         "Klook",
+         "Booking.com",
+         "Airbnb",
+         "雄獅旅遊",
+         "東南旅遊",
+         "可樂旅遊",
+         "台灣中油直營站",
+         "全國加油站",
+         "雞湯大叔"
+        ]
+       },
+       "weekdays": [
+        2,
+        5
+       ],
+       "rewardCap": 1500,
+       "validFrom": "2026-06-01",
+       "validTo": "2027-01-31",
+       "warn": "限週二、週五；需綁定遠傳心生活 APP＋台新自扣；每期加碼上限 1,500 遠傳幣"
+      },
+      {
+       "id": "friday-telecom",
+       "rate": 0.02,
+       "label": "電信代扣繳 +2%",
+       "match": {
+        "merchants": [
+         "遠傳電信"
+        ]
+       },
+       "rewardCap": 300,
+       "validFrom": "2026-06-01",
+       "validTo": "2027-01-31",
+       "warn": "需設定遠傳帳單代扣繳；每期加碼上限 300 遠傳幣"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "taishin-skm",
+   "name": "新光三越聯名卡",
+   "issuer": "台新",
+   "source": {
+    "url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/",
+    "secondary": "https://roo.cash/creditcard/info/taishin-skb",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/taishin-skb），尚未逐條對照銀行官網",
+    "期間：2026/1/1～2026/12/31；回饋為台新Point（1 點＝NT$1 折抵帳單）",
+    "等級：1＝御璽／鈦金（館內週五～週日加碼 0.7%，每期上限 1,000 點）、2＝白金／金／普卡（加碼 0.6%，每期上限 1,200 點）",
+    "ASSUMPTION：海外消費與國內相同 0.3%（頁面未提供）",
+    "未納入：館內 9～95 折、免費停車、保費滿額抽獎與行李箱",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "add",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0.003,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "skm-weekend",
+       "rate": {
+        "byLevel": {
+         "1": 0.007,
+         "2": 0.006
+        }
+       },
+       "label": "新光三越週末加碼",
+       "match": {
+        "merchants": [
+         "新光三越"
+        ],
+        "channel": "physical"
+       },
+       "weekdays": [
+        5,
+        6,
+        0
+       ],
+       "rewardCap": {
+        "byLevel": {
+         "1": 1000,
+         "2": 1200
+        }
+       },
+       "validFrom": "2026-01-01",
+       "validTo": "2026-12-31",
+       "warn": "限週五～週日館內消費；每期加碼上限 御璽／鈦金 1,000 點、其他 1,200 點"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "taishin-zhuofu-infinite",
+   "name": "卓富無限卡",
+   "issuer": "台新",
+   "source": {
+    "url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/",
+    "secondary": "https://roo.cash/creditcard/info/taishin-wealth",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/taishin-wealth），尚未逐條對照銀行官網",
+    "期間：2026/1/1～2027/1/31 結帳帳單；現金回饋無上限",
+    "國內 1%、海外 3%、保費 1.5%",
+    "年費 NT$25,000；申辦需年收 200 萬或台新私人銀行／翡翠／鑽石會員",
+    "未納入：首刷 NT$10,000、米其林／五星餐廳 5 折、飯店 5 折、貴賓室、機場接送（皆為禮遇非回饋）",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0.01,
+    "foreignRate": 0.03,
+    "excludedCategories": [
+     "excluded"
+    ],
+    "categoryRates": {
+     "insurance": 0.015
+    }
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "zhuofu-overseas",
+       "rate": 0.03,
+       "label": "海外 3%",
+       "match": {
+        "foreign": true
+       },
+       "validFrom": "2026-01-01",
+       "validTo": "2027-01-31"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "taishin-pxmart-plus",
+   "name": "大全聯信用卡",
+   "issuer": "台新",
+   "source": {
+    "url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/",
+    "secondary": "https://roo.cash/creditcard/info/taishin-rtmart",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/taishin-rtmart），尚未逐條對照銀行官網",
+    "期間：2026/7/1～2026/12/31；回饋為大全聯福利點（10 點＝NT$1），需把福利卡號綁定 PX Pay，單筆滿 NT$100 才有點數",
+    "大全聯館內：每 NT$100 給 8＋4 點（1.2%）；單筆滿 NT$1,000 週年加碼 1.8%（每月上限 1,000 點）；綁全支付單筆滿 NT$1,000 再加碼 4%（每月上限 3,000 點）",
+    "ASSUMPTION：館內三項加碼合併上限以 NT$400（=1,000＋3,000 點）近似",
+    "ASSUMPTION：館外一般消費 0.3%（頁面未寫，依比較網站標示）；店外全支付最高 1.5% 限指定通路，名單未收錄，此處以全部店外全支付消費估算",
+    "未納入：卡友日週末滿額券、全聯卡友日、停車、分期",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay",
+    "pxplus"
+   ],
+   "base": {
+    "rate": 0.003,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "pxmart-in",
+       "rate": 0.012,
+       "label": "大全聯 1.2%",
+       "match": {
+        "merchants": [
+         "大全聯"
+        ]
+       },
+       "minAmount": 100,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "回饋為福利點；需綁定 PX Pay 會員"
+      },
+      {
+       "id": "pxmart-anniv",
+       "rate": 0.03,
+       "label": "大全聯滿千 3%",
+       "match": {
+        "merchants": [
+         "大全聯"
+        ]
+       },
+       "minAmount": 1000,
+       "rewardCap": 100,
+       "uncappedRate": 0.012,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "單筆滿 NT$1,000；週年加碼每月上限 1,000 點（NT$100）"
+      },
+      {
+       "id": "pxmart-pxplus",
+       "rate": 0.07,
+       "label": "大全聯全支付 7%",
+       "match": {
+        "merchants": [
+         "大全聯"
+        ]
+       },
+       "payments": [
+        "pxplus"
+       ],
+       "minAmount": 1000,
+       "rewardCap": 400,
+       "uncappedRate": 0.012,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需綁全支付、單筆滿 NT$1,000；加碼每月上限約 NT$400"
+      },
+      {
+       "id": "pxmart-pxplus-out",
+       "rate": 0.015,
+       "label": "店外全支付 1.5%",
+       "match": {
+        "categories": [
+         "__any__"
+        ],
+        "excludeMerchants": [
+         "大全聯"
+        ]
+       },
+       "payments": [
+        "pxplus"
+       ],
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "限全支付指定店外通路"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "taishin-mli",
+   "name": "三商美邦人壽聯名卡",
+   "issuer": "台新",
+   "source": {
+    "url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/",
+    "secondary": "https://roo.cash/creditcard/info/taishin-mli",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/taishin-mli），尚未逐條對照銀行官網",
+    "期間：2024/10/1～2026/12/31；現金回饋",
+    "三商美邦傳統型壽險保費 1.2%；其他險種頁面文字不清（約 0.2%）",
+    "ASSUMPTION：一般消費 0.5%（頁面未寫，依比較網站標示）；海外相同",
+    "整理網站最後更新 2026/1/28，資料可能較舊",
+    "未納入：一次付清保費加碼（已過期）、新戶分期優惠",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0.005,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "mli-premium",
+       "rate": 0.012,
+       "label": "三商美邦保費 1.2%",
+       "match": {
+        "merchants": [
+         "三商美邦人壽"
+        ]
+       },
+       "validTo": "2026-12-31",
+       "warn": "限傳統型壽險"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "taishin-evergreen-dutyfree",
+   "name": "昇恆昌聯名卡（御璽）",
+   "issuer": "台新",
+   "source": {
+    "url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/",
+    "secondary": "https://roo.cash/creditcard/info/taishin-everrichsignature",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/taishin-everrichsignature），尚未逐條對照銀行官網",
+    "期間：2026/2/1～2026/12/31 結帳帳單；現金回饋",
+    "國內 0.5%、海外 1.5%、航空／國內旅行社／昇恆昌指定市區店 2%，合併回饋上限 NT$2,500",
+    "ASSUMPTION：「旅行社」以 merchants.json 既有國內旅行社名單代表",
+    "ASSUMPTION：上限以指定通路單筆計算，海外一般回饋的共用上限未計入",
+    "未納入：免稅品 9 折起、貴賓室、停車、機場接送、首刷禮",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0.005,
+    "foreignRate": 0.015,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "taishin-evergreen-dutyfree-travel",
+       "rate": 0.02,
+       "label": "航空／旅行社 2%",
+       "match": {
+        "merchants": [
+         "中華航空",
+         "長榮航空",
+         "星宇航空",
+         "台灣虎航",
+         "國泰航空",
+         "樂桃航空",
+         "日本航空",
+         "ANA全日空",
+         "雄獅旅遊",
+         "可樂旅遊",
+         "東南旅遊",
+         "ezTravel易遊網",
+         "Ezfly易飛網",
+         "找到了旅行社"
+        ]
+       },
+       "rewardCap": 2500,
+       "uncappedRate": 0,
+       "validFrom": "2026-02-01",
+       "validTo": "2026-12-31",
+       "warn": "合併回饋上限 NT$2,500"
+      },
+      {
+       "id": "taishin-evergreen-dutyfree-store",
+       "rate": 0.02,
+       "label": "昇恆昌市區店 2%",
+       "match": {
+        "merchants": [
+         "昇恆昌"
+        ],
+        "channel": "physical"
+       },
+       "rewardCap": 2500,
+       "uncappedRate": 0,
+       "validFrom": "2026-02-01",
+       "validTo": "2026-12-31",
+       "warn": "昇恆昌限內湖旗艦店、金湖廣場、澎坊購物休閒廣場實體店"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "taishin-evergreen-dutyfree-infinite",
+   "name": "昇恆昌無限卡",
+   "issuer": "台新",
+   "source": {
+    "url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/",
+    "secondary": "https://roo.cash/creditcard/info/taishin-everrich",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/taishin-everrich），尚未逐條對照銀行官網",
+    "期間：2026/2/1～2026/12/31 結帳帳單；現金回饋",
+    "國內 1%（無上限）、海外 2.2%、航空／國內旅行社／昇恆昌指定市區店 3%，海外與指定通路合併上限 NT$25,000",
+    "年費 NT$25,000",
+    "ASSUMPTION：「旅行社」以 merchants.json 既有國內旅行社名單代表",
+    "ASSUMPTION：上限以指定通路單筆計算，海外一般回饋的共用上限未計入",
+    "未納入：免稅品 9 折起、貴賓室、停車、機場接送、首刷禮",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0.01,
+    "foreignRate": 0.022,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "taishin-evergreen-dutyfree-infinite-travel",
+       "rate": 0.03,
+       "label": "航空／旅行社 3%",
+       "match": {
+        "merchants": [
+         "中華航空",
+         "長榮航空",
+         "星宇航空",
+         "台灣虎航",
+         "國泰航空",
+         "樂桃航空",
+         "日本航空",
+         "ANA全日空",
+         "雄獅旅遊",
+         "可樂旅遊",
+         "東南旅遊",
+         "ezTravel易遊網",
+         "Ezfly易飛網",
+         "找到了旅行社"
+        ]
+       },
+       "rewardCap": 25000,
+       "uncappedRate": 0,
+       "validFrom": "2026-02-01",
+       "validTo": "2026-12-31",
+       "warn": "合併回饋上限 NT$25,000"
+      },
+      {
+       "id": "taishin-evergreen-dutyfree-infinite-store",
+       "rate": 0.03,
+       "label": "昇恆昌市區店 3%",
+       "match": {
+        "merchants": [
+         "昇恆昌"
+        ],
+        "channel": "physical"
+       },
+       "rewardCap": 25000,
+       "uncappedRate": 0,
+       "validFrom": "2026-02-01",
+       "validTo": "2026-12-31",
+       "warn": "昇恆昌限內湖旗艦店、金湖廣場、澎坊購物休閒廣場實體店"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "taishin-tk3c",
+   "name": "燦坤生活聯名卡",
+   "issuer": "台新",
+   "source": {
+    "url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/",
+    "secondary": "https://roo.cash/creditcard/info/taishin-tk3c",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/taishin-tk3c），尚未逐條對照銀行官網",
+    "期間：2026/2/1～2027/1/31 結帳帳單；回饋為燦坤 K幣",
+    "ASSUMPTION：K幣以 1 點＝NT$1 計",
+    "燦坤門市週末 2%、平日 1%，館外 0.3%，皆無上限",
+    "旅遊交通加碼：既有卡友 5%（新戶 10%），需登錄、每月限量 5,000 名、每月上限 200 K幣",
+    "ASSUMPTION：5% 為總回饋（含館外 0.3%）",
+    "ASSUMPTION：海外消費與館外相同 0.3%（頁面未提供）",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0.003,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "tk3c-weekday",
+       "rate": 0.01,
+       "label": "燦坤門市 1%",
+       "match": {
+        "merchants": [
+         "燦坤"
+        ],
+        "channel": "physical"
+       },
+       "warn": "回饋為 K幣"
+      },
+      {
+       "id": "tk3c-weekend",
+       "rate": 0.02,
+       "label": "燦坤門市週末 2%",
+       "match": {
+        "merchants": [
+         "燦坤"
+        ],
+        "channel": "physical"
+       },
+       "weekdays": [
+        6,
+        0
+       ],
+       "warn": "限週六、週日；回饋為 K幣"
+      },
+      {
+       "id": "tk3c-travel",
+       "rate": 0.05,
+       "label": "旅遊交通 5%",
+       "match": {
+        "merchants": [
+         "Agoda",
+         "Trip.com",
+         "ezTravel易遊網",
+         "台灣高鐵",
+         "台灣中油直營站",
+         "foodpanda",
+         "Uber Eats",
+         "小林眼鏡",
+         "World Gym"
+        ]
+       },
+       "rewardCap": 200,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需登錄（每月限量 5,000 名）；每月上限 200 K幣"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "taishin-business",
+   "name": "商務卡",
+   "issuer": "台新",
+   "source": {
+    "url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/",
+    "secondary": "https://roo.cash/creditcard/info/taishin-business",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/taishin-business），尚未逐條對照銀行官網",
+    "期間：2026/1/1～2026/12/31",
+    "海外消費（含國外網站）2.5% 現金回饋無上限",
+    "國內消費不給現金，改為累積消費金額兌換機票、商品等，價值無法換算，記為 0%",
+    "未納入：貴賓室、停車",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0,
+    "foreignRate": 0.025,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "business-overseas",
+       "rate": 0.025,
+       "label": "海外 2.5%",
+       "match": {
+        "foreign": true
+       },
+       "validFrom": "2026-01-01",
+       "validTo": "2026-12-31"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "taishin-jkopay",
+   "name": "街口聯名卡",
+   "issuer": "台新",
+   "source": {
+    "url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/",
+    "secondary": "https://roo.cash/creditcard/info/taishin-jko",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/taishin-jko），尚未逐條對照銀行官網",
+    "期間：2026/1/1～2026/12/31；回饋為街口幣（1 點＝NT$1）",
+    "一般 1% 無上限；實體卡、綁街口支付、Apple Pay 皆適用",
+    "超商（7-11、全家、萊爾富、OK）與 Apple 媒體服務只有綁街口支付才有 1%",
+    "ASSUMPTION：精選通路「最高 3.5%」為總回饋，且頁面未列上限",
+    "ASSUMPTION：Google Pay 不適用（頁面只列實體卡、街口支付、Apple Pay）",
+    "整理網站最後更新 2026/1/28，資料可能較舊",
+    "未納入：日本 PayPay、韓國消費（無法以商家判斷）、街口 APP 繳費加碼 2%、訂房網折扣、餐廳 85 折",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "jkopay"
+   ],
+   "base": {
+    "rate": 0.01,
+    "excludedCategories": [
+     "excluded"
+    ],
+    "excludedMerchants": [
+     "7-ELEVEN",
+     "全家便利商店",
+     "萊爾富"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "jko-select",
+       "rate": 0.035,
+       "label": "精選通路 3.5%",
+       "match": {
+        "merchants": [
+         "ezTravel易遊網",
+         "Agoda",
+         "Airbnb",
+         "台灣高鐵",
+         "Uber",
+         "新光三越",
+         "遠東百貨",
+         "Big City遠東巨城",
+         "Mitsui Shopping Park LaLaport",
+         "MITSUI OUTLET PARK",
+         "寶雅",
+         "屈臣氏",
+         "康是美",
+         "Uber Eats",
+         "foodpanda",
+         "星巴克",
+         "路易莎咖啡",
+         "85度C",
+         "cama café",
+         "清心福全",
+         "迷客夏",
+         "CoCo都可",
+         "可不可熟成紅茶",
+         "麻古茶坊",
+         "COMEBUY",
+         "龜記",
+         "五桐號",
+         "茶湯會",
+         "珍煮丹"
+        ]
+       },
+       "validFrom": "2026-01-01",
+       "validTo": "2026-12-31",
+       "warn": "回饋為街口幣"
+      },
+      {
+       "id": "jko-conv",
+       "rate": 0.01,
+       "label": "超商綁街口 1%",
+       "match": {
+        "merchants": [
+         "7-ELEVEN",
+         "全家便利商店",
+         "萊爾富"
+        ]
+       },
+       "payments": [
+        "jkopay"
+       ],
+       "warn": "超商限綁街口支付"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "taishin-gogoro",
+   "name": "Gogoro Rewards 聯名卡",
+   "issuer": "台新",
+   "source": {
+    "url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/",
+    "secondary": "https://roo.cash/creditcard/info/taishin-gogoro",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/taishin-gogoro），尚未逐條對照銀行官網",
+    "期間：2026/7/1～2026/12/31；回饋為 Gogoro Smart Points，需先在 Gogoro Wallet 綁定本卡",
+    "ASSUMPTION：Smart Points 以 1 點＝NT$1 計",
+    "ASSUMPTION：一般 1%、海外 4% 需完成指定任務（台新帳戶自扣＋數位帳單），此處假設已完成",
+    "電池資費 4%、GoShare 15%（每月上限 500 點）",
+    "未納入：購車回饋與分期加碼、PBGN 車主方案、高鐵升等",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0.01,
+    "foreignRate": 0.04,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "gogoro-partner",
+       "rate": 0.04,
+       "label": "夥伴商家 4%",
+       "match": {
+        "merchants": [
+         "7-ELEVEN",
+         "全家便利商店",
+         "台灣高鐵",
+         "Uber",
+         "Uber Eats",
+         "foodpanda",
+         "Klook",
+         "KKday",
+         "台北捷運",
+         "康是美",
+         "IKEA宜家家居",
+         "ezTravel易遊網"
+        ]
+       },
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需綁定 Gogoro Wallet；回饋為 Smart Points"
+      },
+      {
+       "id": "gogoro-battery",
+       "rate": 0.04,
+       "label": "電池資費 4%",
+       "match": {
+        "merchants": [
+         "Gogoro"
+        ]
+       },
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31"
+      },
+      {
+       "id": "gogoro-goshare",
+       "rate": 0.15,
+       "label": "GoShare 15%",
+       "match": {
+        "merchants": [
+         "GoShare"
+        ]
+       },
+       "rewardCap": 500,
+       "uncappedRate": 0,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "每月上限 500 點"
+      },
+      {
+       "id": "gogoro-overseas",
+       "rate": 0.04,
+       "label": "海外 4%",
+       "match": {
+        "foreign": true
+       },
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "taishin-sun",
+   "name": "太陽卡",
+   "issuer": "台新",
+   "source": {
+    "url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg012/card0001/",
+    "secondary": null,
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "期間：2026/2/1～2027/1/31 結帳帳單；回饋為台新Point（1 點＝NT$1 折抵帳單）",
+    "指定套餐：加油／汽車保養、餐廳、電信費，當期這些類別合計滿 NT$30,000 給 1.2%，未滿 0.2%；一般 0.2%；每期合計上限 1,500 點",
+    "ASSUMPTION：門檻依整期累計，引擎只能逐筆判斷，所以只在單筆滿 3 萬時算 1.2%（會低估）",
+    "簡單雙享：全部消費 0.5% 無上限，可選加值「海外 1%」",
+    "未納入：自由選 A～E 方案（百貨、旅遊、量販、網購等，規則同 1.2%／0.2%）、停車與機場接送",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "planSwitch": "每年最多 4 次，設定次日生效",
+   "switchApp": "台新 Richart Life",
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0.002,
+    "excludedCategories": [
+     "excluded"
+    ],
+    "categoryRates": {
+     "insurance": 0.002
+    }
+   },
+   "plans": [
+    {
+     "id": "package",
+     "name": "指定套餐",
+     "rules": [
+      {
+       "id": "sun-gas",
+       "rate": 0.012,
+       "label": "加油 1.2%",
+       "match": {
+        "merchants": [
+         "台灣中油直營站",
+         "全國加油站",
+         "台亞加油站"
+        ]
+       },
+       "minAmount": 30000,
+       "rewardCap": 1500,
+       "uncappedRate": 0,
+       "warn": "當期指定類別累積滿 NT$30,000 才有 1.2%（未達為 0.2%）；這裡以單筆滿 3 萬判斷；每期上限 1,500 點"
+      },
+      {
+       "id": "sun-dining",
+       "rate": 0.012,
+       "label": "餐廳 1.2%",
+       "match": {
+        "categories": [
+         "dining"
+        ]
+       },
+       "minAmount": 30000,
+       "rewardCap": 1500,
+       "uncappedRate": 0,
+       "warn": "當期指定類別累積滿 NT$30,000 才有 1.2%（未達為 0.2%）；這裡以單筆滿 3 萬判斷；每期上限 1,500 點"
+      },
+      {
+       "id": "sun-telecom",
+       "rate": 0.012,
+       "label": "電信費 1.2%",
+       "match": {
+        "merchants": [
+         "遠傳電信",
+         "中華電信",
+         "台灣大哥大"
+        ]
+       },
+       "minAmount": 30000,
+       "rewardCap": 1500,
+       "uncappedRate": 0,
+       "warn": "當期指定類別累積滿 NT$30,000 才有 1.2%（未達為 0.2%）；這裡以單筆滿 3 萬判斷；每期上限 1,500 點"
+      }
+     ]
+    },
+    {
+     "id": "simple",
+     "name": "簡單雙享",
+     "rules": [
+      {
+       "id": "sun-simple",
+       "rate": 0.005,
+       "label": "全部 0.5%",
+       "match": {
+        "categories": [
+         "__any__"
+        ]
+       },
+       "warn": "無上限"
+      },
+      {
+       "id": "sun-simple-ins",
+       "rate": 0.005,
+       "label": "保費 0.5%",
+       "match": {
+        "categories": [
+         "insurance"
+        ]
+       }
+      },
+      {
+       "id": "sun-simple-fx",
+       "rate": 0.01,
+       "label": "海外 1%",
+       "match": {
+        "foreign": true
+       },
+       "warn": "需在加值服務選「海外 1%」"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hsbc-live-plus",
+   "name": "Live+ 現金回饋卡",
+   "issuer": "滙豐",
+   "source": {
+    "url": "https://www.hsbc.com.tw/credit-cards/products/live-plus/",
+    "secondary": "https://roo.cash/creditcard/info/hsbc-live",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/hsbc-live），尚未逐條對照銀行官網",
+    "期間：2026/10/1～2026/12/31；現金積點 1 點＝NT$1 折抵帳單",
+    "一般 0.88% 無上限；餐飲／購物／娛樂各加碼 3%（每期上限 888 點），完成自扣任務再加碼 1%（每期上限 200 點）",
+    "ASSUMPTION：已完成自扣任務，兩項上限合併為 1,088 點計算",
+    "ASSUMPTION：購物與娛樂通路名單為頁面類別的代表商家（百貨、Outlet、電商平台、電影院、主題樂園）",
+    "日本等指定國家餐飲再加碼 1%（上限 200 點），這裡只建日本",
+    "不含歐盟、英國實體商店",
+    "未納入：icash Pay 7-11 10% OPENPOINT、王品週三、首刷禮",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "add",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card"
+   ],
+   "base": {
+    "rate": 0.0088,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "live-dining",
+       "rate": 0.04,
+       "label": "餐飲 +4%",
+       "match": {
+        "categories": [
+         "dining"
+        ],
+        "region": "TW"
+       },
+       "rewardCap": 1088,
+       "validFrom": "2026-10-01",
+       "validTo": "2026-12-31",
+       "warn": "建議用實體卡（綁行動支付可能無法辨識通路）；加碼含自扣任務 1%，每期上限約 1,088 點"
+      },
+      {
+       "id": "live-shop",
+       "rate": 0.04,
+       "label": "購物 +4%",
+       "match": {
+        "merchants": [
+         "新光三越",
+         "遠東SOGO百貨",
+         "遠東百貨",
+         "MITSUI OUTLET PARK",
+         "Mitsui Shopping Park LaLaport",
+         "環球購物中心",
+         "momo購物網",
+         "蝦皮購物",
+         "PChome 24h購物",
+         "Coupang 酷澎",
+         "Yahoo奇摩購物中心"
+        ]
+       },
+       "rewardCap": 1088,
+       "validFrom": "2026-10-01",
+       "validTo": "2026-12-31",
+       "warn": "建議用實體卡（綁行動支付可能無法辨識通路）；加碼含自扣任務 1%，每期上限約 1,088 點"
+      },
+      {
+       "id": "live-fun",
+       "rate": 0.04,
+       "label": "娛樂 +4%",
+       "match": {
+        "merchants": [
+         "威秀影城",
+         "國賓影城",
+         "新光影城",
+         "秀泰生活",
+         "六福村",
+         "劍湖山世界",
+         "義大遊樂世界"
+        ]
+       },
+       "rewardCap": 1088,
+       "validFrom": "2026-10-01",
+       "validTo": "2026-12-31",
+       "warn": "建議用實體卡（綁行動支付可能無法辨識通路）；加碼含自扣任務 1%，每期上限約 1,088 點"
+      },
+      {
+       "id": "live-jp-dining",
+       "rate": 0.05,
+       "label": "日本餐飲 +5%",
+       "match": {
+        "categories": [
+         "dining"
+        ],
+        "region": "JP"
+       },
+       "rewardCap": 1288,
+       "validFrom": "2026-10-01",
+       "validTo": "2026-12-31",
+       "warn": "建議用實體卡（綁行動支付可能無法辨識通路）；加碼含自扣任務 1%，每期上限約 1,088 點"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hsbc-cashback-signature",
+   "name": "現金回饋御璽卡",
+   "issuer": "滙豐",
+   "source": {
+    "url": "https://www.hsbc.com.tw/credit-cards/products/cash-back/",
+    "secondary": "https://roo.cash/creditcard/info/hsbc-cash",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/hsbc-cash），尚未逐條對照銀行官網",
+    "期間：2026/10/1～2026/12/31；現金積點 1 點＝NT$1，無上限、無效期",
+    "國內 1.22%、海外 2.22%（不含歐盟、英國實體商店）",
+    "未納入：icash Pay 7-11 10% OPENPOINT、週間優惠（酷澎、易遊網等滿額折抵）、分期與加油登錄活動、首刷禮",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0.0122,
+    "foreignRate": 0.0222,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "cash-overseas",
+       "rate": 0.0222,
+       "label": "海外 2.22%",
+       "match": {
+        "foreign": true
+       },
+       "validFrom": "2026-10-01",
+       "validTo": "2026-12-31",
+       "warn": "不含歐盟、英國實體商店"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hsbc-huizuan",
+   "name": "匯鑽卡",
+   "issuer": "滙豐",
+   "source": {
+    "url": "https://www.hsbc.com.tw/credit-cards/products/premier-diamond/",
+    "secondary": "https://roo.cash/creditcard/info/hsbc-diamond",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/hsbc-diamond），尚未逐條對照銀行官網",
+    "期間：2026/7/1～2027/6/30；現金積點",
+    "等級：1＝一般（一般 1%、指定通路 3%）、2＝達檻＋帳戶滿額（一般 2%、指定 6%，以 5,000 點兌 NT$10,000 刷卡金計，每年最多 2 次）",
+    "ASSUMPTION：指定通路 3% 的上限 2,000 點以每期計；等級 2 以 4,000 點計",
+    "ASSUMPTION：海外一般消費與國內相同（頁面未另列）",
+    "街口支付須帳單顯示「街口電支」；海外電商限海外交易",
+    "保費 1%（2026/7/1～12/31）",
+    "未納入：PayPal（無法辨識）、icash Pay 7-11、王品、分期與加油登錄活動",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay",
+    "jkopay"
+   ],
+   "base": {
+    "rate": 0.01,
+    "excludedCategories": [
+     "excluded"
+    ],
+    "categoryRates": {
+     "insurance": 0.01
+    }
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "dia-general",
+       "rate": {
+        "byLevel": {
+         "1": 0.01,
+         "2": 0.02
+        }
+       },
+       "label": "一般消費",
+       "match": {
+        "categories": [
+         "__any__"
+        ]
+       },
+       "validFrom": "2026-07-01",
+       "validTo": "2027-06-30",
+       "warn": "等級 2（回饋達檻＋滙豐帳戶資產 30 萬）可用 5,000 點換 NT$10,000 刷卡金，等於回饋加倍"
+      },
+      {
+       "id": "dia-select",
+       "rate": {
+        "byLevel": {
+         "1": 0.03,
+         "2": 0.06
+        }
+       },
+       "label": "指定通路",
+       "match": {
+        "merchants": [
+         "momo購物網",
+         "Uber Eats",
+         "Amazon",
+         "ASOS",
+         "Selfridges",
+         "Shopbop",
+         "MYTHERESA",
+         "eBay",
+         "Farfetch",
+         "Gmarket",
+         "DOKODEMO",
+         "Agoda",
+         "Booking.com",
+         "Disney+",
+         "Netflix",
+         "YouTube",
+         "Spotify",
+         "Nintendo"
+        ]
+       },
+       "rewardCap": {
+        "byLevel": {
+         "1": 2000,
+         "2": 4000
+        }
+       },
+       "validFrom": "2026-07-01",
+       "validTo": "2027-06-30",
+       "warn": "等級 2（回饋達檻＋滙豐帳戶資產 30 萬）可用 5,000 點換 NT$10,000 刷卡金，等於回饋加倍；每期上限 2,000 點"
+      },
+      {
+       "id": "dia-jko",
+       "rate": {
+        "byLevel": {
+         "1": 0.03,
+         "2": 0.06
+        }
+       },
+       "label": "街口支付",
+       "match": {
+        "categories": [
+         "__any__"
+        ]
+       },
+       "payments": [
+        "jkopay"
+       ],
+       "rewardCap": {
+        "byLevel": {
+         "1": 2000,
+         "2": 4000
+        }
+       },
+       "validFrom": "2026-07-01",
+       "validTo": "2027-06-30",
+       "warn": "等級 2（回饋達檻＋滙豐帳戶資產 30 萬）可用 5,000 點換 NT$10,000 刷卡金，等於回饋加倍；每期上限 2,000 點"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fubon-j",
+   "name": "J 卡",
+   "issuer": "富邦",
+   "source": {
+    "url": "https://www.fubon.com/banking/personal/credit_card/all_card/j_card/j_card.htm",
+    "secondary": "https://roo.cash/creditcard/info/fubon-j",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/fubon-j），尚未逐條對照銀行官網",
+    "期間：至 2026/12/31；J Cash 為現金回饋、J Points 為 LINE POINTS（需綁 LINE Pay）",
+    "ASSUMPTION：國內 1% 需完成帳單設定（電子帳單或自扣），未完成為 0.5%，此處假設已完成",
+    "日韓泰一般消費 3% 無上限；實體單筆滿 NT$1,000 並登錄再加碼 3%（每戶每季上限 NT$1,000、限量）",
+    "日本交通卡（Suica／PASMO／ICOCA）以 Apple Pay 單筆加值滿 NT$2,000 並登錄，加碼 7%（每季上限 NT$200）",
+    "ASSUMPTION：韓國、泰國無法以地區區分（歸在其他海外），只建日本",
+    "未納入：亞洲精選地區滿 6,000 送 300、My Japan+ 指定店家、保費 0.5%、伴手禮、新戶禮",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0.01,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "fubon-j-jp",
+       "rate": 0.03,
+       "label": "日本 3%",
+       "match": {
+        "region": "JP"
+       },
+       "validTo": "2026-12-31"
+      },
+      {
+       "id": "fubon-j-jp-store",
+       "rate": 0.06,
+       "label": "日本實體 6%",
+       "match": {
+        "region": "JP",
+        "channel": "physical"
+       },
+       "minAmount": 1000,
+       "rewardCap": 1000,
+       "uncappedRate": 0.03,
+       "validTo": "2026-12-31",
+       "warn": "單筆滿 NT$1,000 且需每月登錄；加碼每季上限 NT$1,000"
+      },
+      {
+       "id": "fubon-j-suica",
+       "rate": 0.1,
+       "label": "日本交通卡 10%",
+       "match": {
+        "merchants": [
+         "Apple錢包交通卡（Suica／PASMO／ICOCA）"
+        ]
+       },
+       "payments": [
+        "applepay"
+       ],
+       "minAmount": 2000,
+       "rewardCap": 200,
+       "uncappedRate": 0.03,
+       "validFrom": "2026-04-01",
+       "validTo": "2026-12-31",
+       "warn": "需 Apple Pay 加值、單筆滿 NT$2,000 並登錄；加碼每季上限 NT$200"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fubon-ju",
+   "name": "JU 卡",
+   "issuer": "富邦",
+   "source": {
+    "url": "https://www.fubon.com/banking/personal/credit_card/all_card/j_card/j_card.htm",
+    "secondary": "https://roo.cash/creditcard/info/fubon-j",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/fubon-j），尚未逐條對照銀行官網",
+    "期間：至 2026/12/31；J Cash 為現金回饋、J Points 為 LINE POINTS（需綁 LINE Pay）",
+    "ASSUMPTION：國內 1% 需完成帳單設定（電子帳單或自扣），未完成為 0.5%，此處假設已完成",
+    "日韓泰一般消費 3% 無上限；實體單筆滿 NT$1,000 並登錄再加碼 3%（每戶每季上限 NT$1,000、限量）",
+    "日本交通卡（Suica／PASMO／ICOCA）以 Apple Pay 單筆加值滿 NT$2,000 並登錄，加碼 7%（每季上限 NT$200）",
+    "ASSUMPTION：韓國、泰國無法以地區區分（歸在其他海外），只建日本",
+    "未納入：亞洲精選地區滿 6,000 送 300、My Japan+ 指定店家、保費 0.5%、伴手禮、新戶禮",
+    "ASSUMPTION：整理網站未區分 JU 卡與 J 卡，規則比照 J 卡；下季請以官網確認差異",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0.01,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "fubon-ju-jp",
+       "rate": 0.03,
+       "label": "日本 3%",
+       "match": {
+        "region": "JP"
+       },
+       "validTo": "2026-12-31"
+      },
+      {
+       "id": "fubon-ju-jp-store",
+       "rate": 0.06,
+       "label": "日本實體 6%",
+       "match": {
+        "region": "JP",
+        "channel": "physical"
+       },
+       "minAmount": 1000,
+       "rewardCap": 1000,
+       "uncappedRate": 0.03,
+       "validTo": "2026-12-31",
+       "warn": "單筆滿 NT$1,000 且需每月登錄；加碼每季上限 NT$1,000"
+      },
+      {
+       "id": "fubon-ju-suica",
+       "rate": 0.1,
+       "label": "日本交通卡 10%",
+       "match": {
+        "merchants": [
+         "Apple錢包交通卡（Suica／PASMO／ICOCA）"
+        ]
+       },
+       "payments": [
+        "applepay"
+       ],
+       "minAmount": 2000,
+       "rewardCap": 200,
+       "uncappedRate": 0.03,
+       "validFrom": "2026-04-01",
+       "validTo": "2026-12-31",
+       "warn": "需 Apple Pay 加值、單筆滿 NT$2,000 並登錄；加碼每季上限 NT$200"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fareast-happy",
+   "name": "快樂信用卡",
+   "issuer": "遠東",
+   "source": {
+    "url": "https://www.feib.com.tw/",
+    "secondary": "https://roo.cash/creditcard/info/feib-happyhappy",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/feib-happyhappy），尚未逐條對照銀行官網",
+    "期間：2026/7/1～2026/12/31",
+    "日常消費＋LINE Pay 最高 5%：指定通路或 LINE Pay 消費（不含 LINE Pay 生活繳費），需當月登錄（每月限量 1 萬名），每戶每月上限 NT$300",
+    "ASSUMPTION：一般消費只有 HAPPY GO 點數（每 NT$100 一點），HAPPY GO 點數價值不明，計為 0（實際有少量價值）",
+    "ASSUMPTION：5% 為總回饋；其他行動支付（如 HAPPY GO Pay）不適用",
+    "未納入：當期滿 1.5 萬／3 萬的滿額刷卡金（依整期累計）、悠遊卡自動加值 5%、誠品分期、新戶禮",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "linepay"
+   ],
+   "base": {
+    "rate": 0,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "happy-daily",
+       "rate": 0.05,
+       "label": "日常通路 5%",
+       "match": {
+        "merchants": [
+         "遠東SOGO百貨",
+         "遠東百貨",
+         "Big City遠東巨城",
+         "遠企購物中心",
+         "愛買",
+         "city'super",
+         "momo購物網",
+         "蝦皮購物",
+         "Coupang 酷澎",
+         "ZARA",
+         "UNIQLO",
+         "NET",
+         "H&M",
+         "屈臣氏",
+         "康是美",
+         "寶雅"
+        ]
+       },
+       "rewardCap": 300,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需當月登錄；每月上限 NT$300"
+      },
+      {
+       "id": "happy-linepay",
+       "rate": 0.05,
+       "label": "LINE Pay 5%",
+       "match": {
+        "categories": [
+         "__any__"
+        ]
+       },
+       "payments": [
+        "linepay"
+       ],
+       "rewardCap": 300,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需當月登錄；每月上限 NT$300；不含 LINE Pay 生活繳費"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fareast-lejia-plus",
+   "name": "樂家⁺卡",
+   "issuer": "遠東",
+   "source": {
+    "url": "https://www.feib.com.tw/",
+    "secondary": "https://roo.cash/creditcard/info/feib-ya",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/feib-ya），尚未逐條對照銀行官網",
+    "期間：2026/7/1～2026/12/31；現金回饋（刷卡金）",
+    "國內 0.5%、海外 2.5% 無上限（不含歐洲指定國家實體商店）",
+    "生活、大小安心（國內餐廳、藥局、母嬰、指定休閒）、誠品各最高 4%（含 0.5%），每月加碼上限各 NT$200",
+    "寵物連鎖與動物醫院最高 10%（含 0.5%），每月加碼上限 NT$400",
+    "第三方支付與行動支付不適用加碼",
+    "ASSUMPTION：通路名單只收錄已有商家資料的品牌；遠東集團 HAPPY GO 點數不計",
+    "未納入：海外單月滿 6 萬加贈 1%、大樹藥局滿額、寵物會員日、放鬆禮遇、新戶禮",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card"
+   ],
+   "base": {
+    "rate": 0.005,
+    "foreignRate": 0.025,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "lejia-life",
+       "rate": 0.04,
+       "label": "生活 4%",
+       "match": {
+        "merchants": [
+         "愛買",
+         "家樂福",
+         "美廉社",
+         "小北百貨",
+         "聖德科斯",
+         "棉花田",
+         "里仁",
+         "台灣主婦聯盟",
+         "台灣中油直營站",
+         "全國加油站",
+         "台亞加油站",
+         "Gogoro",
+         "特斯拉",
+         "台灣大車隊",
+         "Uber",
+         "GoShare",
+         "iRent",
+         "WeMo",
+         "遠傳電信",
+         "台灣大哥大",
+         "博客來",
+         "誠品",
+         "健身工廠",
+         "World Gym",
+         "Curves"
+        ]
+       },
+       "rewardCap": 200,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需上期遠銀帳戶自扣成功＋下期一般消費滿 NT$3,000；限一次付清；每月加碼上限 NT$200"
+      },
+      {
+       "id": "lejia-care",
+       "rate": 0.04,
+       "label": "大小安心 4%",
+       "match": {
+        "merchants": [
+         "大樹藥局",
+         "杏一醫療",
+         "IKEA宜家家居",
+         "六福村"
+        ]
+       },
+       "rewardCap": 200,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需上期遠銀帳戶自扣成功＋下期一般消費滿 NT$3,000；限一次付清；每月加碼上限 NT$200"
+      },
+      {
+       "id": "lejia-dining",
+       "rate": 0.04,
+       "label": "國內餐廳 4%",
+       "match": {
+        "categories": [
+         "dining"
+        ],
+        "region": "TW"
+       },
+       "rewardCap": 200,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需上期遠銀帳戶自扣成功＋下期一般消費滿 NT$3,000；限一次付清；每月加碼上限 NT$200"
+      },
+      {
+       "id": "lejia-pet",
+       "rate": 0.1,
+       "label": "寵物 10%",
+       "match": {
+        "merchants": [
+         "寵物公園",
+         "東森寵物",
+         "大樹寵物",
+         "凱朵寵物",
+         "汪喵星球",
+         "魚中魚寵物水族"
+        ]
+       },
+       "rewardCap": 400,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "限一次付清；每月加碼上限 NT$400"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fareast-lexing",
+   "name": "樂行卡",
+   "issuer": "遠東",
+   "source": {
+    "url": "https://www.feib.com.tw/",
+    "secondary": "https://roo.cash/creditcard/info/feib-hw",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/feib-hw），尚未逐條對照銀行官網",
+    "期間：2026/7/1～2026/12/31；現金回饋（刷卡金）",
+    "ASSUMPTION：國內 1% 需當期一般消費滿 NT$3,000，此處假設已達；海外 2% 無上限（不含歐洲指定國家實體商店）",
+    "指定交通／旅遊 3%（含國內 1%），需當期滿 3,000＋當月 27 日前登錄，每期加碼上限 NT$300",
+    "高鐵／台鐵 3%：每月累積滿 NT$3,000 並登錄，每月加碼上限 NT$200",
+    "未納入：汽車保養季滿額、稅款 0.5%、大額保費 3.5%（需登錄限量）、海外滿 6 萬加贈、自扣加碼、停車與洗車",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0.01,
+    "foreignRate": 0.02,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "lexing-transport",
+       "rate": 0.03,
+       "label": "交通／旅遊 3%",
+       "match": {
+        "merchants": [
+         "台灣中油直營站",
+         "全國加油站",
+         "台亞加油站",
+         "台灣大車隊",
+         "Uber",
+         "Gogoro",
+         "特斯拉",
+         "EVALUE",
+         "iRent",
+         "WeMo",
+         "GoShare",
+         "KKday",
+         "Klook",
+         "中華航空",
+         "長榮航空",
+         "星宇航空",
+         "台灣虎航",
+         "國泰航空",
+         "樂桃航空",
+         "日本航空",
+         "ANA全日空"
+        ]
+       },
+       "rewardCap": 300,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需當月登錄；限一次付清；每期加碼上限 NT$300"
+      },
+      {
+       "id": "lexing-rail",
+       "rate": 0.03,
+       "label": "高鐵／台鐵 3%",
+       "match": {
+        "merchants": [
+         "台灣高鐵",
+         "臺鐵"
+        ]
+       },
+       "rewardCap": 200,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "每月累積滿 NT$3,000 並登錄；每月加碼上限 NT$200"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fareast-cest-moi",
+   "name": "C'est Moi 我的卡（經典款）",
+   "issuer": "遠東",
+   "source": {
+    "url": "https://www.feib.com.tw/",
+    "secondary": "https://roo.cash/creditcard/info/feib-cestmoi",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/feib-cestmoi），尚未逐條對照銀行官網",
+    "期間：2026/7/1～2026/12/31",
+    "國內只有 HAPPY GO 點數（指定百貨 3 倍、遠東集團 4 倍，需當期滿 5,000），HAPPY GO 點數價值不明，計為 0（實際有少量價值）",
+    "海外：單月每累積滿 NT$30,000 回饋 NT$600（2%），需當月登錄，每月上限 NT$9,000",
+    "ASSUMPTION：引擎逐筆計算，以單筆滿 NT$30,000 給 2% 近似（零頭實際沒有回饋）",
+    "高鐵／台鐵 3%：每月累積滿 NT$3,000 並登錄，每月上限 NT$200",
+    "未納入：指定地區滿 6 萬加贈、月刷 10 萬加贈點數、遠百 9 折與停車、新戶禮",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "cestmoi-overseas",
+       "rate": 0.02,
+       "label": "海外滿 3 萬 2%",
+       "match": {
+        "foreign": true
+       },
+       "minAmount": 30000,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "單月每滿 NT$30,000 回饋 NT$600；需當月登錄"
+      },
+      {
+       "id": "cestmoi-rail",
+       "rate": 0.03,
+       "label": "高鐵／台鐵 3%",
+       "match": {
+        "merchants": [
+         "台灣高鐵",
+         "臺鐵"
+        ]
+       },
+       "rewardCap": 200,
+       "uncappedRate": 0,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "每月累積滿 NT$3,000 並登錄；每月上限 NT$200"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fareast-happy-world-business",
+   "name": "快樂世界商務卡",
+   "issuer": "遠東",
+   "source": {
+    "url": "https://www.feib.com.tw/",
+    "secondary": "https://roo.cash/creditcard/info/feib-happyworldbusiness",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/feib-happyworldbusiness），尚未逐條對照銀行官網",
+    "期間：至 2026/12/31；年費 NT$10,000",
+    "外幣消費 2.5% 刷卡金無上限（含歐洲）；指定地區再加碼 1% 需當月登錄（上限見官網，未納入）",
+    "國內：當期新增一般消費每滿 NT$20,000 回饋 NT$200（自扣戶＋綁定 LINE 官方帳號為 NT$300），每月上限 NT$1,000／1,500",
+    "ASSUMPTION：已為遠銀自扣戶（1.5%）；引擎逐筆計算，以單筆滿 NT$20,000 近似（會低估小額消費）",
+    "保費單筆滿額最高 2.5%：每季登錄、限量、每季上限 NT$12,500",
+    "ASSUMPTION：保費門檻金額未公布，這裡不設門檻",
+    "ASSUMPTION：HAPPY GO 點數價值不明，計為 0（實際有少量價值）",
+    "未納入：VIP 加碼 1.5%、悠遊卡自動加值 5%、王品瘋Pay、加油降價、停車與機場接送",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0,
+    "foreignRate": 0.025,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "fareast-happy-world-business-overseas",
+       "rate": 0.025,
+       "label": "外幣 2.5%",
+       "match": {
+        "foreign": true
+       },
+       "validTo": "2026-12-31"
+      },
+      {
+       "id": "fareast-happy-world-business-domestic",
+       "rate": 0.015,
+       "label": "國內滿 2 萬 1.5%",
+       "match": {
+        "categories": [
+         "__any__"
+        ],
+        "region": "TW"
+       },
+       "minAmount": 20000,
+       "rewardCap": 1500,
+       "uncappedRate": 0,
+       "validTo": "2026-12-31",
+       "warn": "當期每滿 NT$20,000 才回饋；需遠銀自扣＋綁定 LINE 官方帳號"
+      },
+      {
+       "id": "fareast-happy-world-business-insurance",
+       "rate": 0.025,
+       "label": "保費 2.5%",
+       "match": {
+        "categories": [
+         "insurance"
+        ]
+       },
+       "rewardCap": 12500,
+       "uncappedRate": 0,
+       "validTo": "2026-12-31",
+       "warn": "每季需登錄（限量）；一次付清；每季上限 NT$12,500"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fareast-happy-infinite",
+   "name": "快樂無限卡",
+   "issuer": "遠東",
+   "source": {
+    "url": "https://www.feib.com.tw/",
+    "secondary": "https://roo.cash/creditcard/info/feib-happypremium",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/feib-happypremium），尚未逐條對照銀行官網",
+    "期間：至 2026/12/31；年費 NT$10,000",
+    "外幣消費 2.5% 刷卡金無上限（含歐洲）；指定地區再加碼 1% 需當月登錄（上限見官網，未納入）",
+    "國內：當期新增一般消費每滿 NT$20,000 回饋 NT$200（自扣戶＋綁定 LINE 官方帳號為 NT$300），每月上限 NT$1,000／1,500",
+    "ASSUMPTION：已為遠銀自扣戶（1.5%）；引擎逐筆計算，以單筆滿 NT$20,000 近似（會低估小額消費）",
+    "保費單筆滿額最高 2.5%：每季登錄、限量、每季上限 NT$12,500",
+    "ASSUMPTION：保費門檻金額未公布，這裡不設門檻",
+    "ASSUMPTION：HAPPY GO 點數價值不明，計為 0（實際有少量價值）",
+    "未納入：VIP 加碼 1.5%、悠遊卡自動加值 5%、王品瘋Pay、加油降價、停車與機場接送",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0,
+    "foreignRate": 0.025,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "fareast-happy-infinite-overseas",
+       "rate": 0.025,
+       "label": "外幣 2.5%",
+       "match": {
+        "foreign": true
+       },
+       "validTo": "2026-12-31"
+      },
+      {
+       "id": "fareast-happy-infinite-domestic",
+       "rate": 0.015,
+       "label": "國內滿 2 萬 1.5%",
+       "match": {
+        "categories": [
+         "__any__"
+        ],
+        "region": "TW"
+       },
+       "minAmount": 20000,
+       "rewardCap": 1500,
+       "uncappedRate": 0,
+       "validTo": "2026-12-31",
+       "warn": "當期每滿 NT$20,000 才回饋；需遠銀自扣＋綁定 LINE 官方帳號"
+      },
+      {
+       "id": "fareast-happy-infinite-insurance",
+       "rate": 0.025,
+       "label": "保費 2.5%",
+       "match": {
+        "categories": [
+         "insurance"
+        ]
+       },
+       "rewardCap": 12500,
+       "uncappedRate": 0,
+       "validTo": "2026-12-31",
+       "warn": "每季需登錄（限量）；一次付清；每季上限 NT$12,500"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dbs-eco",
+   "name": "eco 永續卡",
+   "issuer": "星展",
+   "source": {
+    "url": "https://www.dbs.com.tw/personal-zh/cards/dbs-credit-cards/eco-card",
+    "secondary": "https://roo.cash/creditcard/info/dbs-eco",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/dbs-eco），尚未逐條對照銀行官網",
+    "期間：2026/1/1～2026/12/31；現金積點",
+    "ASSUMPTION：現金積點以 1 點＝NT$1 計",
+    "一般 1% 無上限（國內外）；完成任務最高 4%（任務內容頁面未列，未納入）",
+    "指定海外地區（日、韓、泰、新、美洲、歐洲）加碼 4%，每期上限 600 點",
+    "ASSUMPTION：韓泰新美歐歸在「其他海外」，以整個其他海外地區估算",
+    "Tesla 充電、Gogoro 電池資費與星展基金會支持的社企加碼 9%（共 10%），每期加碼上限 300 點（2026/7/1～12/31）",
+    "未納入：威秀影城 6 折、首刷禮",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "add",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0.01,
+    "foreignRate": 0.01,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "eco-jp",
+       "rate": 0.04,
+       "label": "日本 +4%",
+       "match": {
+        "region": "JP"
+       },
+       "rewardCap": 600,
+       "validTo": "2026-12-31",
+       "warn": "每期加碼上限 600 點"
+      },
+      {
+       "id": "eco-other",
+       "rate": 0.04,
+       "label": "指定海外 +4%",
+       "match": {
+        "region": "OTHER"
+       },
+       "rewardCap": 600,
+       "validTo": "2026-12-31",
+       "warn": "限韓、泰、新、美洲、歐洲；每期加碼上限 600 點"
+      },
+      {
+       "id": "eco-green",
+       "rate": 0.09,
+       "label": "Tesla／Gogoro +9%",
+       "match": {
+        "merchants": [
+         "特斯拉",
+         "Gogoro"
+        ]
+       },
+       "rewardCap": 300,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "限 Tesla 充電費、Gogoro 電池資費；每期加碼上限 300 點"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "firstbank-living-green",
+   "name": "Living Green 綠活卡",
+   "issuer": "第一",
+   "source": {
+    "url": "https://card.firstbank.com.tw/",
+    "secondary": "https://roo.cash/creditcard/info/first-green",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/first-green），尚未逐條對照銀行官網",
+    "期間：2026/7/1～2026/12/31；刷卡金",
+    "ASSUMPTION：一般消費 0.5%（頁面未列）；海外相同",
+    "樂活通路最高 5%：需登錄＋當期帳單有單筆滿 NT$1,000 的一般消費，每戶每期上限 NT$200",
+    "ASSUMPTION：樂活通路完整名單未公布，以大眾運輸、共享交通、健身類代表商家估算，且 5% 為總回饋",
+    "未納入：路跑報名 20%、職棒售票 20%（售票網站未建商家）、首刷禮",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0.005,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "green-life",
+       "rate": 0.05,
+       "label": "樂活通路 5%",
+       "match": {
+        "merchants": [
+         "台北捷運",
+         "臺鐵",
+         "台灣高鐵",
+         "iRent",
+         "GoShare",
+         "WeMo",
+         "Gogoro",
+         "World Gym",
+         "健身工廠",
+         "Curves",
+         "棉花田",
+         "里仁"
+        ]
+       },
+       "rewardCap": 200,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需登錄＋當期有單筆滿 NT$1,000；每期上限 NT$200"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "firstbank-ileo",
+   "name": "iLEO 信用卡",
+   "issuer": "第一",
+   "source": {
+    "url": "https://card.firstbank.com.tw/",
+    "secondary": "https://roo.cash/creditcard/info/first-ileo",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/first-ileo），尚未逐條對照銀行官網",
+    "期間：2026/7/1～2026/12/31；現金回饋",
+    "LINE Pay、街口支付 2% 免門檻；行動支付（台灣Pay、LINE Pay、街口、Apple Pay、Google Pay、Samsung Pay）單筆滿 NT$1,000 再加 1%",
+    "外幣消費與指定通路 2%；海外實體再加 1%",
+    "ASSUMPTION：一般國內消費 0.5%（頁面未列）",
+    "ASSUMPTION：所有加碼都需一銀帳戶自扣＋電子帳單，且頁面未寫上限",
+    "未納入：每月刷 3 筆滿千的優惠券（Uber 券、訂閱 5%、電商 3% 三選一）、AI 訂閱領券 5%、台灣Pay（無對應支付方式）、首刷禮",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay",
+    "linepay",
+    "jkopay"
+   ],
+   "base": {
+    "rate": 0.005,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "ileo-wallet",
+       "rate": 0.02,
+       "label": "LINE Pay／街口 2%",
+       "match": {
+        "categories": [
+         "__any__"
+        ]
+       },
+       "payments": [
+        "linepay",
+        "jkopay"
+       ],
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需一銀帳戶自扣＋電子帳單"
+      },
+      {
+       "id": "ileo-wallet-1k",
+       "rate": 0.03,
+       "label": "行動支付滿千 3%",
+       "match": {
+        "categories": [
+         "__any__"
+        ]
+       },
+       "payments": [
+        "linepay",
+        "jkopay",
+        "applepay",
+        "googlepay",
+        "samsungpay"
+       ],
+       "minAmount": 1000,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需一銀帳戶自扣＋電子帳單；單筆滿 NT$1,000"
+      },
+      {
+       "id": "ileo-select",
+       "rate": 0.02,
+       "label": "指定通路 2%",
+       "match": {
+        "merchants": [
+         "KKday",
+         "Klook",
+         "foodpanda",
+         "Uber Eats",
+         "momo購物網",
+         "蝦皮購物",
+         "Netflix",
+         "ChatGPT",
+         "Disney+",
+         "中華航空",
+         "長榮航空",
+         "星宇航空",
+         "台灣虎航",
+         "國泰航空",
+         "樂桃航空",
+         "日本航空",
+         "ANA全日空",
+         "雄獅旅遊",
+         "可樂旅遊",
+         "東南旅遊",
+         "五福旅遊",
+         "ezTravel易遊網",
+         "Ezfly易飛網",
+         "山富旅遊",
+         "鳳凰旅行社",
+         "百威旅遊",
+         "大興旅遊",
+         "長汎旅遊",
+         "康迅旅遊",
+         "找到了旅行社"
+        ]
+       },
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需一銀帳戶自扣＋電子帳單"
+      },
+      {
+       "id": "ileo-fx",
+       "rate": 0.02,
+       "label": "外幣 2%",
+       "match": {
+        "foreign": true
+       },
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需一銀帳戶自扣＋電子帳單"
+      },
+      {
+       "id": "ileo-fx-store",
+       "rate": 0.03,
+       "label": "海外實體 3%",
+       "match": {
+        "foreign": true,
+        "channel": "physical"
+       },
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需一銀帳戶自扣＋電子帳單"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "firstbank-ipass",
+   "name": "一卡通聯名卡",
+   "issuer": "第一",
+   "source": {
+    "url": "https://card.firstbank.com.tw/",
+    "secondary": "https://roo.cash/creditcard/info/first-ipass",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/first-ipass），尚未逐條對照銀行官網",
+    "期間：2026/7/1～2026/12/31；現金回饋",
+    "一般 1%；以下加碼皆需電子帳單",
+    "早餐店週一～週五 5%（含 1%），每戶每月加碼上限 NT$300；外送平台不適用",
+    "日本、韓國實體當地幣別 3.5%（含 1%），需電子帳單＋一銀自扣",
+    "ASSUMPTION：韓國歸在其他海外無法區分，只建日本",
+    "生日月週六日國內一般消費 2%（含 1%），每戶加碼上限 NT$500",
+    "未納入：首刷禮、7-11 禮券",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0.01,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "ipass-breakfast",
+       "rate": 0.05,
+       "label": "早餐 5%",
+       "match": {
+        "merchants": [
+         "Q Burger",
+         "麥味登",
+         "拉亞漢堡",
+         "早安美之城",
+         "摩斯漢堡",
+         "路易莎咖啡",
+         "弘爺漢堡",
+         "Subway",
+         "客美多咖啡",
+         "晨間廚房"
+        ]
+       },
+       "weekdays": [
+        1,
+        2,
+        3,
+        4,
+        5
+       ],
+       "rewardCap": 300,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "限週一～週五；需電子帳單；每月加碼上限 NT$300"
+      },
+      {
+       "id": "ipass-jp",
+       "rate": 0.035,
+       "label": "日本實體 3.5%",
+       "match": {
+        "region": "JP",
+        "channel": "physical"
+       },
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "限當地幣別；需電子帳單＋一銀自扣"
+      }
+     ]
+    },
+    {
+     "id": "birthday",
+     "name": "壽星月",
+     "requires": {
+      "birthdayMonth": true
+     },
+     "rules": [
+      {
+       "id": "ipass-bday",
+       "rate": 0.02,
+       "label": "壽星月週末 2%",
+       "match": {
+        "categories": [
+         "__any__"
+        ],
+        "region": "TW"
+       },
+       "weekdays": [
+        6,
+        0
+       ],
+       "rewardCap": 500,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "限生日當月週六、週日；需電子帳單；加碼上限 NT$500"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "firstbank-icash",
+   "name": "icash 聯名卡",
+   "issuer": "第一",
+   "source": {
+    "url": "https://card.firstbank.com.tw/",
+    "secondary": "https://roo.cash/creditcard/info/first-icash",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/first-icash），尚未逐條對照銀行官網",
+    "期間：2026/7/1～2026/12/31",
+    "一般消費每 NT$15 一點紅利；ASSUMPTION：紅利價值不明，計為 0",
+    "便利支付 3%：綁 icash Pay（7-11 除外）、全支付（全聯、大全聯除外）、中油Pay 等，需登錄，每戶每月上限 NT$300",
+    "icash Pay 在 7-ELEVEN 實體門市單筆滿 NT$150 加贈 10% OPENPOINT，每月上限 100 點",
+    "ASSUMPTION：OPENPOINT 以 1 點＝NT$1 計",
+    "未納入：享鑽生活 11% OPENPOINT（月累積 5,000、限量 200 名）、HGPAY／寶雅pay（無對應支付方式）、自動加值 2%、日韓 5% 新卡友首刷禮",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay",
+    "icashpay",
+    "pxplus",
+    "cpcpay"
+   ],
+   "base": {
+    "rate": 0,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "icash-wallets",
+       "rate": 0.03,
+       "label": "便利支付 3%",
+       "match": {
+        "categories": [
+         "__any__"
+        ],
+        "excludeMerchants": [
+         "7-ELEVEN",
+         "全聯福利中心",
+         "大全聯"
+        ]
+       },
+       "payments": [
+        "icashpay",
+        "pxplus",
+        "cpcpay"
+       ],
+       "rewardCap": 300,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需登錄；每月上限 NT$300"
+      },
+      {
+       "id": "icash-711",
+       "rate": 0.1,
+       "label": "7-11 icash Pay 10%",
+       "match": {
+        "merchants": [
+         "7-ELEVEN"
+        ],
+        "channel": "physical"
+       },
+       "payments": [
+        "icashpay"
+       ],
+       "minAmount": 150,
+       "rewardCap": 100,
+       "uncappedRate": 0,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "單筆滿 NT$150；回饋為 OPENPOINT，每月上限 100 點"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "firstbank-titanium-business-travel",
+   "name": "鈦金商旅卡",
+   "issuer": "第一",
+   "source": {
+    "url": "https://card.firstbank.com.tw/",
+    "secondary": "https://roo.cash/creditcard/info/first-titanium",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/first-titanium），尚未逐條對照銀行官網",
+    "期間：2026/7/1～2026/12/31；現金回饋",
+    "海外外幣 1.5%＋電子帳單 1%＋海外實體 0.8%＝實體最高 3.3%、網路 2.5%，無上限",
+    "指定通路（航空、免稅店、訂房網、高鐵台鐵、計程車、中油直營、星巴克等）最高 3%",
+    "ASSUMPTION：已申請電子帳單；國內一般 0.5%（頁面未列）；指定通路 3% 無上限",
+    "未納入：汽車保養、購車頭期款（無法辨識）、首刷禮",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0.005,
+    "foreignRate": 0.025,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "tt-select",
+       "rate": 0.03,
+       "label": "商旅通路 3%",
+       "match": {
+        "merchants": [
+         "中華航空",
+         "長榮航空",
+         "星宇航空",
+         "台灣虎航",
+         "國泰航空",
+         "樂桃航空",
+         "日本航空",
+         "ANA全日空",
+         "昇恆昌",
+         "Agoda",
+         "Booking.com",
+         "Trip.com",
+         "Klook",
+         "KKday",
+         "台灣高鐵",
+         "臺鐵",
+         "台灣大車隊",
+         "大都會車隊",
+         "Uber",
+         "台灣中油直營站",
+         "星巴克"
+        ]
+       },
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31"
+      },
+      {
+       "id": "tt-fx-store",
+       "rate": 0.033,
+       "label": "海外實體 3.3%",
+       "match": {
+        "foreign": true,
+        "channel": "physical"
+       },
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需電子帳單"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tbb-fuqi-infinite",
+   "name": "福企無限卡",
+   "issuer": "臺企",
+   "source": {
+    "url": "https://www.tbb.com.tw/",
+    "secondary": "https://www.money101.com.tw/信用卡/產品/臺灣企銀福企無限卡",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://www.money101.com.tw/信用卡/產品/臺灣企銀福企無限卡），尚未逐條對照銀行官網",
+    "國內 0.6%、海外最高 2.5%、保費最高 1.6%；海外交易手續費 1.5%",
+    "ASSUMPTION：海外 2.5%、保費 1.6% 視為無條件（頁面未列條件與上限）",
+    "高鐵購票 15%：當期新增一般消費滿 NT$20,000，每戶每期上限 NT$1,000（2026/7/1～12/31）",
+    "年費 NT$10,000，申辦需年收 150 萬；初期為 VIP 邀請制",
+    "未納入：EZTABLE 第二人免費、首刷 NT$3,000、機場接送"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0.006,
+    "foreignRate": 0.025,
+    "excludedCategories": [
+     "excluded"
+    ],
+    "categoryRates": {
+     "insurance": 0.016
+    }
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "fuqi-hsr",
+       "rate": 0.15,
+       "label": "高鐵 15%",
+       "match": {
+        "merchants": [
+         "台灣高鐵"
+        ]
+       },
+       "rewardCap": 1000,
+       "uncappedRate": 0,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需當期新增一般消費滿 NT$20,000；每期上限 NT$1,000"
+      },
+      {
+       "id": "fuqi-overseas",
+       "rate": 0.025,
+       "label": "海外 2.5%",
+       "match": {
+        "foreign": true
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rakuten-tigerair",
+   "name": "台灣虎航聯名卡（樂虎卡）",
+   "issuer": "樂天",
+   "source": {
+    "url": "https://www.rakuten-card.com.tw/",
+    "secondary": "https://roo.cash/creditcard/info/rakuten-tigercash",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/rakuten-tigercash），尚未逐條對照銀行官網",
+    "期間：至 2026/12/31；一般為刷卡金",
+    "國內 0.5% 無上限；日本、韓國實體 2% 無上限",
+    "LINE Pay、街口支付、台灣虎航（官網、App、機上購物）加碼 2.5%（共 3%），加碼為 tigerpoints，每期上限 500 點",
+    "ASSUMPTION：tigerpoints 以 1 點＝NT$1 計；韓國無法區分，只建日本；其他海外與國內相同 0.5%",
+    "未納入：虎航機票折扣、大魯閣買一送一、首刷禮",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "add",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "linepay",
+    "jkopay"
+   ],
+   "base": {
+    "rate": 0.005,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "tiger-jp",
+       "rate": 0.015,
+       "label": "日本實體 2%",
+       "match": {
+        "region": "JP",
+        "channel": "physical"
+       },
+       "validTo": "2026-12-31"
+      },
+      {
+       "id": "tiger-wallet",
+       "rate": 0.025,
+       "label": "LINE Pay／街口 +2.5%",
+       "match": {
+        "categories": [
+         "__any__"
+        ],
+        "region": "TW"
+       },
+       "payments": [
+        "linepay",
+        "jkopay"
+       ],
+       "rewardCap": 500,
+       "validTo": "2026-12-31",
+       "warn": "加碼為 tigerpoints；每期上限 500 點"
+      },
+      {
+       "id": "tiger-air",
+       "rate": 0.025,
+       "label": "台灣虎航 +2.5%",
+       "match": {
+        "merchants": [
+         "台灣虎航"
+        ]
+       },
+       "rewardCap": 500,
+       "validTo": "2026-12-31",
+       "warn": "加碼為 tigerpoints；每期上限 500 點"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rakuten-panda-j",
+   "name": "Panda J 卡",
+   "issuer": "樂天",
+   "source": {
+    "url": "https://www.rakuten-card.com.tw/",
+    "secondary": "https://roo.cash/creditcard/info/rakuten-pandaj",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/rakuten-pandaj），尚未逐條對照銀行官網",
+    "期間：2026/7/1～2026/12/31；刷卡金",
+    "國內 0.5%、海外 1.5% 無上限",
+    "日本／韓國／泰國加碼 2.5%（共 4%），每期加碼上限 NT$300",
+    "國內指定通路（LINE Pay、街口、航空直購、加油站、旅行社）加碼 2.5%（共 3%），每期加碼上限 NT$250",
+    "ASSUMPTION：韓、泰無法區分，只建日本；台糖、山隆加油站未建商家",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "add",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "linepay",
+    "jkopay"
+   ],
+   "base": {
+    "rate": 0.005,
+    "foreignRate": 0.015,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "panda-jp",
+       "rate": 0.025,
+       "label": "日本 +2.5%",
+       "match": {
+        "region": "JP"
+       },
+       "rewardCap": 300,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "每期加碼上限 NT$300"
+      },
+      {
+       "id": "panda-select",
+       "rate": 0.025,
+       "label": "國內指定 +2.5%",
+       "match": {
+        "merchants": [
+         "中華航空",
+         "長榮航空",
+         "星宇航空",
+         "台灣中油直營站",
+         "全國加油站",
+         "台亞加油站",
+         "統一精工",
+         "福懋加油站",
+         "雄獅旅遊",
+         "可樂旅遊",
+         "東南旅遊",
+         "五福旅遊",
+         "ezTravel易遊網",
+         "Ezfly易飛網",
+         "山富旅遊",
+         "鳳凰旅行社",
+         "百威旅遊",
+         "大興旅遊",
+         "長汎旅遊",
+         "康迅旅遊"
+        ]
+       },
+       "rewardCap": 250,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "航空限官網直購；每期加碼上限 NT$250"
+      },
+      {
+       "id": "panda-wallet",
+       "rate": 0.025,
+       "label": "LINE Pay／街口 +2.5%",
+       "match": {
+        "categories": [
+         "__any__"
+        ],
+        "region": "TW"
+       },
+       "payments": [
+        "linepay",
+        "jkopay"
+       ],
+       "rewardCap": 250,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "每期加碼上限 NT$250"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rakuten-monkeys-titanium",
+   "name": "樂天桃猿鈦金卡",
+   "issuer": "樂天",
+   "source": {
+    "url": "https://www.rakuten-card.com.tw/",
+    "secondary": "https://roo.cash/creditcard/info/rakuten-cash",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/rakuten-cash），尚未逐條對照銀行官網",
+    "期間：2026/5/1～2027/4/30；刷卡金；免年費",
+    "國內精選（台灣樂天市場、桃猿指定實體店）1%、海外精選（Rakuten Kobo、樂天旅遊）1.5%，國內外各每期上限 NT$500",
+    "ASSUMPTION：一般消費 0.5%（頁面未列，比照樂天其他卡）",
+    "ASSUMPTION：精選通路回饋為總回饋；桃猿指定實體店名單未公布，未建",
+    "未納入：球票優惠、優先購票、兒童遊戲室、首刷禮",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0.005,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "rakuten-monkeys-titanium-tw",
+       "rate": 0.01,
+       "label": "台灣樂天市場",
+       "match": {
+        "merchants": [
+         "台灣樂天市場"
+        ]
+       },
+       "rewardCap": 500,
+       "uncappedRate": 0,
+       "validFrom": "2026-05-01",
+       "validTo": "2027-04-30",
+       "warn": "每期上限 NT$500"
+      },
+      {
+       "id": "rakuten-monkeys-titanium-overseas",
+       "rate": 0.015,
+       "label": "Kobo／樂天旅遊",
+       "match": {
+        "merchants": [
+         "Rakuten Kobo",
+         "樂天旅遊"
+        ]
+       },
+       "rewardCap": 500,
+       "uncappedRate": 0,
+       "validFrom": "2026-05-01",
+       "validTo": "2027-04-30",
+       "warn": "每期上限 NT$500"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rakuten-monkeys-world",
+   "name": "樂天桃猿世界卡",
+   "issuer": "樂天",
+   "source": {
+    "url": "https://www.rakuten-card.com.tw/",
+    "secondary": "https://roo.cash/creditcard/info/rakuten-world",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/rakuten-world），尚未逐條對照銀行官網",
+    "期間：2026/5/1～2027/4/30；刷卡金；年費 NT$3,880",
+    "國內精選（台灣樂天市場、桃猿指定實體店）5%、海外精選（Rakuten Kobo、樂天旅遊）5%，國內外各每期上限 NT$888",
+    "ASSUMPTION：一般消費 0.5%（頁面未列，比照樂天其他卡）",
+    "ASSUMPTION：精選通路回饋為總回饋；桃猿指定實體店名單未公布，未建",
+    "未納入：球票優惠、優先購票、兒童遊戲室、首刷禮",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0.005,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "rakuten-monkeys-world-tw",
+       "rate": 0.05,
+       "label": "台灣樂天市場",
+       "match": {
+        "merchants": [
+         "台灣樂天市場"
+        ]
+       },
+       "rewardCap": 888,
+       "uncappedRate": 0,
+       "validFrom": "2026-05-01",
+       "validTo": "2027-04-30",
+       "warn": "每期上限 NT$888"
+      },
+      {
+       "id": "rakuten-monkeys-world-overseas",
+       "rate": 0.05,
+       "label": "Kobo／樂天旅遊",
+       "match": {
+        "merchants": [
+         "Rakuten Kobo",
+         "樂天旅遊"
+        ]
+       },
+       "rewardCap": 888,
+       "uncappedRate": 0,
+       "validFrom": "2026-05-01",
+       "validTo": "2027-04-30",
+       "warn": "每期上限 NT$888"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ctbc-linepay",
+   "name": "LINE Pay 信用卡",
+   "issuer": "中國信託",
+   "source": {
+    "url": "https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C000004.html",
+    "secondary": "https://roo.cash/creditcard/info/ctbc-line",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/ctbc-line），尚未逐條對照銀行官網",
+    "回饋為 LINE POINTS（1 點＝NT$1），刷卡前需先綁定 LINE Pay",
+    "國內外一般 1%、海外實體 2.8%，無上限",
+    "ASSUMPTION：指定通路回饋屬 LINE Pay 活動，假設需以 LINE Pay 付款；頁面未列上限",
+    "未納入：最高 12～20% 的通路（淘寶、魚中魚、Klook、Hotels.com、Expedia、KKday 等，條件較多）、美妝品牌、海外 5% 登錄（已到期）、韓國指定店 25%、一卡通交通 1%、首刷禮",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay",
+    "linepay"
+   ],
+   "base": {
+    "rate": 0.01,
+    "foreignRate": 0.01,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "linepay-select-10",
+       "rate": 0.1,
+       "label": "指定通路 10%",
+       "match": {
+        "merchants": [
+         "台灣壽司郎",
+         "藏壽司",
+         "摩斯漢堡",
+         "客美多咖啡",
+         "LOPIA台灣",
+         "UNIQLO",
+         "GU",
+         "DON DON DONKI",
+         "NITORI 宜得利家居"
+        ]
+       },
+       "payments": [
+        "linepay"
+       ],
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需以 LINE Pay 付款；屬 LINE Pay「脆」系列活動，可能需領券或限量；回饋為 LINE POINTS"
+      },
+      {
+       "id": "linepay-select-8",
+       "rate": 0.08,
+       "label": "指定通路 8%",
+       "match": {
+        "merchants": [
+         "Coupang 酷澎",
+         "寵物公園"
+        ]
+       },
+       "payments": [
+        "linepay"
+       ],
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需以 LINE Pay 付款；屬 LINE Pay「脆」系列活動，可能需領券或限量；回饋為 LINE POINTS"
+      },
+      {
+       "id": "linepay-select-8b",
+       "rate": 0.08,
+       "label": "指定通路 8%",
+       "match": {
+        "merchants": [
+         "大樹藥局"
+        ]
+       },
+       "payments": [
+        "linepay"
+       ],
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需以 LINE Pay 付款；屬 LINE Pay「脆」系列活動，可能需領券或限量；回饋為 LINE POINTS"
+      },
+      {
+       "id": "linepay-select-7",
+       "rate": 0.07,
+       "label": "指定通路 7%",
+       "match": {
+        "merchants": [
+         "屈臣氏"
+        ]
+       },
+       "payments": [
+        "linepay"
+       ],
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需以 LINE Pay 付款；屬 LINE Pay「脆」系列活動，可能需領券或限量；回饋為 LINE POINTS"
+      },
+      {
+       "id": "linepay-select-6",
+       "rate": 0.06,
+       "label": "指定通路 6%",
+       "match": {
+        "merchants": [
+         "ezTravel易遊網",
+         "Dyson"
+        ]
+       },
+       "payments": [
+        "linepay"
+       ],
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需以 LINE Pay 付款；屬 LINE Pay「脆」系列活動，可能需領券或限量；回饋為 LINE POINTS"
+      },
+      {
+       "id": "linepay-select-5",
+       "rate": 0.05,
+       "label": "指定通路 5%",
+       "match": {
+        "merchants": [
+         "Uber Eats",
+         "星巴克",
+         "Pinkoi",
+         "汪喵星球",
+         "Netflix",
+         "家樂福",
+         "IKEA宜家家居",
+         "Trip.com",
+         "Airbnb",
+         "全國加油站"
+        ]
+       },
+       "payments": [
+        "linepay"
+       ],
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需以 LINE Pay 付款；屬 LINE Pay「脆」系列活動，可能需領券或限量；回饋為 LINE POINTS"
+      },
+      {
+       "id": "linepay-overseas-store",
+       "rate": 0.028,
+       "label": "海外實體 2.8%",
+       "match": {
+        "foreign": true,
+        "channel": "physical"
+       },
+       "warn": "回饋為 LINE POINTS"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ctbc-uniopen",
+   "name": "uniopen 聯名卡",
+   "issuer": "中國信託",
+   "source": {
+    "url": "https://www.ctbcbank.com/",
+    "secondary": "https://roo.cash/creditcard/info/ctbc-uniopen",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/ctbc-uniopen），尚未逐條對照銀行官網",
+    "期間：2026/9/1～2026/12/31；回饋為 OPENPOINT",
+    "ASSUMPTION：OPENPOINT 以 1 點＝NT$1 計",
+    "國內 1%、海外 2%、海外實體 3%，皆無上限；海外實體再加碼 8%（每月上限 500 點），限面對面交易（實體卡、Apple Pay、Google Pay、Samsung Pay）",
+    "統一集團品牌加碼 2%（每月上限 500 點）；綁 icash Pay 單筆滿 NT$199 再加碼 4%（每月上限 150 點）",
+    "ASSUMPTION：集團品牌＋icash Pay 的兩項上限合併為 650 點",
+    "萬家福不含線上商城",
+    "未納入：集團足跡任務（同月不同品牌各滿 199 加碼 1～4%）",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay",
+    "icashpay"
+   ],
+   "base": {
+    "rate": 0.01,
+    "foreignRate": 0.02,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "uni-overseas-store",
+       "rate": 0.11,
+       "label": "海外實體 11%",
+       "match": {
+        "foreign": true,
+        "channel": "physical"
+       },
+       "rewardCap": 500,
+       "uncappedRate": 0.03,
+       "validFrom": "2026-09-01",
+       "validTo": "2026-12-31",
+       "warn": "限面對面交易；加碼 8% 每月上限 500 點"
+      },
+      {
+       "id": "uni-overseas",
+       "rate": 0.02,
+       "label": "海外 2%",
+       "match": {
+        "foreign": true
+       }
+      },
+      {
+       "id": "uni-group",
+       "rate": 0.03,
+       "label": "統一集團 3%",
+       "match": {
+        "merchants": [
+         "7-ELEVEN",
+         "康是美",
+         "夢時代購物中心",
+         "統一時代百貨",
+         "星巴克",
+         "21風味館",
+         "Mister Donut",
+         "COLD STONE",
+         "Semeur聖娜",
+         "家樂福",
+         "Mia C'bon",
+         "Yahoo奇摩購物中心",
+         "博客來",
+         "聖德科斯",
+         "統一生機",
+         "統一精工",
+         "foodomo",
+         "黑貓宅急便",
+         "ibon 售票"
+        ]
+       },
+       "rewardCap": 500,
+       "validFrom": "2026-09-01",
+       "validTo": "2026-12-31",
+       "warn": "加碼每月上限 500 點"
+      },
+      {
+       "id": "uni-group-icash",
+       "rate": 0.07,
+       "label": "統一集團 icash Pay 7%",
+       "match": {
+        "merchants": [
+         "7-ELEVEN",
+         "康是美",
+         "夢時代購物中心",
+         "統一時代百貨",
+         "星巴克",
+         "21風味館",
+         "Mister Donut",
+         "COLD STONE",
+         "Semeur聖娜",
+         "家樂福",
+         "Mia C'bon",
+         "Yahoo奇摩購物中心",
+         "博客來",
+         "聖德科斯",
+         "統一生機",
+         "統一精工",
+         "foodomo",
+         "黑貓宅急便",
+         "ibon 售票"
+        ]
+       },
+       "payments": [
+        "icashpay"
+       ],
+       "minAmount": 199,
+       "rewardCap": 650,
+       "validFrom": "2026-09-01",
+       "validTo": "2026-12-31",
+       "warn": "需綁 icash Pay、單筆滿 NT$199；加碼每月上限約 650 點"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fubon-momo",
+   "name": "momo 卡",
+   "issuer": "富邦",
+   "source": {
+    "url": "https://www.fubon.com/banking/Personal/credit_card/all_card/momo/momo.htm",
+    "secondary": "https://roo.cash/blog/fubon-credit-card-recommendation",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/blog/fubon-credit-card-recommendation），尚未逐條對照銀行官網",
+    "momo 購物網 3% mo幣（1 mo幣＝NT$1，限 momo 折抵），至 2026/12/31；2026/10～2027/01 帳單每期上限 2,000 mo幣",
+    "店外與海外一般消費 1% 現金回饋無上限",
+    "ASSUMPTION：整理網站正文與比較表的上限不一致（1,000／2,000），採 2,000",
+    "分期交易不回饋；館內精選品牌加碼 4% 至 2026/9/30 已結束，未納入",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0.01,
+    "foreignRate": 0.01,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "momo-site",
+       "rate": 0.03,
+       "label": "momo 3%",
+       "match": {
+        "merchants": [
+         "momo購物網"
+        ]
+       },
+       "rewardCap": 2000,
+       "uncappedRate": 0,
+       "validTo": "2026-12-31",
+       "warn": "回饋為 mo幣；每期上限 2,000 mo幣"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fubon-costco",
+   "name": "Costco 聯名卡",
+   "issuer": "富邦",
+   "source": {
+    "url": "https://www.fubon.com/banking/Personal/credit_card/all_card/costco/costco.htm",
+    "secondary": "https://roo.cash/blog/fubon-credit-card-recommendation",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/blog/fubon-credit-card-recommendation），尚未逐條對照銀行官網",
+    "期間：2025/1/1～2027/12/31；回饋為好多金（1 元折抵 Costco 會費或店內消費，每年 3/31 清空前一年度）",
+    "Costco 店內（含會員年費）2%、Costco 線上 3%、自助加油站 3%（加碼 1% 每期上限 NT$200）、店外 1%，皆無上限",
+    "ASSUMPTION：海外消費與店外相同 1%（頁面未提供）",
+    "申辦需具 Costco 會員資格",
+    "未納入：高鐵台鐵滿額加碼（2026 上半年已結束）、Uber Eats Costco 專區（已結束）、新戶禮",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0.01,
+    "foreignRate": 0.01,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "costco-store",
+       "rate": 0.02,
+       "label": "Costco 店內 2%",
+       "match": {
+        "merchants": [
+         "Costco 好市多"
+        ],
+        "channel": "physical"
+       },
+       "validTo": "2027-12-31",
+       "warn": "回饋為好多金"
+      },
+      {
+       "id": "costco-online",
+       "rate": 0.03,
+       "label": "Costco 線上 3%",
+       "match": {
+        "merchants": [
+         "Costco 好市多"
+        ],
+        "channel": "online"
+       },
+       "validTo": "2027-12-31",
+       "warn": "回饋為好多金"
+      },
+      {
+       "id": "costco-gas",
+       "rate": 0.03,
+       "label": "Costco 加油 3%",
+       "match": {
+        "merchants": [
+         "Costco 自助加油站"
+        ]
+       },
+       "rewardCap": 200,
+       "uncappedRate": 0.02,
+       "validTo": "2027-12-31",
+       "warn": "加碼 1% 每期上限 NT$200；回饋為好多金"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "union-jiho",
+   "name": "吉鶴卡",
+   "issuer": "聯邦",
+   "source": {
+    "url": "https://card.ubot.com.tw/",
+    "secondary": "https://roo.cash/creditcard/info/union-jiho",
+    "capturedAt": "2026-10-24"
+   },
+   "notes": [
+    "ASSUMPTION：規則依整理網站擷取（https://roo.cash/creditcard/info/union-jiho），尚未逐條對照銀行官網",
+    "期間：2026/7/1～2026/12/31；現金回饋",
+    "國內外一般 1%；日圓請款 2.5% 無上限",
+    "日本實體 Apple Pay／Google Pay 加碼 1.5%（需登錄，每月上限 NT$600）；前月帳單滿 3 萬再加 1%（未納入，依前月）",
+    "日本熱門店家（超商、迪士尼、環球影城、AEON、三越、高島屋、BIC、Yodobashi、唐吉訶德）加碼 3%，活動期間上限 NT$600",
+    "日本交通卡日圓儲值加碼 1.5%，每月 15 日起登錄、限量 1 萬名",
+    "未納入：國內日系品牌 4%（名單未公布）、指定餐廳折扣、新戶加碼",
+    "ASSUMPTION：fxFee 1.5% 為國內常見費率"
+   ],
+   "stacking": "max",
+   "fxFee": 0.015,
+   "noSwitch": true,
+   "designatedPayments": [
+    "card",
+    "applepay",
+    "googlepay",
+    "samsungpay"
+   ],
+   "base": {
+    "rate": 0.01,
+    "foreignRate": 0.01,
+    "excludedCategories": [
+     "excluded"
+    ]
+   },
+   "plans": [
+    {
+     "id": "default",
+     "name": "不需切換",
+     "rules": [
+      {
+       "id": "jiho-jpy",
+       "rate": 0.025,
+       "label": "日圓 2.5%",
+       "match": {
+        "region": "JP"
+       },
+       "warn": "限以日圓請款"
+      },
+      {
+       "id": "jiho-jp-mobile",
+       "rate": 0.04,
+       "label": "日本行動支付 4%",
+       "match": {
+        "region": "JP",
+        "channel": "physical"
+       },
+       "payments": [
+        "applepay",
+        "googlepay"
+       ],
+       "minAmount": 100,
+       "rewardCap": 600,
+       "uncappedRate": 0.025,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "限日本實體、Apple Pay／Google Pay 感應單筆滿約 NT$100，需登錄一次；加碼每月上限 NT$600"
+      },
+      {
+       "id": "jiho-jp-stores",
+       "rate": 0.055,
+       "label": "日本熱門店家 5.5%",
+       "match": {
+        "region": "JP",
+        "merchants": [
+         "7-ELEVEN",
+         "全家便利商店",
+         "LAWSON",
+         "東京迪士尼",
+         "日本環球影城",
+         "AEON",
+         "三越",
+         "高島屋",
+         "BIC CAMERA",
+         "Yodobashi",
+         "DON DON DONKI"
+        ]
+       },
+       "rewardCap": 600,
+       "uncappedRate": 0.025,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "加碼 3% 活動期間上限 NT$600"
+      },
+      {
+       "id": "jiho-jp-stores-mobile",
+       "rate": 0.07,
+       "label": "日本熱門店家＋行動支付 7%",
+       "match": {
+        "region": "JP",
+        "merchants": [
+         "7-ELEVEN",
+         "全家便利商店",
+         "LAWSON",
+         "東京迪士尼",
+         "日本環球影城",
+         "AEON",
+         "三越",
+         "高島屋",
+         "BIC CAMERA",
+         "Yodobashi",
+         "DON DON DONKI"
+        ],
+        "channel": "physical"
+       },
+       "payments": [
+        "applepay",
+        "googlepay"
+       ],
+       "minAmount": 100,
+       "rewardCap": 1200,
+       "uncappedRate": 0.025,
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "限日本實體、Apple Pay／Google Pay 感應單筆滿約 NT$100，需登錄一次；加碼每月上限 NT$600；店家加碼期間上限 NT$600"
+      },
+      {
+       "id": "jiho-suica",
+       "rate": 0.04,
+       "label": "日本交通卡 4%",
+       "match": {
+        "merchants": [
+         "Apple錢包交通卡（Suica／PASMO／ICOCA）"
+        ]
+       },
+       "validFrom": "2026-07-01",
+       "validTo": "2026-12-31",
+       "warn": "需每月登錄（限量 1 萬名），限當月儲值"
       }
      ]
     }
