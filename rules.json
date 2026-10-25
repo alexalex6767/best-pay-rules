@@ -1,7 +1,7 @@
 {
- "version": "2026.10.24-c20bd03017",
- "generatedAt": "2026-10-24T07:38:02.596Z",
- "contentHash": "c20bd03017",
+ "version": "2026.10.25-9742522290",
+ "generatedAt": "2026-10-25T02:45:38.195Z",
+ "contentHash": "9742522290",
  "schema": 1,
  "merchants": [
   {
@@ -3881,6 +3881,7 @@
         "channel": "online"
        },
        "rewardCap": 150,
+       "capGroup": "online",
        "validFrom": "2026-09-01",
        "validTo": "2027-02-28",
        "warn": "每期加碼上限 NT$150；需電子帳單"
@@ -3896,6 +3897,7 @@
         ]
        },
        "rewardCap": 150,
+       "capGroup": "online",
        "payments": [
         "linepay",
         "jkopay",
@@ -4124,6 +4126,7 @@
         ]
        },
        "rewardCap": 1000,
+       "capGroup": "simple",
        "warn": "加碼每月上限 NT$1,000；百貨內非百貨開立發票的專櫃不算"
       },
       {
@@ -4139,6 +4142,7 @@
         "channel": "physical"
        },
        "rewardCap": 1000,
+       "capGroup": "simple",
        "warn": "限街邊店"
       },
       {
@@ -4166,6 +4170,7 @@
         "alipay"
        ],
        "rewardCap": 1000,
+       "capGroup": "simple",
        "warn": "LINE Pay 等行動支付綁卡；超商、繳費、稅款保費不算"
       },
       {
@@ -4177,6 +4182,7 @@
         "channel": "physical"
        },
        "rewardCap": 1000,
+       "capGroup": "simple",
        "warn": "限日韓泰越新中港澳美英法德義馬菲加澳紐的實體消費；英法德義不含 1% 一般回饋"
       }
      ]
@@ -4260,6 +4266,7 @@
         ]
        },
        "rewardCap": 1000,
+       "capGroup": "any8",
        "warn": "任意選需自選 8 家特店，這裡假設已選到此店；加碼每月上限 NT$1,000；百貨內非百貨開立發票的專櫃不算"
       },
       {
@@ -4275,6 +4282,7 @@
         "channel": "physical"
        },
        "rewardCap": 1000,
+       "capGroup": "any8",
        "warn": "任意選需自選 8 家特店，這裡假設已選到此店；限街邊店"
       },
       {
@@ -4302,6 +4310,7 @@
         "alipay"
        ],
        "rewardCap": 1000,
+       "capGroup": "any8",
        "warn": "任意選需自選 8 家特店，這裡假設已選到此店；LINE Pay 等行動支付綁卡；超商、繳費、稅款保費不算"
       },
       {
@@ -4313,6 +4322,7 @@
         "channel": "physical"
        },
        "rewardCap": 1000,
+       "capGroup": "any8",
        "warn": "任意選需自選 8 家特店，這裡假設已選到此店；限日韓泰越新中港澳美英法德義馬菲加澳紐的實體消費；英法德義不含 1% 一般回饋"
       }
      ]
@@ -4397,6 +4407,7 @@
         ]
        },
        "rewardCap": 5000,
+       "capGroup": "up",
        "warn": "加碼每月上限 NT$5,000；百貨內非百貨開立發票的專櫃不算"
       },
       {
@@ -4412,6 +4423,7 @@
         "channel": "physical"
        },
        "rewardCap": 5000,
+       "capGroup": "up",
        "warn": "限街邊店"
       },
       {
@@ -4439,6 +4451,7 @@
         "alipay"
        ],
        "rewardCap": 5000,
+       "capGroup": "up",
        "warn": "LINE Pay 等行動支付綁卡；超商、繳費、稅款保費不算"
       },
       {
@@ -4450,6 +4463,7 @@
         "channel": "physical"
        },
        "rewardCap": 5000,
+       "capGroup": "up",
        "warn": "限日韓泰越新中港澳美英法德義馬菲加澳紐的實體消費；英法德義不含 1% 一般回饋"
       }
      ]
@@ -4915,6 +4929,7 @@
         "channel": "physical"
        },
        "rewardCap": 800,
+       "capGroup": "select",
        "validFrom": "2026-07-01",
        "validTo": "2026-12-31",
        "warn": "需完成兩項任務；每期加碼上限 NT$800"
@@ -4940,6 +4955,7 @@
         ]
        },
        "rewardCap": 800,
+       "capGroup": "select",
        "validFrom": "2026-07-01",
        "validTo": "2026-12-31",
        "warn": "需完成兩項任務；每期加碼上限 NT$800"
@@ -4975,6 +4991,7 @@
         ]
        },
        "rewardCap": 800,
+       "capGroup": "select",
        "validFrom": "2026-07-01",
        "validTo": "2026-12-31",
        "warn": "需完成兩項任務；每期加碼上限 NT$800"
@@ -5041,6 +5058,7 @@
         ]
        },
        "rewardCap": 300,
+       "capGroup": "select",
        "validFrom": "2026-07-01",
        "validTo": "2027-03-31",
        "warn": "需自動扣繳＋電子／行動帳單；每期加碼上限 NT$300"
@@ -5058,6 +5076,7 @@
         ]
        },
        "rewardCap": 300,
+       "capGroup": "select",
        "validFrom": "2026-07-01",
        "validTo": "2027-03-31",
        "warn": "需自動扣繳＋電子／行動帳單；每期加碼上限 NT$300"
@@ -5070,6 +5089,7 @@
         "region": "JP"
        },
        "rewardCap": 300,
+       "capGroup": "select",
        "validFrom": "2026-07-01",
        "validTo": "2027-03-31",
        "warn": "限以日圓計價；需自動扣繳＋電子／行動帳單；每期加碼上限 NT$300"
@@ -5087,6 +5107,7 @@
         "pxplus"
        ],
        "rewardCap": 300,
+       "capGroup": "select",
        "validFrom": "2026-07-01",
        "validTo": "2027-03-31",
        "warn": "需綁定全支付付款；需自動扣繳＋電子／行動帳單；每期加碼上限 NT$300"
@@ -5222,6 +5243,7 @@
         ]
        },
        "rewardCap": 200,
+       "capGroup": "transport",
        "validFrom": "2026-07-01",
        "validTo": "2026-12-31",
        "warn": "需永豐自動扣繳；每月加碼上限 200 T Points"
@@ -5237,6 +5259,7 @@
         "region": "TW"
        },
        "rewardCap": 200,
+       "capGroup": "transport",
        "validFrom": "2026-07-01",
        "validTo": "2026-12-31",
        "warn": "需永豐自動扣繳；每月加碼上限 200 T Points（與交通共用）"
@@ -5377,6 +5400,7 @@
         ]
        },
        "rewardCap": 100,
+       "capGroup": "special",
        "validFrom": "2026-07-01",
        "validTo": "2026-12-31",
        "warn": "需登錄＋電子帳單＋永豐自扣；每期上限 NT$100"
@@ -5394,6 +5418,7 @@
         "quanyingpay"
        ],
        "rewardCap": 100,
+       "capGroup": "special",
        "validFrom": "2026-07-01",
        "validTo": "2026-12-31",
        "warn": "需登錄＋電子帳單＋永豐自扣；每期上限 NT$100"
@@ -5498,6 +5523,7 @@
         ]
        },
        "rewardCap": 300,
+       "capGroup": "green",
        "validFrom": "2026-07-01",
        "validTo": "2026-12-31",
        "warn": "需設定永豐／京城帳戶自動扣繳＋電子或行動帳單；每期加碼上限 NT$300"
@@ -5516,6 +5542,7 @@
         "easywallet"
        ],
        "rewardCap": 300,
+       "capGroup": "green",
        "validFrom": "2026-07-01",
        "validTo": "2026-12-31",
        "warn": "需設定永豐／京城帳戶自動扣繳＋電子或行動帳單；每期加碼上限 NT$300"
@@ -6094,6 +6121,7 @@
         ]
        },
        "rewardCap": 2500,
+       "capGroup": "select",
        "uncappedRate": 0,
        "validFrom": "2026-02-01",
        "validTo": "2026-12-31",
@@ -6110,6 +6138,7 @@
         "channel": "physical"
        },
        "rewardCap": 2500,
+       "capGroup": "select",
        "uncappedRate": 0,
        "validFrom": "2026-02-01",
        "validTo": "2026-12-31",
@@ -6182,6 +6211,7 @@
         ]
        },
        "rewardCap": 25000,
+       "capGroup": "select",
        "uncappedRate": 0,
        "validFrom": "2026-02-01",
        "validTo": "2026-12-31",
@@ -6198,6 +6228,7 @@
         "channel": "physical"
        },
        "rewardCap": 25000,
+       "capGroup": "select",
        "uncappedRate": 0,
        "validFrom": "2026-02-01",
        "validTo": "2026-12-31",
@@ -6615,6 +6646,7 @@
        },
        "minAmount": 30000,
        "rewardCap": 1500,
+       "capGroup": "package",
        "uncappedRate": 0,
        "warn": "當期指定類別累積滿 NT$30,000 才有 1.2%（未達為 0.2%）；這裡以單筆滿 3 萬判斷；每期上限 1,500 點"
       },
@@ -6629,6 +6661,7 @@
        },
        "minAmount": 30000,
        "rewardCap": 1500,
+       "capGroup": "package",
        "uncappedRate": 0,
        "warn": "當期指定類別累積滿 NT$30,000 才有 1.2%（未達為 0.2%）；這裡以單筆滿 3 萬判斷；每期上限 1,500 點"
       },
@@ -6645,6 +6678,7 @@
        },
        "minAmount": 30000,
        "rewardCap": 1500,
+       "capGroup": "package",
        "uncappedRate": 0,
        "warn": "當期指定類別累積滿 NT$30,000 才有 1.2%（未達為 0.2%）；這裡以單筆滿 3 萬判斷；每期上限 1,500 點"
       }
@@ -6958,6 +6992,7 @@
          "2": 4000
         }
        },
+       "capGroup": "select",
        "validFrom": "2026-07-01",
        "validTo": "2027-06-30",
        "warn": "等級 2（回饋達檻＋滙豐帳戶資產 30 萬）可用 5,000 點換 NT$10,000 刷卡金，等於回饋加倍；每期上限 2,000 點"
@@ -6985,6 +7020,7 @@
          "2": 4000
         }
        },
+       "capGroup": "select",
        "validFrom": "2026-07-01",
        "validTo": "2027-06-30",
        "warn": "等級 2（回饋達檻＋滙豐帳戶資產 30 萬）可用 5,000 點換 NT$10,000 刷卡金，等於回饋加倍；每期上限 2,000 點"
@@ -7225,6 +7261,7 @@
         ]
        },
        "rewardCap": 300,
+       "capGroup": "daily",
        "validFrom": "2026-07-01",
        "validTo": "2026-12-31",
        "warn": "需當月登錄；每月上限 NT$300"
@@ -7242,6 +7279,7 @@
         "linepay"
        ],
        "rewardCap": 300,
+       "capGroup": "daily",
        "validFrom": "2026-07-01",
        "validTo": "2026-12-31",
        "warn": "需當月登錄；每月上限 NT$300；不含 LINE Pay 生活繳費"
@@ -7763,6 +7801,7 @@
         "region": "JP"
        },
        "rewardCap": 600,
+       "capGroup": "overseas",
        "validTo": "2026-12-31",
        "warn": "每期加碼上限 600 點"
       },
@@ -7774,6 +7813,7 @@
         "region": "OTHER"
        },
        "rewardCap": 600,
+       "capGroup": "overseas",
        "validTo": "2026-12-31",
        "warn": "限韓、泰、新、美洲、歐洲；每期加碼上限 600 點"
       },
@@ -8434,6 +8474,7 @@
         "jkopay"
        ],
        "rewardCap": 500,
+       "capGroup": "bonus",
        "validTo": "2026-12-31",
        "warn": "加碼為 tigerpoints；每期上限 500 點"
       },
@@ -8447,6 +8488,7 @@
         ]
        },
        "rewardCap": 500,
+       "capGroup": "bonus",
        "validTo": "2026-12-31",
        "warn": "加碼為 tigerpoints；每期上限 500 點"
       }
@@ -8535,6 +8577,7 @@
         ]
        },
        "rewardCap": 250,
+       "capGroup": "domestic",
        "validFrom": "2026-07-01",
        "validTo": "2026-12-31",
        "warn": "航空限官網直購；每期加碼上限 NT$250"
@@ -8554,6 +8597,7 @@
         "jkopay"
        ],
        "rewardCap": 250,
+       "capGroup": "domestic",
        "validFrom": "2026-07-01",
        "validTo": "2026-12-31",
        "warn": "每期加碼上限 NT$250"
@@ -8968,6 +9012,7 @@
         ]
        },
        "rewardCap": 500,
+       "capGroup": "group",
        "validFrom": "2026-09-01",
        "validTo": "2026-12-31",
        "warn": "加碼每月上限 500 點"
@@ -9004,6 +9049,7 @@
        ],
        "minAmount": 199,
        "rewardCap": 650,
+       "capGroup": "group",
        "validFrom": "2026-09-01",
        "validTo": "2026-12-31",
        "warn": "需綁 icash Pay、單筆滿 NT$199；加碼每月上限約 650 點"
@@ -9214,6 +9260,7 @@
        ],
        "minAmount": 100,
        "rewardCap": 600,
+       "capGroup": "jp-mobile",
        "uncappedRate": 0.025,
        "validFrom": "2026-07-01",
        "validTo": "2026-12-31",
@@ -9240,6 +9287,7 @@
         ]
        },
        "rewardCap": 600,
+       "capGroup": "jp-stores",
        "uncappedRate": 0.025,
        "validFrom": "2026-07-01",
        "validTo": "2026-12-31",
@@ -9272,6 +9320,10 @@
        ],
        "minAmount": 100,
        "rewardCap": 1200,
+       "capGroup": [
+        "jp-mobile",
+        "jp-stores"
+       ],
        "uncappedRate": 0.025,
        "validFrom": "2026-07-01",
        "validTo": "2026-12-31",
