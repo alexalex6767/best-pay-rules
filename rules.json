@@ -1,7 +1,7 @@
 {
- "version": "2026.10.25-9742522290",
- "generatedAt": "2026-10-25T02:45:38.195Z",
- "contentHash": "9742522290",
+ "version": "2026.10.26-ca429adad3",
+ "generatedAt": "2026-10-26T12:37:38.049Z",
+ "contentHash": "ca429adad3",
  "schema": 1,
  "merchants": [
   {
@@ -9344,6 +9344,64 @@
       }
      ]
     }
+   ]
+  }
+ ],
+ "gateways": [
+  {
+   "key": "ecpay",
+   "name": "綠界",
+   "domains": [
+    "payment.ecpay.com.tw",
+    "payment-stage.ecpay.com.tw"
+   ]
+  },
+  {
+   "key": "newebpay",
+   "name": "藍新",
+   "domains": [
+    "core.newebpay.com",
+    "ccore.newebpay.com"
+   ]
+  },
+  {
+   "key": "other",
+   "name": "PAYUNi 統一金流",
+   "domains": [
+    "api.payuni.com.tw",
+    "sandbox-api.payuni.com.tw"
+   ]
+  },
+  {
+   "key": "other",
+   "name": "TapPay",
+   "domains": [
+    "js.tappaysdk.com",
+    "redirect.tappaysdk.com"
+   ]
+  },
+  {
+   "key": "other",
+   "name": "紅陽",
+   "domains": [
+    "www.esafe.com.tw",
+    "test.esafe.com.tw"
+   ]
+  },
+  {
+   "key": "other",
+   "name": "中國信託收單",
+   "domains": [
+    "epos.ctbcbank.com",
+    "testepos.ctbcbank.com"
+   ]
+  },
+  {
+   "key": "other",
+   "name": "玉山收單",
+   "domains": [
+    "acq.esunbank.com.tw",
+    "acqtest.esunbank.com.tw"
    ]
   }
  ]
